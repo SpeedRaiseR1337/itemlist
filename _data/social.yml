@@ -1,29 +1,30 @@
 # Icons on the footer
 rss: false
-email_address:
-behance:
-bitbucket:
-dribbble:
-facebook:
-flickr:
-gitlab:
-github:
-instagram:
-keybase:
-linkedin:
-pinterest:
-reddit:
-soundcloud:
-stack_overflow:
-stack_exchange:
-steam:
-tumblr:
-twitter:
-vimeo:
-wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
-tiktok:
+email_address: false
+behance: false
+bitbucket: false
+dribbble: false
+facebook: false
+flickr: false
+gitlab: false
+github: SpeedRaiseR1337
+instagram: urgewalt.techno
+keybase: false
+linkedin: false
+pinterest: false
+reddit: false
+soundcloud: urgewalt-techno
+stack_overflow: false
+stack_exchange: false
+steam: SpeedRaiseR
+tumblr: false
+twitter: RaiseSpeed
+vimeo: false
+wordpress: false
+# Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
+youtube: false
+twitch: speedraiser
+tiktok: false
 
 # Share button options
 share:
