@@ -301,6 +301,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "item",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -337,7 +342,7 @@
 	},
 	{
 		"abr": "healall",
-		"price": 10000,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
@@ -377,7 +382,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 3500,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -436,5 +441,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 88
 }
