@@ -4286,13 +4286,13 @@
     },
     {
       "abr": "fernreparatur-implantat",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "RemoteRepairer",
       "price": 2000
     },
     {
       "abr": "fernschild-implantat",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "RemoteShielder",
       "price": 2000
     },
@@ -6794,13 +6794,13 @@
     },
     {
       "abr": "kontroll-sublink(mittelstufe)",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "ControlSublink",
       "price": 2000
     },
     {
       "abr": "kontroll-sublink(oberstufe)",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "ControlSublinkHigh",
       "price": 2000
     },
@@ -7814,7 +7814,7 @@
     },
     {
       "abr": "mech-gestation-prozessor",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "MechFormfeeder",
       "price": 2000
     },
@@ -7826,7 +7826,7 @@
     },
     {
       "abr": "mechlink",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "Mechlink",
       "price": 833
     },
@@ -11972,7 +11972,7 @@
     },
     {
       "abr": "reparatursonde",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "RepairProbe",
       "price": 2000
     },
@@ -22016,7 +22016,7 @@
     },
     {
       "abr": "ultramechlink",
-      "category": "Archotech",
+      "category": "Mechtech",
       "defname": "UltraMechlink",
       "price": 833
     },
@@ -22051,16 +22051,70 @@
       "price": 3
     },
     {
-      "abr": "zombrella",
+      "abr": "kinderstammeskleidung",
       "category": "Diverses",
-      "defname": "Zombrella",
-      "price": 3333
+      "defname": "Apparel_KidTribal",
+      "price": 108
+    },
+    {
+      "abr": "nadelwerfer",
+      "category": "Fernkampfwaffen",
+      "defname": "Gun_NeedleLauncher",
+      "price": 2333
+    },
+    {
+      "abr": "poluxsamen",
+      "category": "Diverses",
+      "defname": "PoluxSeed",
+      "price": 2000
+    },
+    {
+      "abr": "handelsplatz",
+      "category": "Diverses",
+      "defname": "TradingSpot",
+      "price": -10
+    },
+    {
+      "abr": "doppelterwandkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleWallRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "großerkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_QuadRefrigerator",
+      "price": 307
+    },
+    {
+      "abr": "kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_Refrigerator",
+      "price": 186
+    },
+    {
+      "abr": "mini-kühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_SingleRefrigerator",
+      "price": 121
+    },
+    {
+      "abr": "wandkühlschrank",
+      "category": "Möbel",
+      "defname": "RimFridge_WallRefrigerator",
+      "price": 186
     },
     {
       "abr": "zombgrella",
       "category": "Diverses",
       "defname": "Zombgrella",
       "price": 642
+    },
+    {
+      "abr": "zombrella",
+      "category": "Diverses",
+      "defname": "Zombrella",
+      "price": 3333
     },
     {
       "abr": "gäste-bett",
@@ -22078,13 +22132,13 @@
       "abr": "gäste-königlichesbett",
       "category": "Möbel",
       "defname": "RoyalBedGuest",
-      "price": 1467
+      "price": 1450
     },
     {
       "abr": "gäste-intensivbett",
       "category": "Möbel",
       "defname": "HospitalBedGuest",
-      "price": 667
+      "price": 675
     },
     {
       "abr": "gäste-schlafsack",
@@ -22120,7 +22174,7 @@
       "abr": "gäste-todesschlaf-sarg",
       "category": "Diverses",
       "defname": "DeathrestCasketGuest",
-      "price": 492
+      "price": 500
     },
     {
       "abr": "gäste-babybett",
@@ -22132,7 +22186,7 @@
       "abr": "gäste-re-ambulationpod",
       "category": "Möbel",
       "defname": "ambTableGuest",
-      "price": 8258
+      "price": 8233
     },
     {
       "abr": "gäste-herbalbed",
@@ -22144,13 +22198,13 @@
       "abr": "gäste-roboticbed",
       "category": "Möbel",
       "defname": "MedBedGuest",
-      "price": 1850
+      "price": 1858
     },
     {
       "abr": "gäste-cyberneticbed",
       "category": "Möbel",
       "defname": "IIMedGuest",
-      "price": 6683
+      "price": 6667
     },
     {
       "abr": "gäste-operatingtable",
@@ -22180,19 +22234,19 @@
       "abr": "gäste-ergonomicbed",
       "category": "Möbel",
       "defname": "Bed_ErgonomicGuest",
-      "price": 450
+      "price": 458
     },
     {
       "abr": "gäste-ergonomicdoublebed",
       "category": "Möbel",
       "defname": "Bed_DoubleErgonomicGuest",
-      "price": 867
+      "price": 875
     },
     {
       "abr": "gäste-royalposterbed",
       "category": "Möbel",
       "defname": "Bed_KingsizeGuest",
-      "price": 2008
+      "price": 1983
     },
     {
       "abr": "gäste-ancientbed",
@@ -22210,20 +22264,20 @@
       "abr": "gäste-hemnesdoublebed",
       "category": "Möbel",
       "defname": "LTS_HemnesDoubleGuest",
-      "price": 442
+      "price": 450
     },
     {
       "abr": "gäste-hemnesbed",
       "category": "Möbel",
       "defname": "LTS_HemnesSingleGuest",
-      "price": 279
+      "price": 280
     },
     {
       "abr": "gäste-hangingbed",
       "category": "Möbel",
       "defname": "LTS_HangingBedGuest",
-      "price": 128
+      "price": 129
     }
   ],
-  "total": 3704
+  "total": 3713
 }

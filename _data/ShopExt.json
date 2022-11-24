@@ -712,7 +712,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy feels limited in sein feeble human body. er often dreams of being enhanced by artificial body parts.",
+      "description": "Timmy feels limited in sein feeble human body. er often dreams of being enhanced with artificial body parts or xenogenetics.",
       "stats": [],
       "conflicts": [
         "bodypurist"
@@ -738,7 +738,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes the human body is limited for a reason. To ihn, artificial body parts are unethical and disgusting.",
+      "description": "Timmy believes the human body is limited for a reason. To ihn, artificial body parts and xenogenes are unethical and disgusting.",
       "stats": [],
       "conflicts": [
         "bodymodder"
