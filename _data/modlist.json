@@ -307,7 +307,7 @@
   },
   {
     "author": "3tes",
-    "name": "Craftable Glitter Tech Weapons and Apparels Continued",
+    "name": "FAserver Fixes CGTWaAC",
     "steamId": null,
     "version": null
   },
@@ -405,7 +405,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8359.30522"
+    "version": "1.0.8362.14900"
   },
   {
     "author": "Dubwise",
@@ -446,8 +446,8 @@
   {
     "author": "Uuugggg",
     "name": "Everybody Gets One",
-    "steamId": "1687566130",
-    "version": "1.0.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kikohi und Trunken",
@@ -537,7 +537,7 @@
     "author": "CrashM",
     "name": "CM Color Coded Mood Bar [1.1+]",
     "steamId": "2006605356",
-    "version": "1.4.3509.1"
+    "version": "1.4.3566.2"
   },
   {
     "author": "Dubwise",
@@ -789,7 +789,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.8360.41522"
+    "version": "1.0.8369.20891"
   },
   {
     "author": "EbeneezerSquid",
@@ -825,7 +825,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.7"
+    "version": "1.4.0.10"
   },
   {
     "author": "jeonggihun",
@@ -1099,9 +1099,9 @@
   },
   {
     "author": "Alaestor und VeteranXT)",
-    "name": "Misc. Robots++ (Forked)",
-    "steamId": null,
-    "version": null
+    "name": "Misc. Robots++ (Adopted)",
+    "steamId": "2881047829",
+    "version": "3.2.0.0"
   },
   {
     "author": "jeonggihun",
@@ -1347,7 +1347,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1119.0"
+    "version": "1.4.1205.0"
   },
   {
     "author": "Linq",
@@ -1562,8 +1562,8 @@
   {
     "author": "Owlchemist und Mlie",
     "name": "Simple FX: Smoke",
-    "steamId": "2574489704",
-    "version": "1.4"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Owlchemist",
@@ -1767,7 +1767,7 @@
     "author": "José Ángel Soler Ortiz",
     "name": "TraderGen",
     "steamId": "2804121197",
-    "version": "0.4.2.0"
+    "version": "0.4.3.0"
   },
   {
     "author": "Carny Senpai",

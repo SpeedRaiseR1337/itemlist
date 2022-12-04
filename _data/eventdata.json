@@ -210,9 +210,9 @@
   "meteor": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 600,
     "Mod": "Twitch Toolkit"
   },
   "maninblack": {
@@ -233,17 +233,17 @@
   },
   "psychicdrone": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "psychicsoothe": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 600,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -361,18 +361,18 @@
   },
   "raid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 60,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
   "dropraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 600,
+    "LocalCooldown": 1200,
     "Mod": "Twitch Toolkit"
   },
   "sapperraid": {
@@ -401,10 +401,10 @@
   },
   "infestation": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 600,
+    "LocalCooldown": 1200,
     "Mod": "Twitch Toolkit"
   },
   "manhunterpack": {

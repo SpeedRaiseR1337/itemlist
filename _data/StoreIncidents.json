@@ -67,17 +67,17 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 999,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 65000,
 		"karmatype": "Doom"
 	},
 	{
@@ -222,22 +222,22 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 3000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1500,
+		"price": 15000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 18000,
 		"karmatype": "Bad"
 	},
 	{
@@ -247,7 +247,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2500,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +272,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 1200,
+		"price": 900,
 		"karmatype": "Good"
 	},
 	{
@@ -332,27 +332,27 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 22664,
+		"price": 13337,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 2833,
+		"price": 1800,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 17336,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +372,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 1200,
+		"price": 800,
 		"karmatype": "Neutral"
 	},
 	{
@@ -382,7 +382,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 7000,
+		"price": 3500,
 		"karmatype": "Good"
 	},
 	{
@@ -437,7 +437,7 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 100000,
+		"price": 1000,
 		"karmatype": "Good"
 	}
 	],
