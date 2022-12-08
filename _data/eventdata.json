@@ -377,26 +377,26 @@
   },
   "sapperraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 500,
+    "LocalCooldown": 6000,
     "Mod": "Twitch Toolkit"
   },
   "siegeraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 600,
+    "LocalCooldown": 5000,
     "Mod": "Twitch Toolkit"
   },
   "mechanoidraid": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 600,
+    "LocalCooldown": 5000,
     "Mod": "Twitch Toolkit"
   },
   "infestation": {

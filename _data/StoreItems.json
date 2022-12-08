@@ -2792,7 +2792,7 @@
 	},
 	{
 		"abr": "constructionbot",
-		"price": -10,
+		"price": 16,
 		"category": "Animal",
 		"defname": "AIRobot_ConstructionBot"
 	},
@@ -8198,7 +8198,7 @@
 	},
 	{
 		"abr": "miningbot",
-		"price": -10,
+		"price": 170,
 		"category": "Animal",
 		"defname": "AIRobot_MiningBot"
 	},
@@ -22842,6 +22842,30 @@
 		"category": "Animal",
 		"defname": "RPP_Bot_Omni_V"
 	},
+	{
+		"abr": "gardenfish",
+		"price": 3,
+		"category": "Garden meat",
+		"defname": "VG_GardenFish"
+	},
+	{
+		"abr": "simplefishtrap",
+		"price": 46,
+		"category": "Diverses",
+		"defname": "VG_FishTrap"
+	},
+	{
+		"abr": "zombgrella",
+		"price": 642,
+		"category": "Diverses",
+		"defname": "Zombgrella"
+	},
+	{
+		"abr": "zombrella",
+		"price": 3333,
+		"category": "Diverses",
+		"defname": "Zombrella"
+	},
 	],
-	"total": 3809
+	"total": 3824
 }

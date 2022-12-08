@@ -228,17 +228,17 @@
 	{
 		"abr": "dropraid",
 		"price": 10000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
 		"price": 15000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
 		"price": 18000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
