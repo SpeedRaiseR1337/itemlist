@@ -702,6 +702,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "[XND] Visible Pants",
+    "steamId": "2264108215",
+    "version": "2.4"
+  },
+  {
     "author": "EbeneezerSquid",
     "name": "Item Mods Load Order Mod Series",
     "steamId": null,
@@ -1416,6 +1428,12 @@
     "version": null
   },
   {
+    "author": "LingLuo;Alexia",
+    "name": "Plant Human",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "民火",
     "name": "Predator Hunt Alert",
     "steamId": "1537786185",
@@ -1776,6 +1794,12 @@
     "version": null
   },
   {
+    "author": "RemingtonRyder",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.8387.22941"
+  },
+  {
     "author": "Linkolas",
     "name": "Stabilize",
     "steamId": null,
@@ -1986,6 +2010,30 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki und Taranchuk",
+    "name": "Vanilla Ideology Expanded - Splits and Schisms",
+    "steamId": "2573138902",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Path Avoid",
+    "steamId": "1180719857",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "legodude17 und Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
@@ -2157,12 +2205,6 @@
     "author": "Kiame Vivacity und Taranchuk",
     "name": "[KV] Call Trade Ships [1.4]",
     "steamId": "",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Path Avoid",
-    "steamId": "1180719857",
     "version": "1.0.0.0"
   },
   {
