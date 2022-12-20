@@ -315,7 +315,7 @@
 	{
 		"abr": "airwire-headset",
 		"price": 383,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_AirwireHeadset"
 	},
 	{
@@ -783,7 +783,7 @@
 	{
 		"abr": "archotecheraser",
 		"price": 1083,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "VFEI_Artifacts_ArchotechEraser"
 	},
 	{
@@ -801,7 +801,7 @@
 	{
 		"abr": "archotechshieldbelt",
 		"price": 2183,
-		"category": "Hilfsmittel",
+		"category": "Artefakte",
 		"defname": "VFEI_Apparel_ArchotechShieldBelt"
 	},
 	{
@@ -885,7 +885,7 @@
 	{
 		"abr": "array-headset",
 		"price": 600,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_ArrayHeadset"
 	},
 	{
@@ -975,7 +975,7 @@
 	{
 		"abr": "augenbinde",
 		"price": 74,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Blindfold"
 	},
 	{
@@ -1077,7 +1077,7 @@
 	{
 		"abr": "autoritätsmütze",
 		"price": 92,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_AuthorityCap"
 	},
 	{
@@ -1179,7 +1179,7 @@
 	{
 		"abr": "bandana",
 		"price": 91,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "VFES_Headgear_Bandana"
 	},
 	{
@@ -1221,7 +1221,7 @@
 	{
 		"abr": "barett",
 		"price": 141,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Beret"
 	},
 	{
@@ -2865,7 +2865,7 @@
 	{
 		"abr": "cowboyhut",
 		"price": 94,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_CowboyHat"
 	},
 	{
@@ -3075,7 +3075,7 @@
 	{
 		"abr": "damenhut",
 		"price": 203,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_HatLadies"
 	},
 	{
@@ -3237,7 +3237,7 @@
 	{
 		"abr": "diadem",
 		"price": 215,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Coronet"
 	},
 	{
@@ -3717,25 +3717,25 @@
 	{
 		"abr": "eltex-helm",
 		"price": 833,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_PsyfocusHelmet"
 	},
 	{
 		"abr": "eltex-hemd",
 		"price": 667,
-		"category": "Diverses",
+		"category": "Special Apparel",
 		"defname": "Apparel_PsyfocusShirt"
 	},
 	{
 		"abr": "eltex-kappe",
 		"price": 833,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_EltexSkullcap"
 	},
 	{
 		"abr": "eltex-robe",
 		"price": 1000,
-		"category": "Diverses",
+		"category": "Outerlayers",
 		"defname": "Apparel_PsyfocusRobe"
 	},
 	{
@@ -3747,7 +3747,7 @@
 	{
 		"abr": "eltex-weste",
 		"price": 833,
-		"category": "Diverses",
+		"category": "Special Apparel",
 		"defname": "Apparel_PsyfocusVest"
 	},
 	{
@@ -4593,7 +4593,7 @@
 	{
 		"abr": "flatcap",
 		"price": 95,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "VFES_Headgear_FlatCap"
 	},
 	{
@@ -4659,13 +4659,13 @@
 	{
 		"abr": "formelleweste",
 		"price": 222,
-		"category": "Adlige Kleidung",
+		"category": "Outerlayers",
 		"defname": "Apparel_VestRoyal"
 	},
 	{
 		"abr": "formelleshemd",
 		"price": 253,
-		"category": "Adlige Kleidung",
+		"category": "Outerlayers",
 		"defname": "Apparel_ShirtRuffle"
 	},
 	{
@@ -4917,7 +4917,7 @@
 	{
 		"abr": "gasmaske",
 		"price": 176,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_GasMask"
 	},
 	{
@@ -5349,7 +5349,7 @@
 	{
 		"abr": "greatdress",
 		"price": 221,
-		"category": "Kleidung",
+		"category": "Outerlayers",
 		"defname": "Apparel_GreatDress"
 	},
 	{
@@ -5385,7 +5385,7 @@
 	{
 		"abr": "grenadierrüstung",
 		"price": 3842,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorMarineGrenadier"
 	},
 	{
@@ -5499,7 +5499,7 @@
 	{
 		"abr": "gunlink",
 		"price": 575,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_Gunlink"
 	},
 	{
@@ -5517,7 +5517,7 @@
 	{
 		"abr": "halbkappe",
 		"price": 62,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Slicecap"
 	},
 	{
@@ -5721,13 +5721,13 @@
 	{
 		"abr": "helm",
 		"price": 153,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_SimpleHelmet"
 	},
 	{
 		"abr": "hemd",
 		"price": 166,
-		"category": "Diverses",
+		"category": "Innerlayers",
 		"defname": "Apparel_CollarShirt"
 	},
 	{
@@ -5937,7 +5937,7 @@
 	{
 		"abr": "hose",
 		"price": 143,
-		"category": "Diverses",
+		"category": "Innerlayers",
 		"defname": "Apparel_Pants"
 	},
 	{
@@ -6345,7 +6345,7 @@
 	{
 		"abr": "integrator-headset",
 		"price": 4058,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_IntegratorHeadset"
 	},
 	{
@@ -6423,7 +6423,7 @@
 	{
 		"abr": "jacke",
 		"price": 275,
-		"category": "Diverses",
+		"category": "Outerlayers",
 		"defname": "Apparel_Jacket"
 	},
 	{
@@ -6543,7 +6543,7 @@
 	{
 		"abr": "kapuze",
 		"price": 203,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_HatHood"
 	},
 	{
@@ -6573,13 +6573,13 @@
 	{
 		"abr": "kataphrakthelm",
 		"price": 1242,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_ArmorHelmetCataphract"
 	},
 	{
 		"abr": "kataphraktrüstung",
 		"price": 5200,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorCataphract"
 	},
 	{
@@ -6591,7 +6591,7 @@
 	{
 		"abr": "kegelhut",
 		"price": 94,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Shadecone"
 	},
 	{
@@ -6627,7 +6627,7 @@
 	{
 		"abr": "kinderhelm",
 		"price": 79,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_KidHelmet"
 	},
 	{
@@ -6807,7 +6807,7 @@
 	{
 		"abr": "kopftuch",
 		"price": 111,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Broadwrap"
 	},
 	{
@@ -6825,7 +6825,7 @@
 	{
 		"abr": "korsett",
 		"price": 222,
-		"category": "Adlige Kleidung",
+		"category": "Outerlayers",
 		"defname": "Apparel_Corset"
 	},
 	{
@@ -6843,13 +6843,13 @@
 	{
 		"abr": "kriegsmaske",
 		"price": 101,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_WarMask"
 	},
 	{
 		"abr": "krone",
 		"price": 322,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Crown"
 	},
 	{
@@ -6891,7 +6891,7 @@
 	{
 		"abr": "labcoat",
 		"price": 290,
-		"category": "Kleidung",
+		"category": "Outerlayers",
 		"defname": "LabCoat"
 	},
 	{
@@ -7563,13 +7563,13 @@
 	{
 		"abr": "marinehelm",
 		"price": 1058,
-		"category": "Kopfbedeckung",
+		"category": "ExoHelmets",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
 		"abr": "marinerüstung",
 		"price": 3392,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
@@ -7587,7 +7587,7 @@
 	{
 		"abr": "maske",
 		"price": 62,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_VisageMask"
 	},
 	{
@@ -7713,7 +7713,7 @@
 	{
 		"abr": "mechacombathelmet",
 		"price": 1833,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_MechaCombatHelmet"
 	},
 	{
@@ -7731,13 +7731,13 @@
 	{
 		"abr": "mechaheavyhelmet",
 		"price": 1833,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_MechaHeavyHelmet"
 	},
 	{
 		"abr": "mechahelmet",
 		"price": 1667,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_MechaHelmet"
 	},
 	{
@@ -7761,7 +7761,7 @@
 	{
 		"abr": "mechasniperhelmet",
 		"price": 1833,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_MechaSniperHelmet"
 	},
 	{
@@ -7809,7 +7809,7 @@
 	{
 		"abr": "mechcommander-helm",
 		"price": 2150,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_ArmorHelmetMechCommander"
 	},
 	{
@@ -7833,13 +7833,13 @@
 	{
 		"abr": "mechlord-helm",
 		"price": 8892,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_ArmorHelmetMechlordHelmet"
 	},
 	{
 		"abr": "mechlord-rüstung",
 		"price": 11692,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_MechlordSuit"
 	},
 	{
@@ -7959,7 +7959,7 @@
 	{
 		"abr": "melone",
 		"price": 77,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_BowlerHat"
 	},
 	{
@@ -8391,7 +8391,7 @@
 	{
 		"abr": "mundschutz",
 		"price": 38,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_ClothMask"
 	},
 	{
@@ -8451,7 +8451,7 @@
 	{
 		"abr": "mütze",
 		"price": 74,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Tuque"
 	},
 	{
@@ -8523,7 +8523,7 @@
 	{
 		"abr": "nanosuithelmet",
 		"price": 3000,
-		"category": "Kopfbedeckung",
+		"category": "ExoHelmets",
 		"defname": "Apparel_NanoSuitHelmet"
 	},
 	{
@@ -9573,13 +9573,13 @@
 	{
 		"abr": "orbitalbombardierung-zielgerät",
 		"price": 2000,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
 		"abr": "orbitalenergiestrahl-zielgerät",
 		"price": 2000,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
@@ -9591,7 +9591,7 @@
 	{
 		"abr": "orbital-mech-cluster-zielgerät",
 		"price": 2000,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "OrbitalTargeterMechCluster"
 	},
 	{
@@ -9639,7 +9639,7 @@
 	{
 		"abr": "orioncorporationhelmet",
 		"price": 1167,
-		"category": "Kleidung",
+		"category": "Helmets",
 		"defname": "Apparel_OCHelmet"
 	},
 	{
@@ -9657,13 +9657,13 @@
 	{
 		"abr": "orionuniformpants",
 		"price": 1333,
-		"category": "Kleidung",
+		"category": "Innerlayers",
 		"defname": "Apparel_OCPants"
 	},
 	{
 		"abr": "orionuniformshirt",
 		"price": 1333,
-		"category": "Kleidung",
+		"category": "Innerlayers",
 		"defname": "Apparel_OCShirt"
 	},
 	{
@@ -9879,7 +9879,7 @@
 	{
 		"abr": "parka",
 		"price": 315,
-		"category": "Diverses",
+		"category": "Outerlayers",
 		"defname": "Apparel_Parka"
 	},
 	{
@@ -10845,7 +10845,7 @@
 	{
 		"abr": "phönixrüstung",
 		"price": 5800,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorCataphractPhoenix"
 	},
 	{
@@ -10983,7 +10983,7 @@
 	{
 		"abr": "plattenrüstung",
 		"price": 792,
-		"category": "Rüstung",
+		"category": "Body Armor",
 		"defname": "Apparel_PlateArmor"
 	},
 	{
@@ -11091,43 +11091,43 @@
 	{
 		"abr": "prestige-kataphrakthelm",
 		"price": 1925,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_ArmorHelmetCataphractPrestige"
 	},
 	{
 		"abr": "prestige-kataphraktrüstung",
 		"price": 6550,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorCataphractPrestige"
 	},
 	{
 		"abr": "prestige-marinehelm",
 		"price": 1417,
-		"category": "Kopfbedeckung",
+		"category": "ExoHelmets",
 		"defname": "Apparel_ArmorMarineHelmetPrestige"
 	},
 	{
 		"abr": "prestige-marinerüstung",
 		"price": 4217,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorMarinePrestige"
 	},
 	{
 		"abr": "prestige-robe",
 		"price": 450,
-		"category": "Adlige Kleidung",
+		"category": "Outerlayers",
 		"defname": "Apparel_RobeRoyal"
 	},
 	{
 		"abr": "prestige-späherhelm",
 		"price": 1192,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_ArmorHelmetReconPrestige"
 	},
 	{
 		"abr": "prestige-späherrüstung",
 		"price": 3292,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorReconPrestige"
 	},
 	{
@@ -11199,7 +11199,7 @@
 	{
 		"abr": "psychicanimaltamer",
 		"price": 1083,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "VFEI_Artifacts_PsychicAnimalTamer"
 	},
 	{
@@ -11217,7 +11217,7 @@
 	{
 		"abr": "psychicpacifier",
 		"price": 1083,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "VFEI_Artifacts_PsychicPacifier"
 	},
 	{
@@ -11229,7 +11229,7 @@
 	{
 		"abr": "psycho-berserker-lanze",
 		"price": 1083,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "Apparel_PsychicInsanityLance"
 	},
 	{
@@ -11253,7 +11253,7 @@
 	{
 		"abr": "psycho-folienhelm",
 		"price": 417,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
 	{
@@ -11277,7 +11277,7 @@
 	{
 		"abr": "psycho-schock-lanze",
 		"price": 917,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "Apparel_PsychicShockLance"
 	},
 	{
@@ -11721,7 +11721,7 @@
 	{
 		"abr": "rauchrucksack",
 		"price": 277,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -12111,13 +12111,13 @@
 	{
 		"abr": "riotarmor",
 		"price": 667,
-		"category": "Rüstung",
+		"category": "Body Armor",
 		"defname": "VFE_Apparel_RiotArmor"
 	},
 	{
 		"abr": "riothelmet",
 		"price": 315,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "VFE_Apparel_RiotHelmet"
 	},
 	{
@@ -12609,7 +12609,7 @@
 	{
 		"abr": "schildgürtel",
 		"price": 650,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -12633,7 +12633,7 @@
 	{
 		"abr": "schildrucksack",
 		"price": 717,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "Apparel_PackBroadshield"
 	},
 	{
@@ -12657,13 +12657,13 @@
 	{
 		"abr": "schlappmütze",
 		"price": 74,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Flophat"
 	},
 	{
 		"abr": "schleier",
 		"price": 75,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_WarVeil"
 	},
 	{
@@ -12735,31 +12735,31 @@
 	{
 		"abr": "schutzhelm",
 		"price": 442,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_AdvancedHelmet"
 	},
 	{
 		"abr": "schutzhose",
 		"price": 375,
-		"category": "Rüstung",
+		"category": "Body Armor",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "schutzjacke",
 		"price": 483,
-		"category": "Rüstung",
+		"category": "Body Armor",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "schutzweste",
 		"price": 375,
-		"category": "Rüstung",
+		"category": "Body Armor",
 		"defname": "Apparel_FlakVest"
 	},
 	{
 		"abr": "schweifmütze",
 		"price": 75,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Tailcap"
 	},
 	{
@@ -13083,7 +13083,7 @@
 	{
 		"abr": "sklavenhalsband",
 		"price": 94,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Collar"
 	},
 	{
@@ -13365,7 +13365,7 @@
 	{
 		"abr": "sombrero",
 		"price": 97,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "VFES_Headgear_Sombrero"
 	},
 	{
@@ -13407,13 +13407,13 @@
 	{
 		"abr": "späherhelm",
 		"price": 875,
-		"category": "Kopfbedeckung",
+		"category": "Helmets",
 		"defname": "Apparel_ArmorHelmetRecon"
 	},
 	{
 		"abr": "späherrüstung",
 		"price": 2567,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorRecon"
 	},
 	{
@@ -13533,7 +13533,7 @@
 	{
 		"abr": "sprungrucksack",
 		"price": 1075,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "Apparel_PackJump"
 	},
 	{
@@ -13623,13 +13623,13 @@
 	{
 		"abr": "stammeskleidung",
 		"price": 211,
-		"category": "Diverses",
+		"category": "Innerlayers",
 		"defname": "Apparel_TribalA"
 	},
 	{
 		"abr": "stammeskopftuch",
 		"price": 203,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_TribalHeaddress"
 	},
 	{
@@ -13641,7 +13641,7 @@
 	{
 		"abr": "staubmantel",
 		"price": 327,
-		"category": "Diverses",
+		"category": "Outerlayers",
 		"defname": "Apparel_Duster"
 	},
 	{
@@ -13683,7 +13683,7 @@
 	{
 		"abr": "stellischekrone",
 		"price": 283,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_CrownStellic"
 	},
 	{
@@ -14511,7 +14511,7 @@
 	{
 		"abr": "tornado-generator",
 		"price": 1333,
-		"category": "Hilfsmittel",
+		"category": "Accessories",
 		"defname": "TornadoGenerator"
 	},
 	{
@@ -14649,7 +14649,7 @@
 	{
 		"abr": "t-shirt",
 		"price": 143,
-		"category": "Diverses",
+		"category": "Innerlayers",
 		"defname": "Apparel_BasicShirt"
 	},
 	{
@@ -14661,7 +14661,7 @@
 	{
 		"abr": "turban",
 		"price": 75,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_Headwrap"
 	},
 	{
@@ -14739,7 +14739,7 @@
 	{
 		"abr": "umhang",
 		"price": 367,
-		"category": "Adlige Kleidung",
+		"category": "Outerlayers",
 		"defname": "Apparel_Cape"
 	},
 	{
@@ -15021,7 +15021,7 @@
 	{
 		"abr": "vest",
 		"price": 183,
-		"category": "Kleidung",
+		"category": "Outerlayers",
 		"defname": "Apparel_Vest"
 	},
 	{
@@ -15369,7 +15369,7 @@
 	{
 		"abr": "x-1cyberneticbodydefensesuit",
 		"price": 3333,
-		"category": "Kleidung",
+		"category": "ExoSuits",
 		"defname": "Apparel_CyberSuit"
 	},
 	{
@@ -15381,13 +15381,13 @@
 	{
 		"abr": "xma-1leviathanmcahelmet",
 		"price": 2500,
-		"category": "Kleidung",
+		"category": "ExoHelmets",
 		"defname": "Apparel_LeviathanH"
 	},
 	{
 		"abr": "xma-1leviathanmechanizedcombatarmature",
 		"price": 8333,
-		"category": "Kleidung",
+		"category": "ExoSuits",
 		"defname": "Apparel_Leviathan"
 	},
 	{
@@ -15447,7 +15447,7 @@
 	{
 		"abr": "zikadenrüstung",
 		"price": 3717,
-		"category": "Rüstung",
+		"category": "ExoSuits",
 		"defname": "Apparel_ArmorLocust"
 	},
 	{
@@ -15459,7 +15459,7 @@
 	{
 		"abr": "zylinder",
 		"price": 203,
-		"category": "Kopfbedeckung",
+		"category": "Hats",
 		"defname": "Apparel_HatTop"
 	},
 	{
@@ -21333,7 +21333,7 @@
 	{
 		"abr": "boots",
 		"price": 135,
-		"category": "Boots and gloves",
+		"category": "Footwear",
 		"defname": "Apparel_boots"
 	},
 	{
@@ -21357,7 +21357,7 @@
 	{
 		"abr": "feetwraps",
 		"price": 55,
-		"category": "Boots and gloves",
+		"category": "Footwear",
 		"defname": "Apparel_feetwraps"
 	},
 	{
@@ -21369,7 +21369,7 @@
 	{
 		"abr": "handwraps",
 		"price": 55,
-		"category": "Boots and gloves",
+		"category": "Handwear",
 		"defname": "Apparel_handwraps"
 	},
 	{
@@ -21405,25 +21405,25 @@
 	{
 		"abr": "medicgloves",
 		"price": 135,
-		"category": "Boots and gloves",
+		"category": "Handwear",
 		"defname": "Apparel_medic_gloves"
 	},
 	{
 		"abr": "militaryboots",
 		"price": 240,
-		"category": "Boots and gloves",
+		"category": "Footwear",
 		"defname": "Apparel_military_Boots"
 	},
 	{
 		"abr": "minergloves",
 		"price": 129,
-		"category": "Boots and gloves",
+		"category": "Handwear",
 		"defname": "Apparel_thick_gloves"
 	},
 	{
 		"abr": "ring",
 		"price": 163,
-		"category": "Boots and gloves",
+		"category": "Accessories",
 		"defname": "Apparel_ring"
 	},
 	{
@@ -21435,7 +21435,7 @@
 	{
 		"abr": "sandals",
 		"price": 77,
-		"category": "Boots and gloves",
+		"category": "Footwear",
 		"defname": "Apparel_sandals"
 	},
 	{
@@ -21453,7 +21453,7 @@
 	{
 		"abr": "shoes",
 		"price": 240,
-		"category": "Boots and gloves",
+		"category": "Footwear",
 		"defname": "Apparel_shoes"
 	},
 	{
@@ -21465,13 +21465,13 @@
 	{
 		"abr": "socks",
 		"price": 94,
-		"category": "Boots and gloves",
+		"category": "Footwear",
 		"defname": "Apparel_Socks"
 	},
 	{
 		"abr": "workgloves",
 		"price": 95,
-		"category": "Boots and gloves",
+		"category": "Handwear",
 		"defname": "Apparel_work_gloves"
 	},
 	{
@@ -22855,17 +22855,71 @@
 		"defname": "VG_FishTrap"
 	},
 	{
-		"abr": "zombgrella",
-		"price": 642,
-		"category": "Diverses",
-		"defname": "Zombgrella"
+		"abr": "designermate",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "DesignerMatesXH"
 	},
 	{
-		"abr": "zombrella",
+		"abr": "fischnetz",
+		"price": 167,
+		"category": "Produktion",
+		"defname": "WFFT_FishNet"
+	},
+	{
+		"abr": "glitterworldhuman",
+		"price": 4167,
+		"category": "Animal",
+		"defname": "GlitterWorlderRace"
+	},
+	{
+		"abr": "gravitydwarf",
+		"price": 3500,
+		"category": "Animal",
+		"defname": "HighGravWorlderRace"
+	},
+	{
+		"abr": "lo-gravhuman",
+		"price": 3500,
+		"category": "Animal",
+		"defname": "LowGravWorlderRace"
+	},
+	{
+		"abr": "radworldhuman",
+		"price": 2583,
+		"category": "Animal",
+		"defname": "RadWorlderRace"
+	},
+	{
+		"abr": "reuse",
+		"price": 100,
+		"category": "Produktion",
+		"defname": "WFFT_FishTrap"
+	},
+	{
+		"abr": "scaleman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "ScaleManXH"
+	},
+	{
+		"abr": "soldiermorph",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "SoldiermorphXH"
+	},
+	{
+		"abr": "vatdrone",
 		"price": 3333,
-		"category": "Diverses",
-		"defname": "Zombrella"
+		"category": "Animal",
+		"defname": "VatgrownHumanRace"
+	},
+	{
+		"abr": "wolfman",
+		"price": 2917,
+		"category": "Animal",
+		"defname": "WolfManXH"
 	},
 	],
-	"total": 3824
+	"total": 3832
 }

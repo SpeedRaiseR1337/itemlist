@@ -5543,6 +5543,50 @@
       },
       "defName": "Stoner",
       "name": "stoner"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile"
     }
   ],
   "races": [
@@ -5566,7 +5610,238 @@
       "defName": "Human",
       "enabled": true,
       "name": "Mensch",
+      "price": 1000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Gewicht",
+          "+100% Entflammbarkeit",
+          "+120% Mentale Sensibilität",
+          "+$1750 Marktwert",
+          "+4.60 Laufgeschwindigkeit",
+          "+16.0C Minimale Wohlfühltemperatur",
+          "+26.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+3 Ehre-Wertigkeit"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "Designer mates are genetically engineered on glitterworlds to be the perfect mate. This is a decendant of one of them that still inherits most of the traits.",
+      "defName": "DesignerMatesXH",
+      "enabled": true,
+      "name": "designer mate",
       "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Gewicht",
+          "+100% Entflammbarkeit",
+          "+$1750 Marktwert",
+          "+4.20 Laufgeschwindigkeit",
+          "+30.0C Minimale Wohlfühltemperatur",
+          "+46.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+6.0% Rüstung - Wucht",
+          "+12.0% Rüstung - Schnitt",
+          "+3 Ehre-Wertigkeit"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A genetically modified human. Either through gene therapy or environmental pressure this kind of human has developed a think leathery skin. Scalemen are slightly slower and tire quicker than normal humans but they are highly adapted to hot biomes, need less food and have some natural armor.",
+      "defName": "ScaleManXH",
+      "enabled": true,
+      "name": "Scaleman",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Gewicht",
+          "+100% Entflammbarkeit",
+          "+$1750 Marktwert",
+          "+4.60 Laufgeschwindigkeit",
+          "+16.0C Minimale Wohlfühltemperatur",
+          "+26.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+3 Ehre-Wertigkeit"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A genetically altered human usually breed for combat. Soldiermorphs feel less pain, are tougher and need less food. However they have a very low life expectancy and learn new things slower than an average human.",
+      "defName": "SoldiermorphXH",
+      "enabled": true,
+      "name": "soldiermorph",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Gewicht",
+          "+100% Entflammbarkeit",
+          "+$1750 Marktwert",
+          "+4.60 Laufgeschwindigkeit",
+          "-14.0C Minimale Wohlfühltemperatur",
+          "+22.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+3 Ehre-Wertigkeit",
+          "+8.0% Rüstung - Wucht",
+          "+6.0% Rüstung - Schnitt"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A genetically altered version of the baseline human. This wolflike human has altered hands with retractable claws capable of inflicting serious damage. Animallike instincts are more present in this person and wolfmen often have a short fuse and are easy to anger.",
+      "defName": "WolfManXH",
+      "enabled": true,
+      "name": "wolfman",
+      "price": 2917
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Gewicht",
+          "+70% Entflammbarkeit",
+          "+$2500 Marktwert",
+          "+4.60 Laufgeschwindigkeit",
+          "+16.0C Minimale Wohlfühltemperatur",
+          "+26.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+4 Ehre-Wertigkeit",
+          "+41% Nervenbelastungsgrenze",
+          "+110.00% Verhandlungsgeschick",
+          "+110.00% Handelspreisverbesserung",
+          "+140.00% Sozialer Eindruck",
+          "+115% Forschungsgeschwindigkeit",
+          "+90% Tarnung beim Jagen",
+          "+115% Global-Lernrate-Faktor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Xenohuman hailing from a luxurious Glitterworld, genetically modified to enhance charisma, intellect, and to satisfy an odd, bygone fashion trend. This particular Glitterworlder seems to be encrusted in decorative 'gemstones', though the stones are little more than polished calcium deposits grown naturally by their body.",
+      "defName": "GlitterWorlderRace",
+      "enabled": true,
+      "name": "glitterworld human",
+      "price": 4167
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+80.00 Gewicht",
+          "+70% Entflammbarkeit",
+          "+$2100 Marktwert",
+          "+4.50 Laufgeschwindigkeit",
+          "+16.0C Minimale Wohlfühltemperatur",
+          "+26.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+3 Ehre-Wertigkeit",
+          "+90 Tragekapazität",
+          "+87% Schmerzschockschwelle",
+          "+120% Gesteinsabbaugeschwindigkeit",
+          "+120% Baugeschwindigkeit",
+          "+80% Forschungsgeschwindigkeit"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Xenohuman whose biology seems to have stemmed from evolutionary adaptations to high-gravity planets. They are quite short, but their strength is unmatched by most. However, their intellectual prowess, or rather lack thereof, is less than impressive.",
+      "defName": "HighGravWorlderRace",
+      "enabled": true,
+      "name": "gravity dwarf",
+      "price": 3500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+50.00 Gewicht",
+          "+70% Entflammbarkeit",
+          "+$2100 Marktwert",
+          "+4.70 Laufgeschwindigkeit",
+          "+16.0C Minimale Wohlfühltemperatur",
+          "+26.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+3 Ehre-Wertigkeit",
+          "+130% Mentale Sensibilität",
+          "+55 Tragekapazität",
+          "+85% Gesteinsabbaugeschwindigkeit",
+          "+130% Forschungsgeschwindigkeit",
+          "+85% Baugeschwindigkeit"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Xenohuman originating from a planet with significantly lower gravity than usual. Over time, their metabolic resources seem to have redistributed more towards brain development than managing atrophy. As such, they are physically frail but superior to most others intellectually.",
+      "defName": "LowGravWorlderRace",
+      "enabled": true,
+      "name": "lo-grav human",
+      "price": 3500
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Gewicht",
+          "+70% Entflammbarkeit",
+          "+$1550 Marktwert",
+          "+4.60 Laufgeschwindigkeit",
+          "+16.0C Minimale Wohlfühltemperatur",
+          "+26.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+2 Ehre-Wertigkeit",
+          "+30% Nervenbelastungsgrenze",
+          "+120% Immunisiergeschwindigkeit",
+          "+90.00% Verhandlungsgeschick",
+          "+80.00% Handelspreisverbesserung",
+          "+70.00% Sozialer Eindruck"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Xenohuman descendant from surviving denizens of a toxic Radworld. Their immune system has adapted over time to foreign chemical and radiological hazards, making them nigh-immune to diseases and infections. Appearance, it seems, was left by the wayside, and they are quite hideous to look at, much less speak to.",
+      "defName": "RadWorlderRace",
+      "enabled": true,
+      "name": "radworld human",
+      "price": 2583
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+60.00 Gewicht",
+          "+70% Entflammbarkeit",
+          "+$2000 Marktwert",
+          "+4.70 Laufgeschwindigkeit",
+          "+16.0C Minimale Wohlfühltemperatur",
+          "+26.0C Maximale Wohlfühltemperatur",
+          "+75 Ledermenge",
+          "+3 Ehre-Wertigkeit",
+          "+75% Immunisiergeschwindigkeit",
+          "+120% Geschwindigkeit alle Arbeiten",
+          "+80.00% Verhandlungsgeschick",
+          "+80.00% Handelspreisverbesserung",
+          "+80.00% Sozialer Eindruck",
+          "+85% Global-Lernrate-Faktor"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "A Xenohuman genetically engineered both physically and neurologically to be the perfect worker at a very specific task. Bred and modified for complete and utter obedience at the whims of a now-unknown faction, they excel at most forms of skilled and simple labor, but learn new concepts quite slowly.",
+      "defName": "VatgrownHumanRace",
+      "enabled": true,
+      "name": "vatdrone",
+      "price": 3333
     }
   ]
 }

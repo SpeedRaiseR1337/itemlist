@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -67,17 +62,17 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 1500,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 999,
+		"price": 500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 65000,
+		"price": 6500,
 		"karmatype": "Doom"
 	},
 	{
@@ -222,32 +217,32 @@
 	},
 	{
 		"abr": "raid",
-		"price": 3000,
-		"karmatype": "Bad"
+		"price": 5000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "dropraid",
-		"price": 10000,
+		"price": 30000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "sapperraid",
-		"price": 15000,
+		"price": 8000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "siegeraid",
-		"price": 18000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
+		"price": 5000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "infestation",
-		"price": 7500,
+		"price": 20000,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,7 +267,7 @@
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 900,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -332,27 +327,27 @@
 	},
 	{
 		"abr": "reviveall",
-		"price": 13337,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 1800,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
-		"price": 5000,
+		"price": 17336,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healanypawn",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 1000,
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
@@ -372,7 +367,7 @@
 	},
 	{
 		"abr": "rescueme",
-		"price": 800,
+		"price": 1200,
 		"karmatype": "Neutral"
 	},
 	{
@@ -382,7 +377,7 @@
 	},
 	{
 		"abr": "passion",
-		"price": 3500,
+		"price": 7000,
 		"karmatype": "Good"
 	},
 	{
@@ -437,9 +432,9 @@
 	},
 	{
 		"abr": "sanctuary",
-		"price": 1000,
+		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 88
+	"total": 87
 }
