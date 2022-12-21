@@ -4898,7 +4898,7 @@
 	},
 	{
 		"abr": "gardenerbot",
-		"price": -10,
+		"price": 16,
 		"category": "Animal",
 		"defname": "AIRobot_GardenerBot"
 	},
@@ -22856,7 +22856,7 @@
 	},
 	{
 		"abr": "designermate",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "DesignerMatesXH"
 	},
@@ -22868,25 +22868,25 @@
 	},
 	{
 		"abr": "glitterworldhuman",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GlitterWorlderRace"
 	},
 	{
 		"abr": "gravitydwarf",
-		"price": 3500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "HighGravWorlderRace"
 	},
 	{
 		"abr": "lo-gravhuman",
-		"price": 3500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "LowGravWorlderRace"
 	},
 	{
 		"abr": "radworldhuman",
-		"price": 2583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RadWorlderRace"
 	},
@@ -22898,28 +22898,544 @@
 	},
 	{
 		"abr": "scaleman",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ScaleManXH"
 	},
 	{
 		"abr": "soldiermorph",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SoldiermorphXH"
 	},
 	{
 		"abr": "vatdrone",
-		"price": 3333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "VatgrownHumanRace"
 	},
 	{
 		"abr": "wolfman",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "WolfManXH"
 	},
+	{
+		"abr": "ancientairconditioner",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientAirConditioner"
+	},
+	{
+		"abr": "ancientatm",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientATM"
+	},
+	{
+		"abr": "ancientbarrel",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientBarrel"
+	},
+	{
+		"abr": "ancientbed",
+		"price": 5,
+		"category": "Diverses",
+		"defname": "VME_AncientBed"
+	},
+	{
+		"abr": "ancientcontainer",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientContainer"
+	},
+	{
+		"abr": "ancientcrate",
+		"price": 2,
+		"category": "Diverses",
+		"defname": "VME_AncientCrate"
+	},
+	{
+		"abr": "ancientdisplaybank",
+		"price": 9,
+		"category": "Diverses",
+		"defname": "VME_AncientDisplayBank"
+	},
+	{
+		"abr": "ancientengineblock",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientRustedEngineBlock"
+	},
+	{
+		"abr": "ancientequipmentblocks",
+		"price": 12,
+		"category": "Diverses",
+		"defname": "VME_AncientEquipmentBlocks"
+	},
+	{
+		"abr": "ancientfence",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientFence"
+	},
+	{
+		"abr": "ancientgenerator",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientGenerator"
+	},
+	{
+		"abr": "ancientgiantwheel",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientGiantWheel"
+	},
+	{
+		"abr": "ancienthydrant",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientHydrant"
+	},
+	{
+		"abr": "ancientkitchensink",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientKitchenSink"
+	},
+	{
+		"abr": "ancientlargecrate",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientLargeCrate"
+	},
+	{
+		"abr": "ancientlockerbank",
+		"price": 5,
+		"category": "Diverses",
+		"defname": "VME_AncientLockerBank"
+	},
+	{
+		"abr": "ancientlongcrate",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientLongCrate"
+	},
+	{
+		"abr": "ancientmachine",
+		"price": 18,
+		"category": "Diverses",
+		"defname": "VME_AncientMachine"
+	},
+	{
+		"abr": "ancientmacro-engineblock",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientLargeRustedEngineBlock"
+	},
+	{
+		"abr": "ancientmechdropbeacon",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientMechDropBeacon"
+	},
+	{
+		"abr": "ancientmechanoiddetritus",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientMechanoidShell"
+	},
+	{
+		"abr": "ancientmega-cannonbarrel",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientMegaCannonBarrel"
+	},
+	{
+		"abr": "ancientmega-cannonplatform",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientMegaCannonTripod"
+	},
+	{
+		"abr": "ancientmicrowave",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientMicrowave"
+	},
+	{
+		"abr": "ancientmilitarycrate",
+		"price": 2,
+		"category": "Diverses",
+		"defname": "VME_AncientMilitaryCrate"
+	},
+	{
+		"abr": "ancientmilitaryheavydoor",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "MA_MilitaryDoorBrokenA"
+	},
+	{
+		"abr": "ancientnavbeacon",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientShipBeacon"
+	},
+	{
+		"abr": "ancientoperatingtable",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientOperatingTable"
+	},
+	{
+		"abr": "ancientoven",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientOven"
+	},
+	{
+		"abr": "ancientpipes",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientPipes"
+	},
+	{
+		"abr": "ancientpostbox",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientPostbox"
+	},
+	{
+		"abr": "ancientrazorwire",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientRazorWire"
+	},
+	{
+		"abr": "ancientrefrigerator",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientRefrigerator"
+	},
+	{
+		"abr": "ancientsecurityturret",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientSecurityTurret"
+	},
+	{
+		"abr": "ancientshoppingcart",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientShoppingCart"
+	},
+	{
+		"abr": "ancientsmallcrate",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientSmallCrate"
+	},
+	{
+		"abr": "ancientspacejunk",
+		"price": 2,
+		"category": "Diverses",
+		"defname": "VME_AncientSpaceJunk"
+	},
+	{
+		"abr": "ancientspacercrate",
+		"price": 2,
+		"category": "Diverses",
+		"defname": "VME_AncientSpacerCrate"
+	},
+	{
+		"abr": "ancientstoragecylinder",
+		"price": 12,
+		"category": "Diverses",
+		"defname": "VME_AncientStorageCylinder"
+	},
+	{
+		"abr": "ancientstove",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientStove"
+	},
+	{
+		"abr": "ancientsystemrack",
+		"price": 9,
+		"category": "Diverses",
+		"defname": "VME_AncientSystemRack"
+	},
+	{
+		"abr": "ancienttanktrap",
+		"price": 1,
+		"category": "Diverses",
+		"defname": "VME_AncientTankTrap"
+	},
+	{
+		"abr": "ancienttoilet",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientToilet"
+	},
+	{
+		"abr": "ancientvendingmachine",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientVendingMachine"
+	},
+	{
+		"abr": "ancientwashingmachine",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientWashingMachine"
+	},
+	{
+		"abr": "ancientwheel",
+		"price": -10,
+		"category": "Diverses",
+		"defname": "VME_AncientWheel"
+	},
+	{
+		"abr": "bonfire",
+		"price": 833,
+		"category": "Diverses",
+		"defname": "VME_Bonfire"
+	},
+	{
+		"abr": "bonfire",
+		"price": 36,
+		"category": "Diverses",
+		"defname": "VME_BonfireAfterRitual"
+	},
+	{
+		"abr": "brokenmilitaryblastdoor",
+		"price": 320,
+		"category": "Diverses",
+		"defname": "MA_BrokenDoor"
+	},
+	{
+		"abr": "eldritchslab(broad)",
+		"price": 508,
+		"category": "Möbel",
+		"defname": "VME_EldritchSlab_Broad"
+	},
+	{
+		"abr": "eldritchslab(medium)",
+		"price": 342,
+		"category": "Möbel",
+		"defname": "VME_EldritchSlab_Medium"
+	},
+	{
+		"abr": "esotericismslab(broad)",
+		"price": 508,
+		"category": "Möbel",
+		"defname": "VME_EsotericismSlab_Broad"
+	},
+	{
+		"abr": "esotericismslab(medium)",
+		"price": 342,
+		"category": "Möbel",
+		"defname": "VME_EsotericismSlab_Medium"
+	},
+	{
+		"abr": "fleshcraftedarm",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedArm"
+	},
+	{
+		"abr": "fleshcraftedear",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedEar"
+	},
+	{
+		"abr": "fleshcraftedeye",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedEye"
+	},
+	{
+		"abr": "fleshcraftedfinger",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedFinger"
+	},
+	{
+		"abr": "fleshcraftedfoot",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedFoot"
+	},
+	{
+		"abr": "fleshcraftedhand",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedHand"
+	},
+	{
+		"abr": "fleshcraftedheart",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedHeart"
+	},
+	{
+		"abr": "fleshcraftedjaw",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedJaw"
+	},
+	{
+		"abr": "fleshcraftedkidney",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedKidney"
+	},
+	{
+		"abr": "fleshcraftedleg",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedLeg"
+	},
+	{
+		"abr": "fleshcraftedliver",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedLiver"
+	},
+	{
+		"abr": "fleshcraftedlung",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedLung"
+	},
+	{
+		"abr": "fleshcraftednose",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedNose"
+	},
+	{
+		"abr": "fleshcraftedspine",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedSpine"
+	},
+	{
+		"abr": "fleshcraftedstomach",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedStomach"
+	},
+	{
+		"abr": "fleshcraftedtoe",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedToe"
+	},
+	{
+		"abr": "fleshcraftedtongue",
+		"price": 75,
+		"category": "Natürlich",
+		"defname": "VME_FleshcraftedTongue"
+	},
+	{
+		"abr": "largefishingtrap",
+		"price": 281,
+		"category": "Produktion",
+		"defname": "VME_LargeFishingTrap"
+	},
+	{
+		"abr": "mechanoideffigy",
+		"price": 800,
+		"category": "Sicherheit",
+		"defname": "VME_MechanoidEffigy"
+	},
+	{
+		"abr": "mediumfishingtrap",
+		"price": 206,
+		"category": "Produktion",
+		"defname": "VME_MediumFishingTrap"
+	},
+	{
+		"abr": "militaryheavydoorgreen",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "MA_MilitaryDoorGreen"
+	},
+	{
+		"abr": "militaryheavydoorred",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "MA_MilitaryDoorRed"
+	},
+	{
+		"abr": "ominousobelisk",
+		"price": 367,
+		"category": "Diverses",
+		"defname": "VME_Obelisk"
+	},
+	{
+		"abr": "reinforcedairlockgreen",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "Reinforced_AirlockDoorGreen"
+	},
+	{
+		"abr": "reinforcedairlockred",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "Reinforced_AirlockDoorRed"
+	},
+	{
+		"abr": "rustedairlock",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "Reinforced_AirlockDoorBrokenA"
+	},
+	{
+		"abr": "rustedmilitaryheavydoor",
+		"price": 658,
+		"category": "Diverses",
+		"defname": "MA_MilitaryDoorBrokenB"
+	},
+	{
+		"abr": "shintaoslab(broad)",
+		"price": 508,
+		"category": "Möbel",
+		"defname": "VME_TaoistSlab_Broad"
+	},
+	{
+		"abr": "shintaoslab(medium)",
+		"price": 342,
+		"category": "Möbel",
+		"defname": "VME_TaoistSlab_Medium"
+	},
+	{
+		"abr": "smallfishingtrap",
+		"price": 131,
+		"category": "Produktion",
+		"defname": "VME_SmallFishingTrap"
+	},
+	{
+		"abr": "tacklebox",
+		"price": 18,
+		"category": "Hilfsmittel",
+		"defname": "VME_TackleBox"
+	},
+	{
+		"abr": "wickerman",
+		"price": 178,
+		"category": "Diverses",
+		"defname": "VME_WickerMan"
+	},
+	{
+		"abr": "youthserum",
+		"price": 2333,
+		"category": "Objekte",
+		"defname": "MechSerumYouth"
+	},
 	],
-	"total": 3832
+	"total": 3921
 }
