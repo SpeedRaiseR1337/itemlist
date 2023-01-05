@@ -12,6 +12,18 @@
     "version": "10.0.1"
   },
   {
+    "author": "spoonshortage",
+    "name": "A Dog Said... Animal Prosthetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "A Dog Said... Animal Prosthetics - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Hey my team rules!",
     "name": "Advanced Biomes (Continued)",
     "steamId": "2052116426",
@@ -38,6 +50,12 @@
   {
     "author": "Roolo",
     "name": "Almost There!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Suno und Neceros",
+    "name": "Animal Medical Bed",
     "steamId": null,
     "version": null
   },
@@ -69,7 +87,7 @@
     "author": "Mehni",
     "name": "More Faction Interaction (Continued)",
     "steamId": "2379076640",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Orion",
@@ -384,6 +402,18 @@
     "version": "1.0.2"
   },
   {
+    "author": "Revolus",
+    "name": "Dogs mate (Continued)",
+    "steamId": "2441132298",
+    "version": "1.4.3"
+  },
+  {
+    "author": "神马终日行",
+    "name": "Dogs mate_zh",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "tikubonn",
     "name": "DontBlockDoor",
     "steamId": null,
@@ -423,7 +453,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8362.14900"
+    "version": "1.0.8391.36780"
   },
   {
     "author": "Dubwise",
@@ -466,6 +496,12 @@
     "name": "TDS Bug Fixes",
     "steamId": "2895035527",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "DerekBickley",
+    "name": "[LTO] Colony Groups",
+    "steamId": "2345493945",
+    "version": "1.0.06"
   },
   {
     "author": "Uuugggg",
@@ -556,12 +592,6 @@
     "name": "Pawn Badge Fan Fork [Adopted]",
     "steamId": "2526040241",
     "version": "1.0.0"
-  },
-  {
-    "author": "DerekBickley",
-    "name": "[LTO] Colony Groups",
-    "steamId": "2345493945",
-    "version": "1.0.06"
   },
   {
     "author": "CrashM",
@@ -1167,7 +1197,7 @@
     "author": "erdelf",
     "name": "MinifyEverything",
     "steamId": "872762753",
-    "version": "1.0.8333.23023"
+    "version": "1.0.8393.27870"
   },
   {
     "author": "Haplo",
@@ -1461,7 +1491,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1206.0"
+    "version": "1.4.1236.0"
   },
   {
     "author": "Linq",
@@ -1743,7 +1773,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Proxyer",
@@ -1798,6 +1828,18 @@
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
     "version": "1.0.8387.22941"
+  },
+  {
+    "author": "Spidercamp",
+    "name": "Spidercamp's Dog Pack (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tausret",
+    "name": "Spidercamp's Dog Pack (Continued) Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Linkolas",
@@ -2014,6 +2056,12 @@
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Ideology Expanded - Memes and Structures - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki und Taranchuk",
