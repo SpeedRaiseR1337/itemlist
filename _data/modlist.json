@@ -54,18 +54,6 @@
     "version": null
   },
   {
-    "author": "Suno und Neceros",
-    "name": "Animal Medical Bed",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Animal Tab",
-    "steamId": "712141500",
-    "version": "4.7.272"
-  },
-  {
     "author": "Nals",
     "name": "[NL] Facial Animation - WIP",
     "steamId": "1635901197",
@@ -82,6 +70,36 @@
     "name": "Humanoid Alien Races",
     "steamId": "839005762",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.4",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dekeche",
+    "name": "Android Conversion for RW 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peptide",
+    "name": "Androids Expanded for RW 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Suno und Neceros",
+    "name": "Animal Medical Bed",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Fluffy",
+    "name": "Animal Tab",
+    "steamId": "712141500",
+    "version": "4.7.272"
   },
   {
     "author": "Mehni",
@@ -1332,6 +1350,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "JBloodthorn",
+    "name": "No Lazy Doctors",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Captain Muscles (Nathan Harbour) und SaberVS7",
     "name": "No One Left Behind",
     "steamId": "2879457494",
@@ -1458,6 +1482,12 @@
     "version": null
   },
   {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.6.0"
+  },
+  {
     "author": "LingLuo;Alexia",
     "name": "Plant Human",
     "steamId": null,
@@ -1491,7 +1521,7 @@
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
-    "version": "1.4.1236.0"
+    "version": "1.4.1240.0"
   },
   {
     "author": "Linq",
