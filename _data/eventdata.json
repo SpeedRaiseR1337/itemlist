@@ -121,10 +121,10 @@
   },
   "shortcircuit": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "HasGlobalCooldown": true,
+    "HasLocalCooldown": true,
+    "GlobalCooldown": 120,
+    "LocalCooldown": 320,
     "Mod": "Twitch Toolkit"
   },
   "toxicfallout": {
@@ -202,9 +202,9 @@
   "orbitaltraderarrival": {
     "EventType": "Default",
     "HasGlobalCooldown": true,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 120,
-    "LocalCooldown": 0,
+    "LocalCooldown": 60,
     "Mod": "Twitch Toolkit"
   },
   "meteor": {
@@ -363,7 +363,7 @@
     "EventType": "Default",
     "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 60,
+    "GlobalCooldown": 240,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },

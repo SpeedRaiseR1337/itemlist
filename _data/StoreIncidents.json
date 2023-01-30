@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
@@ -232,8 +232,8 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 5000,
-		"karmatype": "Bad"
+		"price": 7500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
