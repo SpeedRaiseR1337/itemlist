@@ -78,6 +78,12 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Almost There! - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ekksu / Xen / Cucumpear / Thirite / Whizzard / Lindseyrie / Walking Problem",
     "name": "Animal Collab Project Vanilla-Style",
     "steamId": null,
@@ -248,6 +254,12 @@
   {
     "author": "Techmago",
     "name": "Boots and Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sisco",
+    "name": "Buildable Terrain v1",
     "steamId": null,
     "version": null
   },
@@ -840,6 +852,48 @@
     "version": null
   },
   {
+    "author": "Allie und Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Genetics",
+    "steamId": "2910172297",
+    "version": "1.0.8408.3493"
+  },
+  {
+    "author": "Oskar Potocki, Trunken und Sarg Bjornson",
+    "name": "Vanilla Weapons Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "James009",
+    "name": "Medieval Fantasy Xenotypes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Madman666",
+    "name": "Medieval Madness: Tools of the Trade",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tausret und bartdbx",
+    "name": "Medieval Overhaul Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ogam;Taranchuk;ILuvSilicon",
     "name": "Rimedieval",
     "steamId": "2516523040",
@@ -858,16 +912,16 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken und Sarg Bjornson",
-    "name": "Vanilla Weapons Expanded",
+    "author": "Arquebus",
+    "name": "Medieval Persona Weapons",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki und XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
+    "author": "Oken",
+    "name": "Medieval Quest Rewards",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Distman (Ministry Of Mom)",
@@ -978,12 +1032,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "JBloodthorn",
-    "name": "No Lazy Doctors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Captain Muscles (Nathan Harbour) und SaberVS7",
     "name": "No One Left Behind",
     "steamId": "2879457494",
@@ -1086,16 +1134,16 @@
     "version": null
   },
   {
-    "author": "Neptimus7",
-    "name": "Progress Renderer",
-    "steamId": "2010777010",
-    "version": "1.4"
-  },
-  {
     "author": "void",
     "name": "Character Editor",
     "steamId": "1874644848",
     "version": "1.4.1240.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Linq",
@@ -1962,16 +2010,22 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Orion",
-    "name": "Xeva's Rimhair",
+    "author": "Albion",
+    "name": "Xenohumans - Gen-spliced Xenos on the Rim",
     "steamId": null,
     "version": null
   },
   {
-    "author": "YAYO",
-    "name": "Yayo's Animation (Continued)",
-    "steamId": "2877292196",
-    "version": "1.0.0.0"
+    "author": "ILuvSilicon",
+    "name": "Xenohumans Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Xeva's Rimhair",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "CopperMonster",
