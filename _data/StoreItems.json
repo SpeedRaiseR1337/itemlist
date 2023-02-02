@@ -182,7 +182,7 @@
 	},
 	{
 		"abr": "animus-stein",
-		"price": 8333,
+		"price": 8350,
 		"category": "Diverses",
 		"defname": "AnimusStone"
 	},
@@ -236,7 +236,7 @@
 	},
 	{
 		"abr": "architkapsel",
-		"price": 1167,
+		"price": 1142,
 		"category": "Diverses",
 		"defname": "ArchiteCapsule"
 	},
@@ -482,7 +482,7 @@
 	},
 	{
 		"abr": "bearrug",
-		"price": 202,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_BearRug"
 	},
@@ -566,7 +566,7 @@
 	},
 	{
 		"abr": "bildnis",
-		"price": 178,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Effigy"
 	},
@@ -584,7 +584,7 @@
 	},
 	{
 		"abr": "bioformerkapsel",
-		"price": 758,
+		"price": 783,
 		"category": "Diverses",
 		"defname": "BiosculpterPod"
 	},
@@ -650,7 +650,7 @@
 	},
 	{
 		"abr": "blutfackel",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SanguphageMeetingTorch"
 	},
@@ -662,7 +662,7 @@
 	},
 	{
 		"abr": "bong",
-		"price": 492,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Burnbong"
 	},
@@ -746,7 +746,7 @@
 	},
 	{
 		"abr": "burka",
-		"price": 224,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Burka"
 	},
@@ -938,7 +938,7 @@
 	},
 	{
 		"abr": "circlecarpet",
-		"price": 202,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_CircleCarpet"
 	},
@@ -1250,7 +1250,7 @@
 	},
 	{
 		"abr": "drugcabinet",
-		"price": 700,
+		"price": 758,
 		"category": "Diverses",
 		"defname": "VFE_DrugCabinet"
 	},
@@ -1304,7 +1304,7 @@
 	},
 	{
 		"abr": "eierkiste",
-		"price": 79,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "EggBox"
 	},
@@ -1346,7 +1346,7 @@
 	},
 	{
 		"abr": "eizelle",
-		"price": 83,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "HumanOvum"
 	},
@@ -1406,7 +1406,7 @@
 	},
 	{
 		"abr": "elefantenstoßzahn",
-		"price": 133,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ElephantTusk"
 	},
@@ -1454,7 +1454,7 @@
 	},
 	{
 		"abr": "eltex-hemd",
-		"price": 667,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_PsyfocusShirt"
 	},
@@ -1466,7 +1466,7 @@
 	},
 	{
 		"abr": "eltex-robe",
-		"price": 1000,
+		"price": 975,
 		"category": "Diverses",
 		"defname": "Apparel_PsyfocusRobe"
 	},
@@ -1478,13 +1478,13 @@
 	},
 	{
 		"abr": "eltex-weste",
-		"price": 833,
+		"price": 817,
 		"category": "Diverses",
 		"defname": "Apparel_PsyfocusVest"
 	},
 	{
 		"abr": "embryo",
-		"price": 83,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "HumanEmbryo"
 	},
@@ -1562,7 +1562,7 @@
 	},
 	{
 		"abr": "entseuchungspumpe",
-		"price": 315,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PollutionPump"
 	},
@@ -1604,7 +1604,7 @@
 	},
 	{
 		"abr": "fabricationcabinet",
-		"price": 433,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFE_FabricationCabinet"
 	},
@@ -1844,7 +1844,7 @@
 	},
 	{
 		"abr": "folterkäfig",
-		"price": 210,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GibbetCage"
 	},
@@ -1952,7 +1952,7 @@
 	},
 	{
 		"abr": "gauralansamen",
-		"price": 117,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GauranlenSeed"
 	},
@@ -1976,7 +1976,7 @@
 	},
 	{
 		"abr": "gehegemarkierung",
-		"price": 104,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PenMarker"
 	},
@@ -1994,7 +1994,7 @@
 	},
 	{
 		"abr": "genpaket",
-		"price": 167,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Genepack"
 	},
@@ -2096,7 +2096,7 @@
 	},
 	{
 		"abr": "glukosoidpumpe",
-		"price": 858,
+		"price": 892,
 		"category": "Diverses",
 		"defname": "GlucosoidPump"
 	},
@@ -2270,13 +2270,13 @@
 	},
 	{
 		"abr": "hämogenverstärker",
-		"price": 917,
+		"price": 950,
 		"category": "Diverses",
 		"defname": "HemogenAmplifier"
 	},
 	{
 		"abr": "hämopumpe",
-		"price": 600,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Hemopump"
 	},
@@ -2342,7 +2342,7 @@
 	},
 	{
 		"abr": "heiler-mech-serum",
-		"price": 2167,
+		"price": 2033,
 		"category": "Diverses",
 		"defname": "MechSerumHealer"
 	},
@@ -2372,7 +2372,7 @@
 	},
 	{
 		"abr": "hemd",
-		"price": 166,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_CollarShirt"
 	},
@@ -2486,7 +2486,7 @@
 	},
 	{
 		"abr": "hose",
-		"price": 143,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Pants"
 	},
@@ -2732,7 +2732,7 @@
 	},
 	{
 		"abr": "jacke",
-		"price": 275,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Jacket"
 	},
@@ -2774,7 +2774,7 @@
 	},
 	{
 		"abr": "kannibalenplatte",
-		"price": 220,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CannibalPlatter"
 	},
@@ -2864,25 +2864,25 @@
 	},
 	{
 		"abr": "kinderhemd",
-		"price": 74,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_KidShirt"
 	},
 	{
 		"abr": "kinderhose",
-		"price": 74,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_KidPants"
 	},
 	{
 		"abr": "kinderparka",
-		"price": 172,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_KidParka"
 	},
 	{
 		"abr": "kinderstrampler",
-		"price": 112,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_KidRomper"
 	},
@@ -2900,7 +2900,7 @@
 	},
 	{
 		"abr": "kitchensinkcabinet",
-		"price": 327,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFE_KitchenSinkCabinet"
 	},
@@ -2948,7 +2948,7 @@
 	},
 	{
 		"abr": "kleinernaturschrein",
-		"price": 592,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "NatureShrine_Small"
 	},
@@ -3266,7 +3266,7 @@
 	},
 	{
 		"abr": "lautsprecher",
-		"price": 367,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Loudspeaker"
 	},
@@ -3362,7 +3362,7 @@
 	},
 	{
 		"abr": "lichterkugel",
-		"price": 154,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LightBall"
 	},
@@ -3410,7 +3410,7 @@
 	},
 	{
 		"abr": "löschschaumwerfer",
-		"price": 300,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "FirefoamPopper"
 	},
@@ -3440,7 +3440,7 @@
 	},
 	{
 		"abr": "machiningcabinet",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFE_MachiningCabinet"
 	},
@@ -3560,7 +3560,7 @@
 	},
 	{
 		"abr": "mech-booster",
-		"price": 575,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MechBooster"
 	},
@@ -3602,7 +3602,7 @@
 	},
 	{
 		"abr": "mech-transponder",
-		"price": 333,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MechanoidTransponder"
 	},
@@ -3884,7 +3884,7 @@
 	},
 	{
 		"abr": "multi-analysator",
-		"price": 1700,
+		"price": 1800,
 		"category": "Diverses",
 		"defname": "MultiAnalyzer"
 	},
@@ -3962,7 +3962,7 @@
 	},
 	{
 		"abr": "neuralerüberlader",
-		"price": 408,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "NeuralSupercharger"
 	},
@@ -4058,7 +4058,7 @@
 	},
 	{
 		"abr": "opferflagge",
-		"price": 198,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SacrificialFlag"
 	},
@@ -4082,7 +4082,7 @@
 	},
 	{
 		"abr": "orbitalhandelsbake",
-		"price": 185,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "OrbitalTradeBeacon"
 	},
@@ -4196,7 +4196,7 @@
 	},
 	{
 		"abr": "parka",
-		"price": 315,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Parka"
 	},
@@ -4244,7 +4244,7 @@
 	},
 	{
 		"abr": "persona-kern",
-		"price": 6667,
+		"price": 6425,
 		"category": "Diverses",
 		"defname": "AIPersonaCore"
 	},
@@ -4316,7 +4316,7 @@
 	},
 	{
 		"abr": "plankpath",
-		"price": 39,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_PathC"
 	},
@@ -4550,7 +4550,7 @@
 	},
 	{
 		"abr": "psychofluidpumpe",
-		"price": 2042,
+		"price": 2233,
 		"category": "Diverses",
 		"defname": "PsychofluidPump"
 	},
@@ -4844,7 +4844,7 @@
 	},
 	{
 		"abr": "rednerpult",
-		"price": 197,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Lectern"
 	},
@@ -4856,7 +4856,7 @@
 	},
 	{
 		"abr": "regalcarpet",
-		"price": 271,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_RoyalCarpet"
 	},
@@ -4976,13 +4976,13 @@
 	},
 	{
 		"abr": "robe",
-		"price": 297,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Robe"
 	},
 	{
 		"abr": "rockpath",
-		"price": 39,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_PathB"
 	},
@@ -5024,7 +5024,7 @@
 	},
 	{
 		"abr": "roundpath",
-		"price": 39,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_PathA"
 	},
@@ -5120,19 +5120,19 @@
 	},
 	{
 		"abr": "rugcarpet",
-		"price": 169,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_RugCarpet"
 	},
 	{
 		"abr": "rugcarpet",
-		"price": 169,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_WoolViscouseS"
 	},
 	{
 		"abr": "rugcarpet",
-		"price": 271,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_WoolViscouseLCarpet"
 	},
@@ -5246,13 +5246,13 @@
 	},
 	{
 		"abr": "schädel",
-		"price": 8,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Skull"
 	},
 	{
 		"abr": "schädelspieß",
-		"price": 101,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Skullspike"
 	},
@@ -5270,7 +5270,7 @@
 	},
 	{
 		"abr": "schärpe",
-		"price": 89,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Sash"
 	},
@@ -5282,7 +5282,7 @@
 	},
 	{
 		"abr": "scheiterhaufen",
-		"price": 230,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Pyre"
 	},
@@ -5294,7 +5294,7 @@
 	},
 	{
 		"abr": "schiffslandebake",
-		"price": 185,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ShipLandingBeacon"
 	},
@@ -5306,7 +5306,7 @@
 	},
 	{
 		"abr": "schildkern",
-		"price": 583,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "BroadshieldCore"
 	},
@@ -5336,7 +5336,7 @@
 	},
 	{
 		"abr": "schlafbeschleuniger",
-		"price": 458,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SleepAccelerator"
 	},
@@ -5456,7 +5456,7 @@
 	},
 	{
 		"abr": "schwererwaffengurt",
-		"price": 271,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Bandolier"
 	},
@@ -5642,7 +5642,7 @@
 	},
 	{
 		"abr": "sklavenkörpergurt",
-		"price": 275,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_BodyStrap"
 	},
@@ -5714,7 +5714,7 @@
 	},
 	{
 		"abr": "smithingcabinet",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFE_SmithyCabinet"
 	},
@@ -5870,7 +5870,7 @@
 	},
 	{
 		"abr": "stammeskleidung",
-		"price": 211,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_TribalA"
 	},
@@ -5888,7 +5888,7 @@
 	},
 	{
 		"abr": "staubmantel",
-		"price": 327,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_Duster"
 	},
@@ -6068,7 +6068,7 @@
 	},
 	{
 		"abr": "tailorcabinet",
-		"price": 327,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFE_TailorCabinet"
 	},
@@ -6158,7 +6158,7 @@
 	},
 	{
 		"abr": "techprof-subpersona-kern",
-		"price": 1667,
+		"price": 1758,
 		"category": "Diverses",
 		"defname": "TechprofSubpersonaCore"
 	},
@@ -6212,7 +6212,7 @@
 	},
 	{
 		"abr": "thrumbohorn",
-		"price": 1333,
+		"price": 1367,
 		"category": "Diverses",
 		"defname": "ThrumboHorn"
 	},
@@ -6254,19 +6254,19 @@
 	},
 	{
 		"abr": "todesschlaf-beschleuniger",
-		"price": 1183,
+		"price": 1233,
 		"category": "Diverses",
 		"defname": "DeathrestAccelerator"
 	},
 	{
 		"abr": "todesschlafkapazität-serum",
-		"price": 1667,
+		"price": 1408,
 		"category": "Diverses",
 		"defname": "DeathrestCapacitySerum"
 	},
 	{
 		"abr": "todesschlaf-sarg",
-		"price": 492,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DeathrestCasket"
 	},
@@ -6326,7 +6326,7 @@
 	},
 	{
 		"abr": "trockenfutter",
-		"price": -10,
+		"price": 2,
 		"category": "Tierfutter",
 		"defname": "Kibble"
 	},
@@ -6350,7 +6350,7 @@
 	},
 	{
 		"abr": "t-shirt",
-		"price": 143,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_BasicShirt"
 	},
@@ -6632,7 +6632,7 @@
 	},
 	{
 		"abr": "vitalmonitor",
-		"price": 358,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VitalsMonitor"
 	},
@@ -6662,7 +6662,7 @@
 	},
 	{
 		"abr": "walmartcarpet",
-		"price": 271,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_WalmartCarpet"
 	},
@@ -6740,13 +6740,13 @@
 	},
 	{
 		"abr": "weihnachtsbaum",
-		"price": 263,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ChristmasTree"
 	},
 	{
 		"abr": "weihrauchschrein",
-		"price": 272,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "IncenseShrine"
 	},
@@ -6758,7 +6758,7 @@
 	},
 	{
 		"abr": "werkzeugschrank",
-		"price": 642,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ToolCabinet"
 	},
@@ -6794,7 +6794,7 @@
 	},
 	{
 		"abr": "woodcover",
-		"price": 46,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_AtlasWoodCover"
 	},
@@ -6830,7 +6830,7 @@
 	},
 	{
 		"abr": "xenokeim",
-		"price": 167,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Xenogerm"
 	},
@@ -6890,61 +6890,61 @@
 	},
 	{
 		"abr": "fackel",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "TorchLamp"
 	},
 	{
 		"abr": "funkanlage",
-		"price": 608,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CommsConsole"
 	},
 	{
 		"abr": "entwässerungspumpe",
-		"price": 458,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MoisturePump"
 	},
 	{
 		"abr": "tiefenscanner",
-		"price": 1092,
+		"price": 1117,
 		"category": "Diverses",
 		"defname": "GroundPenetratingScanner"
 	},
 	{
 		"abr": "langstreckenscanner",
-		"price": 1683,
+		"price": 1717,
 		"category": "Diverses",
 		"defname": "LongRangeMineralScanner"
 	},
 	{
 		"abr": "startrampe",
-		"price": 230,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PodLauncher"
 	},
 	{
 		"abr": "transportkapsel",
-		"price": 253,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "TransportPod"
 	},
 	{
 		"abr": "grab",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Grave"
 	},
 	{
 		"abr": "sarkophag",
-		"price": 214,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Sarcophagus"
 	},
 	{
 		"abr": "kryptoschlafkapsel",
-		"price": 1183,
+		"price": 1217,
 		"category": "Diverses",
 		"defname": "CryptosleepCasket"
 	},
@@ -6956,7 +6956,7 @@
 	},
 	{
 		"abr": "langestele",
-		"price": 467,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SteleLarge"
 	},
@@ -6968,55 +6968,55 @@
 	},
 	{
 		"abr": "stromkabel",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PowerConduit"
 	},
 	{
 		"abr": "unterwasser-stromkabel",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "WaterproofConduit"
 	},
 	{
 		"abr": "stromschalter",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PowerSwitch"
 	},
 	{
 		"abr": "holzbetriebenergenerator",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "WoodFiredGenerator"
 	},
 	{
 		"abr": "spritbetriebenergenerator",
-		"price": 492,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "windturbine",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "WindTurbine"
 	},
 	{
 		"abr": "solargenerator",
-		"price": 492,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SolarGenerator"
 	},
 	{
 		"abr": "geothermiegenerator",
-		"price": 1575,
+		"price": 1625,
 		"category": "Diverses",
 		"defname": "GeothermalGenerator"
 	},
 	{
 		"abr": "wasserradgenerator",
-		"price": 1000,
+		"price": 1017,
 		"category": "Diverses",
 		"defname": "WatermillGenerator"
 	},
@@ -7028,163 +7028,163 @@
 	},
 	{
 		"abr": "hydrokulturbecken",
-		"price": 383,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "HydroponicsBasin"
 	},
 	{
 		"abr": "nährpastenspender",
-		"price": 567,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "NutrientPasteDispenser"
 	},
 	{
 		"abr": "trichter",
-		"price": 49,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Hopper"
 	},
 	{
 		"abr": "sandsäcke",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Sandbags"
 	},
 	{
 		"abr": "barrikade",
-		"price": 19,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Barricade"
 	},
 	{
 		"abr": "autokanonenturm",
-		"price": 2117,
+		"price": 2242,
 		"category": "Diverses",
 		"defname": "Turret_Autocannon"
 	},
 	{
 		"abr": "urangeschossturm",
-		"price": 2408,
+		"price": 2508,
 		"category": "Diverses",
 		"defname": "Turret_Sniper"
 	},
 	{
 		"abr": "raketenschwarmturm",
-		"price": 1792,
+		"price": 1850,
 		"category": "Diverses",
 		"defname": "Turret_RocketswarmLauncher"
 	},
 	{
 		"abr": "schiffsträger",
-		"price": 1775,
+		"price": 1875,
 		"category": "Diverses",
 		"defname": "Ship_Beam"
 	},
 	{
 		"abr": "schiffskryptoschlafkapsel",
-		"price": 1725,
+		"price": 1750,
 		"category": "Diverses",
 		"defname": "Ship_CryptosleepCasket"
 	},
 	{
 		"abr": "schiffscomputerkern",
-		"price": 9742,
+		"price": 9517,
 		"category": "Diverses",
 		"defname": "Ship_ComputerCore"
 	},
 	{
 		"abr": "schiffsreaktor",
-		"price": 9067,
+		"price": 9608,
 		"category": "Diverses",
 		"defname": "Ship_Reactor"
 	},
 	{
 		"abr": "schiffstriebwerk",
-		"price": 5925,
+		"price": 6208,
 		"category": "Diverses",
 		"defname": "Ship_Engine"
 	},
 	{
 		"abr": "sensorcluster",
-		"price": 3008,
+		"price": 3033,
 		"category": "Diverses",
 		"defname": "Ship_SensorCluster"
 	},
 	{
 		"abr": "tür",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Door"
 	},
 	{
 		"abr": "automatiktür",
-		"price": 323,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Autodoor"
 	},
 	{
 		"abr": "tierklappe",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AnimalFlap"
 	},
 	{
 		"abr": "wand",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Wall"
 	},
 	{
 		"abr": "zaun",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Fence"
 	},
 	{
 		"abr": "zauntor",
-		"price": 86,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "FenceGate"
 	},
 	{
 		"abr": "säule",
-		"price": 71,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Column"
 	},
 	{
 		"abr": "lagerfeuer",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Campfire"
 	},
 	{
 		"abr": "passivekühlung",
-		"price": 168,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PassiveCooler"
 	},
 	{
 		"abr": "kühlung",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Cooler"
 	},
 	{
 		"abr": "lüftung",
-		"price": 82,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Vent"
 	},
 	{
 		"abr": "countdown-aktivator",
-		"price": 107,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ActivatorCountdown"
 	},
 	{
 		"abr": "näherungsaktivator",
-		"price": 107,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ActivatorProximity"
 	},
@@ -7196,25 +7196,25 @@
 	},
 	{
 		"abr": "mech-boden-schild",
-		"price": 1667,
+		"price": 1658,
 		"category": "Diverses",
 		"defname": "ShieldGeneratorBullets"
 	},
 	{
 		"abr": "mech-kapsel",
-		"price": 467,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MechCapsule"
 	},
 	{
 		"abr": "mech-fabrik",
-		"price": 467,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MechAssembler"
 	},
 	{
 		"abr": "mech-bake",
-		"price": 105,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MechDropBeacon"
 	},
@@ -7238,13 +7238,13 @@
 	},
 	{
 		"abr": "luftdichtekiste",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AncientHermeticCrate"
 	},
 	{
 		"abr": "sicherheitskiste",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AncientSecurityCrate"
 	},
@@ -7484,7 +7484,7 @@
 	},
 	{
 		"abr": "mechanoideüberreste",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AncientMechDetritus"
 	},
@@ -7514,13 +7514,13 @@
 	},
 	{
 		"abr": "kleineraltar",
-		"price": 197,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Altar_Small"
 	},
 	{
 		"abr": "mittlereraltar",
-		"price": 425,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Altar_Medium"
 	},
@@ -7538,19 +7538,19 @@
 	},
 	{
 		"abr": "ideogramm",
-		"price": 308,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Ideogram"
 	},
 	{
 		"abr": "dunkelfackel",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Darktorch"
 	},
 	{
 		"abr": "dunkelpilzfackel",
-		"price": 37,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DarktorchFungus"
 	},
@@ -7562,121 +7562,121 @@
 	},
 	{
 		"abr": "auto-bong",
-		"price": 558,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Autobong"
 	},
 	{
 		"abr": "bandknoten",
-		"price": 892,
+		"price": 925,
 		"category": "Diverses",
 		"defname": "BandNode"
 	},
 	{
 		"abr": "giftgenerator",
-		"price": 600,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ToxifierGenerator"
 	},
 	{
 		"abr": "gen-kombinator",
-		"price": 917,
+		"price": 950,
 		"category": "Diverses",
 		"defname": "GeneAssembler"
 	},
 	{
 		"abr": "gen-extraktor",
-		"price": 1117,
+		"price": 1150,
 		"category": "Diverses",
 		"defname": "GeneExtractor"
 	},
 	{
 		"abr": "wachstumskapsel",
-		"price": 733,
+		"price": 758,
 		"category": "Diverses",
 		"defname": "GrowthVat"
 	},
 	{
 		"abr": "mechband-antenne",
-		"price": 417,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "BurnoutMechlinkBooster"
 	},
 	{
 		"abr": "mechband-schüssel",
-		"price": 1325,
+		"price": 1383,
 		"category": "Diverses",
 		"defname": "MechbandDish"
 	},
 	{
 		"abr": "giftmüllatomisierer",
-		"price": 4067,
+		"price": 4183,
 		"category": "Diverses",
 		"defname": "WastepackAtomizer"
 	},
 	{
 		"abr": "gen-prozessor",
-		"price": 850,
+		"price": 908,
 		"category": "Diverses",
 		"defname": "GeneProcessor"
 	},
 	{
 		"abr": "mech-gestator",
-		"price": 683,
+		"price": 708,
 		"category": "Diverses",
 		"defname": "MechGestator"
 	},
 	{
 		"abr": "großermech-gestator",
-		"price": 1367,
+		"price": 1408,
 		"category": "Diverses",
 		"defname": "LargeMechGestator"
 	},
 	{
 		"abr": "subkern-softscanner",
-		"price": 1642,
+		"price": 1767,
 		"category": "Diverses",
 		"defname": "SubcoreSoftscanner"
 	},
 	{
 		"abr": "subkern-ripscanner",
-		"price": 3208,
+		"price": 3508,
 		"category": "Diverses",
 		"defname": "SubcoreRipscanner"
 	},
 	{
 		"abr": "mech-ladestation",
-		"price": 500,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "BasicRecharger"
 	},
 	{
 		"abr": "großemech-ladestation",
-		"price": 950,
+		"price": 983,
 		"category": "Diverses",
 		"defname": "StandardRecharger"
 	},
 	{
 		"abr": "rohrleitung",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sewagePipeStuff"
 	},
 	{
 		"abr": "kabinentür",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ToiletStallDoor"
 	},
 	{
 		"abr": "ziehbrunnen",
-		"price": 95,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PrimitiveWell"
 	},
 	{
 		"abr": "verbrennungsgrube",
-		"price": 65,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "BurnPit"
 	},
@@ -7688,3139 +7688,3139 @@
 	},
 	{
 		"abr": "brunnen",
-		"price": 248,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "WaterWellInlet"
 	},
 	{
 		"abr": "tieferbrunnen",
-		"price": 492,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DeepWaterWellInlet"
 	},
 	{
 		"abr": "wasserturm",
-		"price": 258,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "WaterTowerS"
 	},
 	{
 		"abr": "großerwasserturm",
-		"price": 717,
+		"price": 742,
 		"category": "Diverses",
 		"defname": "WaterTowerL"
 	},
 	{
 		"abr": "windpumpe",
-		"price": 358,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "WindPump"
 	},
 	{
 		"abr": "pumpstation",
-		"price": 567,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PumpingStation"
 	},
 	{
 		"abr": "abwasserauslass",
-		"price": 176,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SewageOutlet"
 	},
 	{
 		"abr": "klärgrube",
-		"price": 658,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SewageSepticTank"
 	},
 	{
 		"abr": "kläranlage",
-		"price": 1725,
+		"price": 1783,
 		"category": "Diverses",
 		"defname": "SewageTreatment"
 	},
 	{
 		"abr": "wasserfilteranlage",
-		"price": 1075,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "WaterTreatment"
 	},
 	{
 		"abr": "solar-therme",
-		"price": 244,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SolarHeater"
 	},
 	{
 		"abr": "geotherm.therme",
-		"price": 1000,
+		"price": 1033,
 		"category": "Diverses",
 		"defname": "GeothermHeater"
 	},
 	{
 		"abr": "klima-rohrleitung",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "airPipe"
 	},
 	{
 		"abr": "powerconduit",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "KCSG_PowerConduit"
 	},
 	{
 		"abr": "überwand-kühlung",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Cooler_Over"
 	},
 	{
 		"abr": "überwand-kühlung(breit)",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Cooler_Over2W"
 	},
 	{
 		"abr": "überwand-lüftung",
-		"price": 82,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Vent_Over"
 	},
 	{
 		"abr": "dia.wall(thin)",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_DiagonalWall"
 	},
 	{
 		"abr": "connectorwall(right)",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_ConnectorWallR"
 	},
 	{
 		"abr": "connectorwall(left)",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_ConnectorWallL"
 	},
 	{
 		"abr": "dia.wall(thick)",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_FilledWall"
 	},
 	{
 		"abr": "filling1",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_FillingA"
 	},
 	{
 		"abr": "filling2",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_FillingB"
 	},
 	{
 		"abr": "filling3",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_FillingC"
 	},
 	{
 		"abr": "dia.doorway1",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_DiagonalDoorwayA"
 	},
 	{
 		"abr": "dia.doorway2",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "rgh_DiagonalDoorwayB"
 	},
 	{
 		"abr": "dia.conduit",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "diagonalConduit"
 	},
 	{
 		"abr": "dia.sandbags",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalSandbags"
 	},
 	{
 		"abr": "dia.fence",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalFence"
 	},
 	{
 		"abr": "connectorfence(left)",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ConnectorFenceL"
 	},
 	{
 		"abr": "connectorfence(right)",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ConnectorFenceR"
 	},
 	{
 		"abr": "diagonalpavedtile",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalPavedTile"
 	},
 	{
 		"abr": "diagonalsteeltile",
-		"price": 15,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileSteel"
 	},
 	{
 		"abr": "diagonalsilvertile",
-		"price": 61,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileSilver"
 	},
 	{
 		"abr": "diagonalgoldtile",
-		"price": 583,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileGold"
 	},
 	{
 		"abr": "diagonalsandstonetile",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileSandstone"
 	},
 	{
 		"abr": "diagonalgranitetile",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileGranite"
 	},
 	{
 		"abr": "diagonallimestonetile",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileLimestone"
 	},
 	{
 		"abr": "diagonalslatetile",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileSlate"
 	},
 	{
 		"abr": "diagonalmarbletile",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DiagonalTileMarble"
 	},
 	{
 		"abr": "archeddoor",
-		"price": 108,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_ArchedDoor"
 	},
 	{
 		"abr": "archeddoor",
-		"price": 108,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleArchedDoor"
 	},
 	{
 		"abr": "medievaldoor",
-		"price": 145,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_ThickDoor"
 	},
 	{
 		"abr": "medievalgate",
-		"price": 291,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_MedievalGate"
 	},
 	{
 		"abr": "medievalgate",
-		"price": 425,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_GiantMedievalGate"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 277,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FuturisticDoorOne"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 277,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FuturisticDoorTwo"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 358,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_LargeFuturisticDoor"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_HangarDoor"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 277,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_AssymetricDoorOne"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 358,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_AssymetricDoorTwo"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 277,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_AssymetricReinforcedDoorOne"
 	},
 	{
 		"abr": "futuristicautodoor",
-		"price": 358,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_AssymetricReinforcedDoorTwo"
 	},
 	{
 		"abr": "simpledoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleDoorOne"
 	},
 	{
 		"abr": "simpledoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleDoorTwo"
 	},
 	{
 		"abr": "simpledoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_LargeSimpleDoorOne"
 	},
 	{
 		"abr": "simpledoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_LargeSimpleDoorTwo"
 	},
 	{
 		"abr": "singledoor",
-		"price": 71,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleSingleDoorOne"
 	},
 	{
 		"abr": "singledoor",
-		"price": 71,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleSingleDoorTwo"
 	},
 	{
 		"abr": "singledoor",
-		"price": 71,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleSingleDoorThree"
 	},
 	{
 		"abr": "fancydoor",
-		"price": 106,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FancyDoorOne"
 	},
 	{
 		"abr": "fancydoor",
-		"price": 106,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FancyDoorTwo"
 	},
 	{
 		"abr": "growingpit",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_Growingpit"
 	},
 	{
 		"abr": "roundgrowingpit",
-		"price": 229,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_GrowingpitRound"
 	},
 	{
 		"abr": "stoneborder",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_StoneBorderCorner"
 	},
 	{
 		"abr": "stoneborder",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_StoneBorderEdge"
 	},
 	{
 		"abr": "lumberborder",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_LumberBorderCorner"
 	},
 	{
 		"abr": "lumberborder",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_LumberBorderEdge"
 	},
 	{
 		"abr": "warningborder",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_WarningBorderCorner"
 	},
 	{
 		"abr": "warningborder",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_WarningBorderEdge"
 	},
 	{
 		"abr": "cobblestonefence",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_CobblestoneFence"
 	},
 	{
 		"abr": "hedge",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_Hedge"
 	},
 	{
 		"abr": "ornatefence",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_OrnateFence"
 	},
 	{
 		"abr": "ornatefencegate",
-		"price": 141,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_OrnateFenceGate"
 	},
 	{
 		"abr": "prisonbars",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_Bars"
 	},
 	{
 		"abr": "prisongate",
-		"price": 141,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_BarsGate"
 	},
 	{
 		"abr": "arch",
-		"price": 85,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_ArchWood"
 	},
 	{
 		"abr": "arch",
-		"price": 85,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_ArchStone"
 	},
 	{
 		"abr": "largearch",
-		"price": 153,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_LargeArchStone"
 	},
 	{
 		"abr": "singleframe",
-		"price": 68,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleDoorFrame"
 	},
 	{
 		"abr": "doubleframe",
-		"price": 135,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_SimpleLargeDoorFrame"
 	},
 	{
 		"abr": "singleframe",
-		"price": 68,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FuturisticDoorFrame"
 	},
 	{
 		"abr": "doubleframe",
-		"price": 135,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FuturisticLargeDoorFrame"
 	},
 	{
 		"abr": "pillar",
-		"price": 71,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_Pillar"
 	},
 	{
 		"abr": "cobblestonewall",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_CobblestoneWall"
 	},
 	{
 		"abr": "rusticwall",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_RusticWall"
 	},
 	{
 		"abr": "modernwall",
-		"price": 34,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FuturisticWall"
 	},
 	{
 		"abr": "reinforcedwall",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "LTS_FuturisticReinforcedWall"
 	},
 	{
 		"abr": "bookcase(tall)",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Jecrell_Bookcase"
 	},
 	{
 		"abr": "bookcase(short)",
-		"price": 198,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Jecrell_BookcaseShort"
 	},
 	{
 		"abr": "scrollcase(tall)",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Jecrell_Scrollcase"
 	},
 	{
 		"abr": "scrollcase(short)",
-		"price": 198,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Jecrell_ScrollcaseShort"
 	},
 	{
 		"abr": "stonecampfire",
-		"price": 128,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Stone_Campfire"
 	},
 	{
 		"abr": "logwall",
-		"price": 11,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_LogWall"
 	},
 	{
 		"abr": "chainlinkfence",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_ChainlinkFence"
 	},
 	{
 		"abr": "picketfence",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_PicketFence"
 	},
 	{
 		"abr": "brickfence",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_BrickFence"
 	},
 	{
 		"abr": "invisiblefence",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_InvisibleFence"
 	},
 	{
 		"abr": "lowfence",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_LowFence"
 	},
 	{
 		"abr": "hedgewall",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_HedgeWall"
 	},
 	{
 		"abr": "cellwall",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_CellWall"
 	},
 	{
 		"abr": "celldoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_CellDoor"
 	},
 	{
 		"abr": "armoredwall",
-		"price": 36,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_ArmoredWall"
 	},
 	{
 		"abr": "armoreddoor",
-		"price": 177,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_ArmoredDoor"
 	},
 	{
 		"abr": "singledoor",
-		"price": 54,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_SingleDoor"
 	},
 	{
 		"abr": "singledoor(flipped)",
-		"price": 54,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_SingleDoor_Flipped"
 	},
 	{
 		"abr": "animalgate",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_AnimalGate"
 	},
 	{
 		"abr": "advancedwindturbine",
-		"price": 1850,
+		"price": 1925,
 		"category": "Diverses",
 		"defname": "VFE_AdvancedWindTurbine"
 	},
 	{
 		"abr": "advancedsolargenerator",
-		"price": 1842,
+		"price": 1925,
 		"category": "Diverses",
 		"defname": "VFE_AdvancedSolarGenerator"
 	},
 	{
 		"abr": "advancedwatermillgenerator",
-		"price": 1817,
+		"price": 1850,
 		"category": "Diverses",
 		"defname": "VFE_AdvancedWatermillGenerator"
 	},
 	{
 		"abr": "advancedgeothermalgenerator",
-		"price": 3058,
+		"price": 3100,
 		"category": "Diverses",
 		"defname": "VPE_AdvancedGeothermalGenerator"
 	},
 	{
 		"abr": "nuclearreactor",
-		"price": 4475,
+		"price": 4633,
 		"category": "Diverses",
 		"defname": "VPE_NuclearGenerator"
 	},
 	{
 		"abr": "industrialwood-firedgenerator",
-		"price": 808,
+		"price": 833,
 		"category": "Diverses",
 		"defname": "VFE_IndustrialWoodFiredGenerator"
 	},
 	{
 		"abr": "industrialchemfuelpoweredgenerator",
-		"price": 908,
+		"price": 942,
 		"category": "Diverses",
 		"defname": "VFE_IndustrialChemfuelPoweredGenerator"
 	},
 	{
 		"abr": "tidalgenerator",
-		"price": 1500,
+		"price": 1550,
 		"category": "Diverses",
 		"defname": "VFE_TidalGenerator"
 	},
 	{
 		"abr": "largearrowlongsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalArrowLong"
 	},
 	{
 		"abr": "largearrowshortsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalArrowShort"
 	},
 	{
 		"abr": "largearrowwidesymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalArrowWide"
 	},
 	{
 		"abr": "largedecallinedouble",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalLineDouble"
 	},
 	{
 		"abr": "largedecallinedoubleinnercorner",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalLineDoubleCornerInner"
 	},
 	{
 		"abr": "largedecallinedoubleoutercorner",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalLineDoubleCornerOuter"
 	},
 	{
 		"abr": "largedecallinethin",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalLineThin"
 	},
 	{
 		"abr": "largedecallinethininnercorner",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalLineThinCornerInner"
 	},
 	{
 		"abr": "largedecallinethinoutercorner",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalLineThinCornerOuter"
 	},
 	{
 		"abr": "largeasymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolA"
 	},
 	{
 		"abr": "largebsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolB"
 	},
 	{
 		"abr": "largecsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolC"
 	},
 	{
 		"abr": "largedsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolD"
 	},
 	{
 		"abr": "largeesymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolE"
 	},
 	{
 		"abr": "largefsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolF"
 	},
 	{
 		"abr": "largegsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolG"
 	},
 	{
 		"abr": "largehsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolH"
 	},
 	{
 		"abr": "largeisymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolI"
 	},
 	{
 		"abr": "largejsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolJ"
 	},
 	{
 		"abr": "largeksymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolK"
 	},
 	{
 		"abr": "largelsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolL"
 	},
 	{
 		"abr": "largemsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolM"
 	},
 	{
 		"abr": "largensymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolN"
 	},
 	{
 		"abr": "largeosymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolO"
 	},
 	{
 		"abr": "largepsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolP"
 	},
 	{
 		"abr": "largeqsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolQ"
 	},
 	{
 		"abr": "largevsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolV"
 	},
 	{
 		"abr": "largersymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolR"
 	},
 	{
 		"abr": "largessymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolS"
 	},
 	{
 		"abr": "largetsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolT"
 	},
 	{
 		"abr": "largeusymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolU"
 	},
 	{
 		"abr": "largewsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolW"
 	},
 	{
 		"abr": "largexsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolX"
 	},
 	{
 		"abr": "largeysymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolY"
 	},
 	{
 		"abr": "largezsymbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolZ"
 	},
 	{
 		"abr": "large1symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolOne"
 	},
 	{
 		"abr": "large2symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolTwo"
 	},
 	{
 		"abr": "large3symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolThree"
 	},
 	{
 		"abr": "large4symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolFour"
 	},
 	{
 		"abr": "large5symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolFive"
 	},
 	{
 		"abr": "large6symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolSix"
 	},
 	{
 		"abr": "large7symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolSeven"
 	},
 	{
 		"abr": "large8symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolEight"
 	},
 	{
 		"abr": "large9symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolNine"
 	},
 	{
 		"abr": "large0symbol",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalSymbolZero"
 	},
 	{
 		"abr": "largearmorydecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordArmory"
 	},
 	{
 		"abr": "largebarracksdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordBarracks"
 	},
 	{
 		"abr": "largeblockdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordBlock"
 	},
 	{
 		"abr": "largecafeteriadecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordCafeteria"
 	},
 	{
 		"abr": "largecargodecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordCargo"
 	},
 	{
 		"abr": "largechamberdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordChamber"
 	},
 	{
 		"abr": "largeclimatedecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordClimate"
 	},
 	{
 		"abr": "largecommanddecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordCommand"
 	},
 	{
 		"abr": "largecontroldecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordControl"
 	},
 	{
 		"abr": "largeengineerdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordEngineer"
 	},
 	{
 		"abr": "largefarmingdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordFarming"
 	},
 	{
 		"abr": "largefreezerdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordFreezer"
 	},
 	{
 		"abr": "largefridgedecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordFridge"
 	},
 	{
 		"abr": "largehangardecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordHangar"
 	},
 	{
 		"abr": "largehospitaldecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordHospital"
 	},
 	{
 		"abr": "largekilldecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordKill"
 	},
 	{
 		"abr": "largekitchendecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordKitchen"
 	},
 	{
 		"abr": "largelandingdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordLanding"
 	},
 	{
 		"abr": "largemedicaldecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordMedical"
 	},
 	{
 		"abr": "largemessdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordMess"
 	},
 	{
 		"abr": "largemorguedecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordMorgue"
 	},
 	{
 		"abr": "largemortardecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordMortar"
 	},
 	{
 		"abr": "largeplaydecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordPlay"
 	},
 	{
 		"abr": "largeprisondecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordPrison"
 	},
 	{
 		"abr": "largereactordecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordReactor"
 	},
 	{
 		"abr": "largerecreationdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordRecreation"
 	},
 	{
 		"abr": "largerefinerydecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordRefinery"
 	},
 	{
 		"abr": "largerelaxdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordRelax"
 	},
 	{
 		"abr": "largeresearchdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordResearch"
 	},
 	{
 		"abr": "largesecuritydecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSecurity"
 	},
 	{
 		"abr": "largeshippingdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordShipping"
 	},
 	{
 		"abr": "largesleepingdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSleeping"
 	},
 	{
 		"abr": "largesmeltingdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmelting"
 	},
 	{
 		"abr": "largestoragedecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordStorage"
 	},
 	{
 		"abr": "largewarningdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordWarning"
 	},
 	{
 		"abr": "largeworkshopdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordWorkshop"
 	},
 	{
 		"abr": "largebasedecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallBase"
 	},
 	{
 		"abr": "largebaydecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallBay"
 	},
 	{
 		"abr": "largeboxdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallBox"
 	},
 	{
 		"abr": "largecelldecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallCell"
 	},
 	{
 		"abr": "largecleardecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallClear"
 	},
 	{
 		"abr": "largedockdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallDock"
 	},
 	{
 		"abr": "largegasdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallGas"
 	},
 	{
 		"abr": "largehalldecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallHall"
 	},
 	{
 		"abr": "largekeepdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallKeep"
 	},
 	{
 		"abr": "largelabdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallLab"
 	},
 	{
 		"abr": "largepaddecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallPad"
 	},
 	{
 		"abr": "largeroomdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallRoom"
 	},
 	{
 		"abr": "largewingdecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallWing"
 	},
 	{
 		"abr": "largezonedecal",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LargeDecalWordSmallZone"
 	},
 	{
 		"abr": "arrowlongsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalArrowLong"
 	},
 	{
 		"abr": "arrowshortsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalArrowShort"
 	},
 	{
 		"abr": "arrowwidesymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalArrowWide"
 	},
 	{
 		"abr": "decallinedouble",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalLineDouble"
 	},
 	{
 		"abr": "decallinedoubleinnercorner",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalLineDoubleCornerInner"
 	},
 	{
 		"abr": "decallinedoubleoutercorner",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalLineDoubleCornerOuter"
 	},
 	{
 		"abr": "decallinethin",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalLineThin"
 	},
 	{
 		"abr": "decallinethininnercorner",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalLineThinCornerInner"
 	},
 	{
 		"abr": "decallinethinoutercorner",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalLineThinCornerOuter"
 	},
 	{
 		"abr": "asymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolA"
 	},
 	{
 		"abr": "bsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolB"
 	},
 	{
 		"abr": "csymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolC"
 	},
 	{
 		"abr": "dsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolD"
 	},
 	{
 		"abr": "esymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolE"
 	},
 	{
 		"abr": "fsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolF"
 	},
 	{
 		"abr": "gsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolG"
 	},
 	{
 		"abr": "hsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolH"
 	},
 	{
 		"abr": "isymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolI"
 	},
 	{
 		"abr": "jsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolJ"
 	},
 	{
 		"abr": "ksymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolK"
 	},
 	{
 		"abr": "lsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolL"
 	},
 	{
 		"abr": "msymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolM"
 	},
 	{
 		"abr": "nsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolN"
 	},
 	{
 		"abr": "osymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolO"
 	},
 	{
 		"abr": "psymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolP"
 	},
 	{
 		"abr": "qsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolQ"
 	},
 	{
 		"abr": "vsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolV"
 	},
 	{
 		"abr": "rsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolR"
 	},
 	{
 		"abr": "ssymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolS"
 	},
 	{
 		"abr": "tsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolT"
 	},
 	{
 		"abr": "usymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolU"
 	},
 	{
 		"abr": "wsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolW"
 	},
 	{
 		"abr": "xsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolX"
 	},
 	{
 		"abr": "ysymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolY"
 	},
 	{
 		"abr": "zsymbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolZ"
 	},
 	{
 		"abr": "1symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolOne"
 	},
 	{
 		"abr": "2symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolTwo"
 	},
 	{
 		"abr": "3symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolThree"
 	},
 	{
 		"abr": "4symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolFour"
 	},
 	{
 		"abr": "5symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolFive"
 	},
 	{
 		"abr": "6symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolSix"
 	},
 	{
 		"abr": "7symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolSeven"
 	},
 	{
 		"abr": "8symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolEight"
 	},
 	{
 		"abr": "9symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolNine"
 	},
 	{
 		"abr": "0symbol",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalSymbolZero"
 	},
 	{
 		"abr": "armorydecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordArmory"
 	},
 	{
 		"abr": "barracksdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordBarracks"
 	},
 	{
 		"abr": "blockdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordBlock"
 	},
 	{
 		"abr": "cafeteriadecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordCafeteria"
 	},
 	{
 		"abr": "cargodecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordCargo"
 	},
 	{
 		"abr": "chamberdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordChamber"
 	},
 	{
 		"abr": "climatedecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordClimate"
 	},
 	{
 		"abr": "commanddecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordCommand"
 	},
 	{
 		"abr": "controldecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordControl"
 	},
 	{
 		"abr": "engineerdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordEngineer"
 	},
 	{
 		"abr": "farmingdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordFarming"
 	},
 	{
 		"abr": "freezerdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordFreezer"
 	},
 	{
 		"abr": "fridgedecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordFridge"
 	},
 	{
 		"abr": "hangardecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordHangar"
 	},
 	{
 		"abr": "hospitaldecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordHospital"
 	},
 	{
 		"abr": "killdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordKill"
 	},
 	{
 		"abr": "kitchendecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordKitchen"
 	},
 	{
 		"abr": "landingdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordLanding"
 	},
 	{
 		"abr": "medicaldecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordMedical"
 	},
 	{
 		"abr": "messdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordMess"
 	},
 	{
 		"abr": "morguedecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordMorgue"
 	},
 	{
 		"abr": "mortardecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordMortar"
 	},
 	{
 		"abr": "playdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordPlay"
 	},
 	{
 		"abr": "prisondecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordPrison"
 	},
 	{
 		"abr": "reactordecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordReactor"
 	},
 	{
 		"abr": "recreationdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordRecreation"
 	},
 	{
 		"abr": "refinerydecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordRefinery"
 	},
 	{
 		"abr": "relaxdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordRelax"
 	},
 	{
 		"abr": "researchdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordResearch"
 	},
 	{
 		"abr": "securitydecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSecurity"
 	},
 	{
 		"abr": "shippingdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordShipping"
 	},
 	{
 		"abr": "sleepingdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSleeping"
 	},
 	{
 		"abr": "smeltingdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmelting"
 	},
 	{
 		"abr": "storagedecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordStorage"
 	},
 	{
 		"abr": "warningdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordWarning"
 	},
 	{
 		"abr": "workshopdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordWorkshop"
 	},
 	{
 		"abr": "basedecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallBase"
 	},
 	{
 		"abr": "baydecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallBay"
 	},
 	{
 		"abr": "boxdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallBox"
 	},
 	{
 		"abr": "celldecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallCell"
 	},
 	{
 		"abr": "cleardecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallClear"
 	},
 	{
 		"abr": "dockdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallDock"
 	},
 	{
 		"abr": "gasdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallGas"
 	},
 	{
 		"abr": "halldecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallHall"
 	},
 	{
 		"abr": "keepdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallKeep"
 	},
 	{
 		"abr": "labdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallLab"
 	},
 	{
 		"abr": "paddecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallPad"
 	},
 	{
 		"abr": "roomdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallRoom"
 	},
 	{
 		"abr": "wingdecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallWing"
 	},
 	{
 		"abr": "zonedecal",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DecalWordSmallZone"
 	},
 	{
 		"abr": "emptyfoodboxes",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FoodBox"
 	},
 	{
 		"abr": "largehaybale",
-		"price": 101,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_HayBaleLarge"
 	},
 	{
 		"abr": "mediumhaybale",
-		"price": 51,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_HayBaleMedium"
 	},
 	{
 		"abr": "smallhaybale",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_HayBaleSmall"
 	},
 	{
 		"abr": "hedge",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Hedge"
 	},
 	{
 		"abr": "woodenlogs",
-		"price": 11,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenLogs"
 	},
 	{
 		"abr": "largewoodenlogs",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenLogsLarge"
 	},
 	{
 		"abr": "woodenwagon",
-		"price": 61,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenWagon"
 	},
 	{
 		"abr": "dirt",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthDirt"
 	},
 	{
 		"abr": "animalfilth",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthAnimalFilth"
 	},
 	{
 		"abr": "sand",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthSand"
 	},
 	{
 		"abr": "trash",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthTrash"
 	},
 	{
 		"abr": "rockrubble",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthRubbleRock"
 	},
 	{
 		"abr": "scatteredslag",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthRubbleSlag"
 	},
 	{
 		"abr": "scatteredsandbags",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthRubbleSandbags"
 	},
 	{
 		"abr": "blood",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthBlood"
 	},
 	{
 		"abr": "bugblood",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthBugBlood"
 	},
 	{
 		"abr": "machinebits",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthMachineBits"
 	},
 	{
 		"abr": "amnioticfluid",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthAmnioticFluid"
 	},
 	{
 		"abr": "slime",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthSlime"
 	},
 	{
 		"abr": "vomit",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthVomit"
 	},
 	{
 		"abr": "firefoam",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthFireFoam"
 	},
 	{
 		"abr": "chemfuelpuddle",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthChemfuel"
 	},
 	{
 		"abr": "corpsebile",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthCorpseBile"
 	},
 	{
 		"abr": "ash",
-		"price": 3,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FilthAsh"
 	},
 	{
 		"abr": "steelatm",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelATM"
 	},
 	{
 		"abr": "plasteelatm",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelATM"
 	},
 	{
 		"abr": "silveratm",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverATM"
 	},
 	{
 		"abr": "woodenatm",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenATM"
 	},
 	{
 		"abr": "steelbookshelf",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelBookshelf"
 	},
 	{
 		"abr": "plasteelbookshelf",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelBookshelf"
 	},
 	{
 		"abr": "silverbookshelf",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverBookshelf"
 	},
 	{
 		"abr": "woodenbookshelf",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenBookshelf"
 	},
 	{
 		"abr": "steelcupboard",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelCupboard"
 	},
 	{
 		"abr": "plasteelcupboard",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelCupboard"
 	},
 	{
 		"abr": "silvercupboard",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverCupboard"
 	},
 	{
 		"abr": "woodencupboard",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenCupboard"
 	},
 	{
 		"abr": "steeldoublecupboard",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelCupboardDouble"
 	},
 	{
 		"abr": "plasteeldoublecupboard",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelCupboardDouble"
 	},
 	{
 		"abr": "silverdoublecupboard",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverCupboardDouble"
 	},
 	{
 		"abr": "woodendoublecupboard",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenCupboardDouble"
 	},
 	{
 		"abr": "steelcupboardwithplates",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelCupboardPlates"
 	},
 	{
 		"abr": "plasteelcupboardwithplates",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelCupboardPlates"
 	},
 	{
 		"abr": "silvercupboardwithplates",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverCupboardPlates"
 	},
 	{
 		"abr": "woodencupboardwithplates",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenCupboardPlates"
 	},
 	{
 		"abr": "steelnarrowcupboard",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelCupboardNarrow"
 	},
 	{
 		"abr": "plasteelnarrowcupboard",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelCupboardNarrow"
 	},
 	{
 		"abr": "silvernarrowcupboard",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverCupboardNarrow"
 	},
 	{
 		"abr": "woodennarrowcupboard",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenCupboardNarrow"
 	},
 	{
 		"abr": "steeltallcabinet",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelTallCabinet"
 	},
 	{
 		"abr": "plasteeltallcabinet",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelTallCabinet"
 	},
 	{
 		"abr": "silvertallcabinet",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverTallCabinet"
 	},
 	{
 		"abr": "woodentallcabinet",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenTallCabinet"
 	},
 	{
 		"abr": "steelshortcupboard",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelShortCupboard"
 	},
 	{
 		"abr": "plasteelshortcupboard",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelShortCupboard"
 	},
 	{
 		"abr": "silvershortcupboard",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverShortCupboard"
 	},
 	{
 		"abr": "woodenshortcupboard",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenShortCupboard"
 	},
 	{
 		"abr": "steelshortcupboardwithplates",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelShortCupboardPlates"
 	},
 	{
 		"abr": "plasteelshortcupboardwithplates",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelShortCupboardPlates"
 	},
 	{
 		"abr": "silvershortcupboardwithplates",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverShortCupboardPlates"
 	},
 	{
 		"abr": "woodenshortcupboardwithplates",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenShortCupboardPlates"
 	},
 	{
 		"abr": "steeldivider",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelDivider"
 	},
 	{
 		"abr": "plasteeldivider",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelDivider"
 	},
 	{
 		"abr": "silverdivider",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverDivider"
 	},
 	{
 		"abr": "woodendivider",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenDivider"
 	},
 	{
 		"abr": "steelplankdivider",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelPlankDivider"
 	},
 	{
 		"abr": "plasteelplankdivider",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelPlankDivider"
 	},
 	{
 		"abr": "silverplankdivider",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverPlankDivider"
 	},
 	{
 		"abr": "woodenplankdivider",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenPlankDivider"
 	},
 	{
 		"abr": "steelmirror",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelMirror"
 	},
 	{
 		"abr": "plasteelmirror",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelMirror"
 	},
 	{
 		"abr": "silvermirror",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverMirror"
 	},
 	{
 		"abr": "woodenmirror",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenMirror"
 	},
 	{
 		"abr": "steelvendingmachine",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelVendingMachine"
 	},
 	{
 		"abr": "plasteelvendingmachine",
-		"price": 151,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlasteelVendingMachine"
 	},
 	{
 		"abr": "silvervendingmachine",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SilverVendingMachine"
 	},
 	{
 		"abr": "woodenvendingmachine",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenVendingMachine"
 	},
 	{
 		"abr": "washingmachine",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WashingMachine"
 	},
 	{
 		"abr": "warehouseshelf",
-		"price": 48,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WarehouseShelfEmpty"
 	},
 	{
 		"abr": "warehouseshelfwithboxes",
-		"price": 64,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WarehouseShelfBoxes"
 	},
 	{
 		"abr": "binbag",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BinBag"
 	},
 	{
 		"abr": "largewoodenbox",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BoxLarge"
 	},
 	{
 		"abr": "smallwoodenbox",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BoxSmall"
 	},
 	{
 		"abr": "largecardboardbox",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CardboardBoxLarge"
 	},
 	{
 		"abr": "smallcardboardbox",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CardboardBoxSmall"
 	},
 	{
 		"abr": "brickpile",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BrickPile"
 	},
 	{
 		"abr": "greenbarrel",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BarrelGreen"
 	},
 	{
 		"abr": "greybarrel",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BarrelGrey"
 	},
 	{
 		"abr": "redbarrel",
-		"price": 45,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BarrelRed"
 	},
 	{
 		"abr": "yellowbarrel",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BarrelYellow"
 	},
 	{
 		"abr": "bluebarrel",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BarrelBlue"
 	},
 	{
 		"abr": "palletwithcardboardboxes",
-		"price": 42,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalletCardboard"
 	},
 	{
 		"abr": "palletwithwoodenboxes",
-		"price": 122,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalletBoxes"
 	},
 	{
 		"abr": "pallet",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Pallet"
 	},
 	{
 		"abr": "palletwithgreenbarrels",
-		"price": 54,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalletBarrelGreen"
 	},
 	{
 		"abr": "palletwithgreybarrels",
-		"price": 54,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalletBarrelGrey"
 	},
 	{
 		"abr": "palletwithredbarrels",
-		"price": 169,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalletBarrelRed"
 	},
 	{
 		"abr": "palletwithyellowbarrels",
-		"price": 54,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalletBarrelYellow"
 	},
 	{
 		"abr": "palletwithbluebarrels",
-		"price": 54,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalletBarrelBlue"
 	},
 	{
 		"abr": "greencargocontainer",
-		"price": 161,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ContainerGreen"
 	},
 	{
 		"abr": "greycargocontainer",
-		"price": 161,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ContainerGrey"
 	},
 	{
 		"abr": "redcargocontainer",
-		"price": 161,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ContainerRed"
 	},
 	{
 		"abr": "yellowcargocontainer",
-		"price": 161,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ContainerYellow"
 	},
 	{
 		"abr": "bluecargocontainer",
-		"price": 161,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ContainerBlue"
 	},
 	{
 		"abr": "stackofpipes",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Pipes"
 	},
 	{
 		"abr": "stackofplanks",
-		"price": 11,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Planks"
 	},
 	{
 		"abr": "cone",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Cone"
 	},
 	{
 		"abr": "concretebags",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ConcreteBags"
 	},
 	{
 		"abr": "watertank",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WaterTank"
 	},
 	{
 		"abr": "ventilationshaft",
-		"price": 64,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_VentilationShaft"
 	},
 	{
 		"abr": "electricalcabinet",
-		"price": 19,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ElectricalCabinet"
 	},
 	{
 		"abr": "lockers",
-		"price": 19,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Lockers"
 	},
 	{
 		"abr": "gastank",
-		"price": 96,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_GasTank"
 	},
 	{
 		"abr": "brewingbarrel",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BrewingBarrel"
 	},
 	{
 		"abr": "cooker",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Cooker"
 	},
 	{
 		"abr": "microwave",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Microwave"
 	},
 	{
 		"abr": "oven",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Oven"
 	},
 	{
 		"abr": "fridge",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Fridge"
 	},
 	{
 		"abr": "waterdispenser",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WaterDispenser"
 	},
 	{
 		"abr": "foodtrolley",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_FoodTrolley"
 	},
 	{
 		"abr": "kitchensurface",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_KitchenSurface"
 	},
 	{
 		"abr": "kitchensurfaceempty",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_KitchenSurfaceEmpty"
 	},
 	{
 		"abr": "kitchensink",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_KitchenSink"
 	},
 	{
 		"abr": "winerack",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WineRack"
 	},
 	{
 		"abr": "mopbucket",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_MopBucket"
 	},
 	{
 		"abr": "cookingappliances",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CookingAppliances"
 	},
 	{
 		"abr": "cuttingboard",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CuttingBoard"
 	},
 	{
 		"abr": "knives",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Knives"
 	},
 	{
 		"abr": "dinnerset",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DinnerSet"
 	},
 	{
 		"abr": "spices",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Spices"
 	},
 	{
 		"abr": "anvil",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Anvil"
 	},
 	{
 		"abr": "emptyarmorstand",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ArmorStandEmpty"
 	},
 	{
 		"abr": "fullarmorstand",
-		"price": 26,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ArmorStandFull"
 	},
 	{
 		"abr": "arrowcage",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ArrowCage"
 	},
 	{
 		"abr": "emptybucket",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BucketEmpty"
 	},
 	{
 		"abr": "waterbucket",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BucketwithWater"
 	},
 	{
 		"abr": "woodenchest",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenChest"
 	},
 	{
 		"abr": "largewoodenchest",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenChestLarge"
 	},
 	{
 		"abr": "emptyweaponrack",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WeaponRackEmpty"
 	},
 	{
 		"abr": "swordweaponrack",
-		"price": 36,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WeaponRackSwords"
 	},
 	{
 		"abr": "spearsweaponrack",
-		"price": 36,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WeaponRackSpears"
 	},
 	{
 		"abr": "woodensign",
-		"price": 11,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenSign"
 	},
 	{
 		"abr": "tanningrack",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_TanningRack"
 	},
 	{
 		"abr": "woodenplatform",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WoodenPlatform"
 	},
 	{
 		"abr": "cageplatform",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CagePlatform"
 	},
 	{
 		"abr": "glowstool",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Glowstool"
 	},
 	{
 		"abr": "agarilux",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Agarilux"
 	},
 	{
 		"abr": "bryolux",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Bryolux"
 	},
 	{
 		"abr": "rose",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Rose"
 	},
 	{
 		"abr": "daylily",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Daylily"
 	},
 	{
 		"abr": "riceplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Rice"
 	},
 	{
 		"abr": "potatoplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Potato"
 	},
 	{
 		"abr": "cornplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Corn"
 	},
 	{
 		"abr": "strawberryplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Strawberry"
 	},
 	{
 		"abr": "haygrass",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Haygrass"
 	},
 	{
 		"abr": "cottonplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Cotton"
 	},
 	{
 		"abr": "devilstrand",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Devilstrand"
 	},
 	{
 		"abr": "healroot",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Healroot"
 	},
 	{
 		"abr": "hopplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Hops"
 	},
 	{
 		"abr": "smokeleafplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Smokeleaf"
 	},
 	{
 		"abr": "psychoidplant",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Psychoid"
 	},
 	{
 		"abr": "burnedtree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BurnedTree"
 	},
 	{
 		"abr": "willowtree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_WillowTree"
 	},
 	{
 		"abr": "cypresstree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CypressTree"
 	},
 	{
 		"abr": "mapletree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_MapleTree"
 	},
 	{
 		"abr": "chokevine",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Chokevine"
 	},
 	{
 		"abr": "oaktree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_OakTree"
 	},
 	{
 		"abr": "poplartree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PoplarTree"
 	},
 	{
 		"abr": "pinetree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PineTree"
 	},
 	{
 		"abr": "birchtree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BirchTree"
 	},
 	{
 		"abr": "teaktree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_TeakTree"
 	},
 	{
 		"abr": "cecropiatree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CecropiaTree"
 	},
 	{
 		"abr": "palmtree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PalmTree"
 	},
 	{
 		"abr": "bambootree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BambooTree"
 	},
 	{
 		"abr": "dragotree",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DragoTree"
 	},
 	{
 		"abr": "saguarocactus",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SaguaroCactus"
 	},
 	{
 		"abr": "agave",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Agave"
 	},
 	{
 		"abr": "pincushioncactus",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PincushionCactus"
 	},
 	{
 		"abr": "shortgrass",
-		"price": 2,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_GrassShort"
 	},
 	{
 		"abr": "longgrass",
-		"price": 2,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_GrassLong"
 	},
 	{
 		"abr": "bush",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Bush"
 	},
 	{
 		"abr": "brambles",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Brambles"
 	},
 	{
 		"abr": "berrybush",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_BerryBush"
 	},
 	{
 		"abr": "alocasia",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Alocasia"
 	},
 	{
 		"abr": "clivia",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Clivia"
 	},
 	{
 		"abr": "giantrafflesia",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Rafflesia"
 	},
 	{
 		"abr": "advancedrotor",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_AdvancedRotor"
 	},
 	{
 		"abr": "rotor",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Rotor"
 	},
 	{
 		"abr": "battery",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Battery"
 	},
 	{
 		"abr": "exhaust",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Exhaust"
 	},
 	{
 		"abr": "smallexhaust",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SmallExhaust"
 	},
 	{
 		"abr": "generator",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Generator"
 	},
 	{
 		"abr": "industrialgenerator",
-		"price": 64,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_IndustrialGenerator"
 	},
 	{
 		"abr": "generatorunit",
-		"price": 64,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_GeneratorUnitLarge"
 	},
 	{
 		"abr": "smallgeneratorunit",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_GeneratorUnitSmall"
 	},
 	{
 		"abr": "gasstorageunit",
-		"price": 64,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_GasStorageUnit"
 	},
 	{
 		"abr": "toxicwastebarrel",
-		"price": 96,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ToxicWasteBarrel"
 	},
 	{
 		"abr": "powerconverter",
-		"price": 65,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PowerConverter"
 	},
 	{
 		"abr": "largechemfueltank",
-		"price": 180,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ChemfuelTank"
 	},
 	{
 		"abr": "largeliquidtank",
-		"price": 65,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LiquidTank"
 	},
 	{
 		"abr": "largesteeltank",
-		"price": 65,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SteelTank"
 	},
 	{
 		"abr": "coalburner",
-		"price": 65,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CoalBurner"
 	},
 	{
 		"abr": "powerpole",
-		"price": 11,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PowerPole"
 	},
 	{
 		"abr": "dataconsole",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DataConsole"
 	},
 	{
 		"abr": "dataconveyor",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DataConveyor"
 	},
 	{
 		"abr": "displayscreen",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DisplayScreen"
 	},
 	{
 		"abr": "displaytable",
-		"price": 96,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_DisplayTable"
 	},
 	{
 		"abr": "longcommandconsole",
-		"price": 48,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_LongCommandConsole"
 	},
 	{
 		"abr": "planningscreen",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlanningScreen"
 	},
 	{
 		"abr": "planningtable",
-		"price": 96,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_PlanningTable"
 	},
 	{
 		"abr": "tripledisplaydashboard",
-		"price": 32,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_TripleDisplay"
 	},
 	{
 		"abr": "spacercontainer",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SpacerContainer"
 	},
 	{
 		"abr": "spacercontainerlarge",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SpacerContainerLarge"
 	},
 	{
 		"abr": "spacercontainerstack",
-		"price": 80,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SpacerContainerStack"
 	},
 	{
 		"abr": "advancedstoragedevice",
-		"price": 48,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SpacerStorage"
 	},
 	{
 		"abr": "switchpanel",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SwitchPanel"
 	},
 	{
 		"abr": "serverrack",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_ServerRack"
 	},
 	{
 		"abr": "sensorplatform",
-		"price": 16,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SensorPlatform"
 	},
@@ -10832,343 +10832,343 @@
 	},
 	{
 		"abr": "superpod",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_Superpod"
 	},
 	{
 		"abr": "blackskip",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SkipBlack"
 	},
 	{
 		"abr": "blackgunship",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_AlbatrossBlack"
 	},
 	{
 		"abr": "whiteskip",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SkipWhite"
 	},
 	{
 		"abr": "whitegunship",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_AlbatrossWhite"
 	},
 	{
 		"abr": "silverskip",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SkipSilver"
 	},
 	{
 		"abr": "silvergunship",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_AlbatrossSilver"
 	},
 	{
 		"abr": "blueskip",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SkipBlue"
 	},
 	{
 		"abr": "bluegunship",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_AlbatrossBlue"
 	},
 	{
 		"abr": "redskip",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_SkipRed"
 	},
 	{
 		"abr": "redgunship",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_AlbatrossRed"
 	},
 	{
 		"abr": "forklift",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarForklift"
 	},
 	{
 		"abr": "blackdeliverytruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarDeliveryBlack"
 	},
 	{
 		"abr": "blackfamilycar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarFamilyBlack"
 	},
 	{
 		"abr": "blackpickuptruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarPickupBlack"
 	},
 	{
 		"abr": "blackvintagecar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarVintageBlack"
 	},
 	{
 		"abr": "whitedeliverytruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarDeliveryWhite"
 	},
 	{
 		"abr": "whitefamilycar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarFamilyWhite"
 	},
 	{
 		"abr": "whitepickuptruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarPickupWhite"
 	},
 	{
 		"abr": "whitevintagecar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarVintageWhite"
 	},
 	{
 		"abr": "silverdeliverytruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarDeliverySilver"
 	},
 	{
 		"abr": "silverfamilycar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarFamilySilver"
 	},
 	{
 		"abr": "silverpickuptruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarPickupSilver"
 	},
 	{
 		"abr": "silvervintagecar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarVintageSilver"
 	},
 	{
 		"abr": "bluedeliverytruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarDeliveryBlue"
 	},
 	{
 		"abr": "bluefamilycar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarFamilyBlue"
 	},
 	{
 		"abr": "bluepickuptruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarPickupBlue"
 	},
 	{
 		"abr": "bluevintagecar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarVintageBlue"
 	},
 	{
 		"abr": "reddeliverytruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarDeliveryRed"
 	},
 	{
 		"abr": "redfamilycar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarFamilyRed"
 	},
 	{
 		"abr": "redpickuptruck",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarPickupRed"
 	},
 	{
 		"abr": "redvintagecar",
-		"price": 400,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEPD_CarVintageRed"
 	},
 	{
 		"abr": "deployablebarrier",
-		"price": 96,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFES_DeployableBarrier"
 	},
 	{
 		"abr": "hmgcomplex",
-		"price": 750,
+		"price": 775,
 		"category": "Diverses",
 		"defname": "VFES_Turret_HMGComplex"
 	},
 	{
 		"abr": "doubleautocannon",
-		"price": 3475,
+		"price": 3700,
 		"category": "Diverses",
 		"defname": "VFES_Turret_AutocannonDouble"
 	},
 	{
 		"abr": "chargecomplex",
-		"price": 1692,
+		"price": 1783,
 		"category": "Diverses",
 		"defname": "VFES_Turret_ChargeComplex"
 	},
 	{
 		"abr": "barbedwire",
-		"price": 35,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFES_BarbedWire"
 	},
 	{
 		"abr": "trench",
-		"price": 40,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFES_Trench"
 	},
 	{
 		"abr": "platform",
-		"price": 40,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFES_Platform"
 	},
 	{
 		"abr": "ballista",
-		"price": 650,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFES_Turret_Ballista"
 	},
 	{
 		"abr": "catapult",
-		"price": 1192,
+		"price": 1200,
 		"category": "Diverses",
 		"defname": "VFES_Turret_Catapult"
 	},
 	{
 		"abr": "cavalryspikes",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFES_CavalrySpikes"
 	},
 	{
 		"abr": "largeshieldgenerator",
-		"price": 7458,
+		"price": 7675,
 		"category": "Diverses",
 		"defname": "VFES_ShieldGenerator_Large"
 	},
 	{
 		"abr": "chargerailgun",
-		"price": 4658,
+		"price": 4808,
 		"category": "Diverses",
 		"defname": "VFES_Turret_ChargeRailgunTurret"
 	},
 	{
 		"abr": "empcannon",
-		"price": 4225,
+		"price": 4408,
 		"category": "Diverses",
 		"defname": "VFES_Turret_EMPTurret"
 	},
 	{
 		"abr": "reinforcedwall",
-		"price": 68,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ReinforcedWall"
 	},
 	{
 		"abr": "reinforcedembrasure",
-		"price": 68,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ReinforcedEmbrasure"
 	},
 	{
 		"abr": "powerwall",
-		"price": 383,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PowerWall"
 	},
 	{
 		"abr": "powerembrasure",
-		"price": 383,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "PowerEmbrasure"
 	},
 	{
 		"abr": "bambuslagerfeuer",
-		"price": 45,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VG_Campfire"
 	},
 	{
 		"abr": "bambootorchlamp",
-		"price": 44,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VG_TorchLamp"
 	},
 	{
 		"abr": "hydro-jellyfarm",
-		"price": 767,
+		"price": 775,
 		"category": "Diverses",
 		"defname": "VG_JellyFarm"
 	},
 	{
 		"abr": "handelsterminal",
-		"price": 667,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VTE_TradingTerminal"
 	},
 	{
 		"abr": "finewall",
-		"price": 35,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEArch_FineWall"
 	},
 	{
 		"abr": "stonedarkcampfire",
-		"price": 128,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Stone_DarklightCampfire"
 	},
 	{
 		"abr": "embrasure(letterbox)",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SeamlessEmbrasure_Letterbox"
 	},
 	{
 		"abr": "embrasure(hole)",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SeamlessEmbrasure_Hole"
 	},
@@ -11444,7 +11444,7 @@
 	},
 	{
 		"abr": "aeroshiplandingbeacon",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AeroShipLandingBeacon"
 	},
@@ -11672,25 +11672,25 @@
 	},
 	{
 		"abr": "ancientruinedbanner",
-		"price": 31,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_AncientRuinedBanner"
 	},
 	{
 		"abr": "ancientruinedbarrel",
-		"price": 15,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_AncientRuinedBarrel"
 	},
 	{
 		"abr": "ancientruinedcart",
-		"price": 342,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_AncientRuinedCart"
 	},
 	{
 		"abr": "ancientruinedcrate",
-		"price": 15,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_AncientRuinedCrate"
 	},
@@ -11726,13 +11726,13 @@
 	},
 	{
 		"abr": "animalfencepost",
-		"price": 11,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAFencePost"
 	},
 	{
 		"abr": "antiquedoor",
-		"price": 159,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_DoorOld"
 	},
@@ -11750,19 +11750,19 @@
 	},
 	{
 		"abr": "apiary",
-		"price": 558,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Apiary"
 	},
 	{
 		"abr": "apiary",
-		"price": 318,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEV_Apiary"
 	},
 	{
 		"abr": "apothecarysign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Apothecary"
 	},
@@ -11894,7 +11894,7 @@
 	},
 	{
 		"abr": "bakerysign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Bread"
 	},
@@ -11918,7 +11918,7 @@
 	},
 	{
 		"abr": "ballista",
-		"price": 925,
+		"price": 917,
 		"category": "Diverses",
 		"defname": "DankPyon_Turret_Ballista"
 	},
@@ -11930,7 +11930,7 @@
 	},
 	{
 		"abr": "ballistarepeater",
-		"price": 1708,
+		"price": 1725,
 		"category": "Diverses",
 		"defname": "DankPyon_Turret_RepeaterBallista"
 	},
@@ -11960,7 +11960,7 @@
 	},
 	{
 		"abr": "barber'stable",
-		"price": 328,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VHE_TableBarber"
 	},
@@ -12110,7 +12110,7 @@
 	},
 	{
 		"abr": "bedroll",
-		"price": 137,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAMakeshiftBedroll"
 	},
@@ -12134,7 +12134,7 @@
 	},
 	{
 		"abr": "bellows",
-		"price": 358,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Bellows"
 	},
@@ -12194,7 +12194,7 @@
 	},
 	{
 		"abr": "birdpost",
-		"price": 130,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_BirdPost"
 	},
@@ -12344,25 +12344,25 @@
 	},
 	{
 		"abr": "boundarystone",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_BoundaryStone"
 	},
 	{
 		"abr": "boundarystonecorner",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_BoundaryStoneCorner"
 	},
 	{
 		"abr": "boundarywood",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_BoundaryWood"
 	},
 	{
 		"abr": "boundarywoodcorner",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_BoundaryWoodCorner"
 	},
@@ -12530,7 +12530,7 @@
 	},
 	{
 		"abr": "butchersign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Butcher"
 	},
@@ -12566,13 +12566,13 @@
 	},
 	{
 		"abr": "campfirewithimprovisedroast",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CACampfireTribalRoast"
 	},
 	{
 		"abr": "campfirewithroast",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CACampfireRoast"
 	},
@@ -12626,13 +12626,13 @@
 	},
 	{
 		"abr": "castlewall",
-		"price": 55,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_CastleWall"
 	},
 	{
 		"abr": "castlewallembrasures",
-		"price": 38,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_CastleWallEmbrasures"
 	},
@@ -12848,7 +12848,7 @@
 	},
 	{
 		"abr": "chemfuelpoweredcampgenerator",
-		"price": 492,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAChemfuelPoweredGenerator"
 	},
@@ -12860,7 +12860,7 @@
 	},
 	{
 		"abr": "chest-deepmovingwater",
-		"price": 60,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_terraform_ChestDeepMovingWater"
 	},
@@ -13004,7 +13004,7 @@
 	},
 	{
 		"abr": "cobblestonewall",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEM_CobblestoneWall"
 	},
@@ -13064,7 +13064,7 @@
 	},
 	{
 		"abr": "cookingtools",
-		"price": 633,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RusticCookingTools"
 	},
@@ -13190,7 +13190,7 @@
 	},
 	{
 		"abr": "cupboard",
-		"price": 417,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Cupboard"
 	},
@@ -13262,7 +13262,7 @@
 	},
 	{
 		"abr": "deepwater",
-		"price": 60,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_terraform_DeepWater"
 	},
@@ -13274,7 +13274,7 @@
 	},
 	{
 		"abr": "digupwater",
-		"price": 30,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_terraform_DigUpWater"
 	},
@@ -13340,7 +13340,7 @@
 	},
 	{
 		"abr": "doorframe",
-		"price": 211,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_DoorFrame"
 	},
@@ -13358,19 +13358,19 @@
 	},
 	{
 		"abr": "doublebedroll",
-		"price": 290,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAMakeshiftBedrollDouble"
 	},
 	{
 		"abr": "doubledrawbridgeup",
-		"price": 858,
+		"price": 867,
 		"category": "Diverses",
 		"defname": "sd_bridges_doubledrawbridge_up"
 	},
 	{
 		"abr": "doubledrawbridgeup",
-		"price": 858,
+		"price": 867,
 		"category": "Diverses",
 		"defname": "sd_bridges_doubledrawbridge_down"
 	},
@@ -13406,13 +13406,13 @@
 	},
 	{
 		"abr": "drawbridgeup",
-		"price": 425,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_drawbridge_up"
 	},
 	{
 		"abr": "drawbridgeup",
-		"price": 425,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_drawbridge_down"
 	},
@@ -13448,7 +13448,7 @@
 	},
 	{
 		"abr": "dryingrack(hide)",
-		"price": 104,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_DryRack"
 	},
@@ -13526,7 +13526,7 @@
 	},
 	{
 		"abr": "embrasure",
-		"price": 25,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Embrasure"
 	},
@@ -13694,7 +13694,7 @@
 	},
 	{
 		"abr": "fass(pottasche)",
-		"price": 215,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYPotashBarrel"
 	},
@@ -13712,19 +13712,19 @@
 	},
 	{
 		"abr": "fence",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_WoodFence"
 	},
 	{
 		"abr": "fencedoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CATentFenceDoor"
 	},
 	{
 		"abr": "fencedoor",
-		"price": 105,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_Door"
 	},
@@ -13874,7 +13874,7 @@
 	},
 	{
 		"abr": "flowerwall",
-		"price": 55,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_FlowerWall"
 	},
@@ -13898,7 +13898,7 @@
 	},
 	{
 		"abr": "footmanremains",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_AncientFootman"
 	},
@@ -13976,7 +13976,7 @@
 	},
 	{
 		"abr": "funeralpyre",
-		"price": 101,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEV_FuneralPyre"
 	},
@@ -14018,7 +14018,7 @@
 	},
 	{
 		"abr": "gardeningbox",
-		"price": 242,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_GardeningBox"
 	},
@@ -14030,7 +14030,7 @@
 	},
 	{
 		"abr": "gate",
-		"price": 124,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Gate"
 	},
@@ -14474,7 +14474,7 @@
 	},
 	{
 		"abr": "grindingwheel",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Grinder"
 	},
@@ -14642,7 +14642,7 @@
 	},
 	{
 		"abr": "hayrack",
-		"price": 36,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_HayRack"
 	},
@@ -14960,7 +14960,7 @@
 	},
 	{
 		"abr": "hidetent",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_HideTentWall"
 	},
@@ -15008,13 +15008,13 @@
 	},
 	{
 		"abr": "holzkohlegenerator",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYCharcoalFiredGenerator"
 	},
 	{
 		"abr": "holzkohlekrematorium",
-		"price": 592,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYCharcoalCrematorium"
 	},
@@ -15272,7 +15272,7 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 8,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "TrapIED_AntigrainWarhead_Large"
 	},
@@ -15404,7 +15404,7 @@
 	},
 	{
 		"abr": "jewelrysign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Jewelry"
 	},
@@ -15506,7 +15506,7 @@
 	},
 	{
 		"abr": "kinderstammeskleidung",
-		"price": 108,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Apparel_KidTribal"
 	},
@@ -15584,19 +15584,19 @@
 	},
 	{
 		"abr": "kompostierfass(blumenerde)",
-		"price": 128,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYCompostBarrel"
 	},
 	{
 		"abr": "kräuterbox",
-		"price": 28,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYHerbBox"
 	},
 	{
 		"abr": "kräuterbox(gedüngt)",
-		"price": 47,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYHerbBoxLime"
 	},
@@ -15638,13 +15638,13 @@
 	},
 	{
 		"abr": "lagerfeuer",
-		"price": 833,
+		"price": 842,
 		"category": "Diverses",
 		"defname": "VME_Bonfire"
 	},
 	{
 		"abr": "lagerfeuer(groß)",
-		"price": 36,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_BonfireAfterRitual"
 	},
@@ -15686,7 +15686,7 @@
 	},
 	{
 		"abr": "lamppost",
-		"price": 149,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_LampPost"
 	},
@@ -15698,7 +15698,7 @@
 	},
 	{
 		"abr": "landbridge",
-		"price": 70,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_landbridge"
 	},
@@ -15956,7 +15956,7 @@
 	},
 	{
 		"abr": "librarysign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Library"
 	},
@@ -16046,19 +16046,19 @@
 	},
 	{
 		"abr": "logcolumn",
-		"price": 71,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_LogColumn"
 	},
 	{
 		"abr": "loggate",
-		"price": 91,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_LogGate"
 	},
 	{
 		"abr": "loggateframe",
-		"price": 107,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Frame_Log"
 	},
@@ -16094,7 +16094,7 @@
 	},
 	{
 		"abr": "logwall",
-		"price": 20,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_LogWall"
 	},
@@ -16136,7 +16136,7 @@
 	},
 	{
 		"abr": "lowrockwall",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEM_LowRockWall"
 	},
@@ -16196,7 +16196,7 @@
 	},
 	{
 		"abr": "marsh",
-		"price": 30,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_terraform_MarshWater"
 	},
@@ -16208,13 +16208,13 @@
 	},
 	{
 		"abr": "massgrave",
-		"price": 8,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MassGrave"
 	},
 	{
 		"abr": "massgrave",
-		"price": 8,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "MassGraveAlt"
 	},
@@ -16244,13 +16244,13 @@
 	},
 	{
 		"abr": "meatrack(2x2)",
-		"price": 70,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_DryingRack"
 	},
 	{
 		"abr": "meatsmoker",
-		"price": 79,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEM_MeatSmoker"
 	},
@@ -16292,7 +16292,7 @@
 	},
 	{
 		"abr": "meditrain(tm)table",
-		"price": 306,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "IF_MeditrainTable"
 	},
@@ -16370,7 +16370,7 @@
 	},
 	{
 		"abr": "meiler",
-		"price": 558,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYCharcoalKiln"
 	},
@@ -16466,7 +16466,7 @@
 	},
 	{
 		"abr": "minicommsconsole",
-		"price": 608,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAMiniCommsConsole"
 	},
@@ -16712,19 +16712,19 @@
 	},
 	{
 		"abr": "ominöserobelisk",
-		"price": 367,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_Obelisk"
 	},
 	{
 		"abr": "one-waya/candheater",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAAirConditioningHeater"
 	},
 	{
 		"abr": "one-waycooler",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CACooler"
 	},
@@ -16766,7 +16766,7 @@
 	},
 	{
 		"abr": "orbitalcamptradebeacon",
-		"price": 185,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAOrbitalTradeBeacon"
 	},
@@ -16850,13 +16850,13 @@
 	},
 	{
 		"abr": "palisadeembrasures",
-		"price": 29,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_EmbPalisade"
 	},
 	{
 		"abr": "palisades",
-		"price": 29,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Palisade"
 	},
@@ -16880,7 +16880,7 @@
 	},
 	{
 		"abr": "passivkühler(ammoniak)",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYPassiveCooler"
 	},
@@ -17084,13 +17084,13 @@
 	},
 	{
 		"abr": "poluxsamen",
-		"price": 2000,
+		"price": 1958,
 		"category": "Diverses",
 		"defname": "PoluxSeed"
 	},
 	{
 		"abr": "pontoonbridge",
-		"price": 10,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_pontoonbridge"
 	},
@@ -17234,7 +17234,7 @@
 	},
 	{
 		"abr": "quenchingbucket",
-		"price": 211,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_QuenchingBucket"
 	},
@@ -17396,7 +17396,7 @@
 	},
 	{
 		"abr": "reinforceddoor",
-		"price": 255,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ReinforcedDoor"
 	},
@@ -17426,7 +17426,7 @@
 	},
 	{
 		"abr": "reinforcedtrench",
-		"price": 24,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RTrench"
 	},
@@ -17570,7 +17570,7 @@
 	},
 	{
 		"abr": "royalcolumn",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RoyalColumn"
 	},
@@ -17654,25 +17654,25 @@
 	},
 	{
 		"abr": "runedcolumn",
-		"price": 76,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEV_RunedColumn"
 	},
 	{
 		"abr": "rustedhauberk",
-		"price": 8,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RustedHauberk"
 	},
 	{
 		"abr": "rustedhelmet",
-		"price": 7,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RustedHelmet"
 	},
 	{
 		"abr": "rustedswords",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RustedSwords"
 	},
@@ -17690,13 +17690,13 @@
 	},
 	{
 		"abr": "rusticdoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RusticDoor"
 	},
 	{
 		"abr": "rusticfermentingbarrel",
-		"price": 129,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RusticFermentingBarrel"
 	},
@@ -17744,7 +17744,7 @@
 	},
 	{
 		"abr": "rustictorchlamp",
-		"price": 67,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_RusticTorchLamp"
 	},
@@ -17900,7 +17900,7 @@
 	},
 	{
 		"abr": "scorpio",
-		"price": 442,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Turret_Scorpio"
 	},
@@ -17912,7 +17912,7 @@
 	},
 	{
 		"abr": "scribetable",
-		"price": 525,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_ScribeTable"
 	},
@@ -17924,7 +17924,7 @@
 	},
 	{
 		"abr": "seabridge",
-		"price": 70,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_seabridge"
 	},
@@ -17942,13 +17942,13 @@
 	},
 	{
 		"abr": "shallowmovingwater",
-		"price": 30,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_terraform_ShallowMovingWater"
 	},
 	{
 		"abr": "shallowwater",
-		"price": 30,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "sd_bridges_terraform_ShallowWater"
 	},
@@ -18002,19 +18002,19 @@
 	},
 	{
 		"abr": "shootingrange",
-		"price": 320,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ShootingRange"
 	},
 	{
 		"abr": "shootingrangeleft",
-		"price": 383,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ShootingRangeLeft"
 	},
 	{
 		"abr": "shootingrangeright",
-		"price": 383,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "ShootingRangeRight"
 	},
@@ -18068,7 +18068,7 @@
 	},
 	{
 		"abr": "silkbed",
-		"price": 229,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_SilkBed"
 	},
@@ -18200,7 +18200,7 @@
 	},
 	{
 		"abr": "simplefishtrap",
-		"price": 46,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VG_FishTrap"
 	},
@@ -18242,7 +18242,7 @@
 	},
 	{
 		"abr": "slabdoor",
-		"price": 201,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_SlabDoor"
 	},
@@ -18308,7 +18308,7 @@
 	},
 	{
 		"abr": "smithsign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Smith"
 	},
@@ -18362,13 +18362,13 @@
 	},
 	{
 		"abr": "smokehouse",
-		"price": 450,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "SmokeHouse"
 	},
 	{
 		"abr": "smokepit",
-		"price": 21,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "Smokepit"
 	},
@@ -18410,13 +18410,13 @@
 	},
 	{
 		"abr": "spacerbedroll",
-		"price": 137,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CASpacerBedroll"
 	},
 	{
 		"abr": "spacerdoublebedroll",
-		"price": 290,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CASpacerBedrollDouble"
 	},
@@ -18548,7 +18548,7 @@
 	},
 	{
 		"abr": "stewpot",
-		"price": 202,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VCE_StewPot"
 	},
@@ -18602,49 +18602,49 @@
 	},
 	{
 		"abr": "streetlamp",
-		"price": 111,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_Street_Lamp_L"
 	},
 	{
 		"abr": "streetlamp",
-		"price": 111,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_Street_Lamp_Seven"
 	},
 	{
 		"abr": "streetlampe",
-		"price": 111,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_Street_Lamp"
 	},
 	{
 		"abr": "streetlampe",
-		"price": 142,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_Street_Lamp_SevenE"
 	},
 	{
 		"abr": "streetlampe(white)",
-		"price": 111,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Street_Lamp_White"
 	},
 	{
 		"abr": "streetlampe(white)",
-		"price": 142,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Street_Lamp_SevenE_White"
 	},
 	{
 		"abr": "streetlamp(white)",
-		"price": 111,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Street_Lamp_L_White"
 	},
 	{
 		"abr": "streetlamp(white)",
-		"price": 111,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Street_Lamp_Seven_White"
 	},
@@ -18746,7 +18746,7 @@
 	},
 	{
 		"abr": "tablewareshelf",
-		"price": 279,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_TablewareShelf"
 	},
@@ -18764,7 +18764,7 @@
 	},
 	{
 		"abr": "tailorsign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Tailor"
 	},
@@ -18800,7 +18800,7 @@
 	},
 	{
 		"abr": "tanningrack",
-		"price": 104,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_TanningRack"
 	},
@@ -18818,7 +18818,7 @@
 	},
 	{
 		"abr": "tarpit",
-		"price": 483,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_TarPit"
 	},
@@ -18842,7 +18842,7 @@
 	},
 	{
 		"abr": "tavernsign",
-		"price": 102,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Sign_Tavern"
 	},
@@ -18896,13 +18896,13 @@
 	},
 	{
 		"abr": "tent",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_TentWall"
 	},
 	{
 		"abr": "tentdoor",
-		"price": 88,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CATentDoor"
 	},
@@ -18926,13 +18926,13 @@
 	},
 	{
 		"abr": "tentwall",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CAMakeshiftTentWall"
 	},
 	{
 		"abr": "tentwall",
-		"price": 17,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "CATentWall"
 	},
@@ -19106,7 +19106,7 @@
 	},
 	{
 		"abr": "toolrack",
-		"price": 558,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_ToolRack"
 	},
@@ -19208,7 +19208,7 @@
 	},
 	{
 		"abr": "trenchs",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_Trench"
 	},
@@ -19358,13 +19358,13 @@
 	},
 	{
 		"abr": "uralteausstellungsbank",
-		"price": 9,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientDisplayBank"
 	},
 	{
 		"abr": "uraltegeräteblöcke",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientEquipmentBlocks"
 	},
@@ -19376,7 +19376,7 @@
 	},
 	{
 		"abr": "uraltekiste",
-		"price": 2,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientCrate"
 	},
@@ -19406,19 +19406,19 @@
 	},
 	{
 		"abr": "uraltemaschine",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientMachine"
 	},
 	{
 		"abr": "uraltemechanoidenhülle",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientMechanoidShell"
 	},
 	{
 		"abr": "uraltemegakanonenplattform",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientMegaCannonTripod"
 	},
@@ -19430,25 +19430,25 @@
 	},
 	{
 		"abr": "uraltemilitärkiste",
-		"price": 2,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientMilitaryCrate"
 	},
 	{
 		"abr": "uraltepanzerfalle",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientTankTrap"
 	},
 	{
 		"abr": "uralteschließfachbank",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientLockerBank"
 	},
 	{
 		"abr": "uraltespacer-kiste",
-		"price": 2,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientSpacerCrate"
 	},
@@ -19478,7 +19478,7 @@
 	},
 	{
 		"abr": "uraltercontainer",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientContainer"
 	},
@@ -19496,7 +19496,7 @@
 	},
 	{
 		"abr": "uraltergenerator",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientGenerator"
 	},
@@ -19538,31 +19538,31 @@
 	},
 	{
 		"abr": "uralterop-tisch",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientOperatingTable"
 	},
 	{
 		"abr": "uraltersicherheitsturm",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientSecurityTurret"
 	},
 	{
 		"abr": "uralterspeicherzylinder",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientStorageCylinder"
 	},
 	{
 		"abr": "uralterstacheldraht",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientRazorWire"
 	},
 	{
 		"abr": "uralterweltraumschrott",
-		"price": 2,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientSpaceJunk"
 	},
@@ -19574,13 +19574,13 @@
 	},
 	{
 		"abr": "uraltesbett",
-		"price": 5,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientBed"
 	},
 	{
 		"abr": "uraltesfass",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientBarrel"
 	},
@@ -19592,19 +19592,19 @@
 	},
 	{
 		"abr": "uraltesmechabwurffeuers",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientMechDropBeacon"
 	},
 	{
 		"abr": "uraltesmegakanonenrohr",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientMegaCannonBarrel"
 	},
 	{
 		"abr": "uraltesnavigationsgerät",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientShipBeacon"
 	},
@@ -19616,13 +19616,13 @@
 	},
 	{
 		"abr": "uraltesrohr",
-		"price": 1,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientPipes"
 	},
 	{
 		"abr": "uraltessystemrack",
-		"price": 9,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_AncientSystemRack"
 	},
@@ -19646,13 +19646,13 @@
 	},
 	{
 		"abr": "ventwall",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_VentWall"
 	},
 	{
 		"abr": "ventwall",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_VentWall"
 	},
@@ -19712,61 +19712,61 @@
 	},
 	{
 		"abr": "wall",
-		"price": 11,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_Wall"
 	},
 	{
 		"abr": "wall",
-		"price": 18,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Wall"
 	},
 	{
 		"abr": "walllamp",
-		"price": 68,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_WallLamp"
 	},
 	{
 		"abr": "walllamp",
-		"price": 74,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Wall_Lamp"
 	},
 	{
 		"abr": "walllampe",
-		"price": 74,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Wall_LampE"
 	},
 	{
 		"abr": "walllampe(white)",
-		"price": 74,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Wall_LampE_White"
 	},
 	{
 		"abr": "walllamp(white)",
-		"price": 74,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_Wall_Lamp_White"
 	},
 	{
 		"abr": "walltorch",
-		"price": 67,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_WallTorch"
 	},
 	{
 		"abr": "wall-mountedtorchlamp",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEM_WallTorchLamp"
 	},
 	{
 		"abr": "wall-mountedtorchlamp",
-		"price": 41,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VFEM_WallTorchDarkLamp"
 	},
@@ -19832,13 +19832,13 @@
 	},
 	{
 		"abr": "waterfilledbarrel",
-		"price": 116,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_BarrelWater"
 	},
 	{
 		"abr": "watergrower",
-		"price": 20,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AYWaterGrower"
 	},
@@ -19862,7 +19862,7 @@
 	},
 	{
 		"abr": "weidenmann",
-		"price": 178,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "VME_WickerMan"
 	},
@@ -19934,7 +19934,7 @@
 	},
 	{
 		"abr": "windmill",
-		"price": 858,
+		"price": 850,
 		"category": "Diverses",
 		"defname": "DankPyon_WindMill"
 	},
@@ -19946,13 +19946,13 @@
 	},
 	{
 		"abr": "windowwall",
-		"price": 34,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "RGK_WindowWall"
 	},
 	{
 		"abr": "windowwall",
-		"price": 34,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "GL_WindowWall"
 	},
@@ -20030,7 +20030,7 @@
 	},
 	{
 		"abr": "woodburningstove",
-		"price": 156,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_WoodBurningStove"
 	},
@@ -20054,7 +20054,7 @@
 	},
 	{
 		"abr": "woodencavalryspikes",
-		"price": 27,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "DankPyon_CavalrySpike"
 	},
@@ -20099,12 +20099,6 @@
 		"price": 42,
 		"category": "Ei (befr.)",
 		"defname": "ACPEggxenguanaFertilized"
-	},
-	{
-		"abr": "youthserum",
-		"price": 2333,
-		"category": "Objekte",
-		"defname": "MechSerumYouth"
 	},
 	{
 		"abr": "zelt",
@@ -20174,109 +20168,109 @@
 	},
 	{
 		"abr": "alphapack",
-		"price": 167,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_Alphapack"
 	},
 	{
 		"abr": "ancientbandnode",
-		"price": 15,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientBandNode"
 	},
 	{
 		"abr": "ancientbrokenlamp",
-		"price": 15,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientLamp"
 	},
 	{
 		"abr": "ancientcorpse",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientCorpse"
 	},
 	{
 		"abr": "ancientfaultylamp",
-		"price": 14,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientFaultyLamp"
 	},
 	{
 		"abr": "ancientgeneassembler",
-		"price": 44,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientGeneAssembler"
 	},
 	{
 		"abr": "ancientgenebank",
-		"price": 28,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientGeneBank"
 	},
 	{
 		"abr": "ancientgeneextractor",
-		"price": 75,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientGeneExtractor"
 	},
 	{
 		"abr": "ancientgeneprocessor",
-		"price": 29,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientGeneProcessor"
 	},
 	{
 		"abr": "ancientgrowthvat",
-		"price": 28,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientGrowthVat"
 	},
 	{
 		"abr": "ancienthospitalbed",
-		"price": 667,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_RuinedHospitalBed"
 	},
 	{
 		"abr": "ancienthugegenebank",
-		"price": 75,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientHugeBank"
 	},
 	{
 		"abr": "ancientlablamp",
-		"price": 14,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_RuinedLabLamp"
 	},
 	{
 		"abr": "ancientlargemechgestator",
-		"price": 75,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientLargeMechGestator"
 	},
 	{
 		"abr": "ancientlargemechrecharger",
-		"price": 75,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientLargeRecharger"
 	},
 	{
 		"abr": "ancientmechgestator",
-		"price": 44,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientMechGestator"
 	},
 	{
 		"abr": "ancientmechrecharger",
-		"price": 44,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientBasicRecharger"
 	},
 	{
 		"abr": "ancientpollutionpump",
-		"price": 15,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientPollutionPump"
 	},
@@ -20288,25 +20282,25 @@
 	},
 	{
 		"abr": "ancientshelf",
-		"price": 6,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientShelf"
 	},
 	{
 		"abr": "ancientsubcoreripscanner",
-		"price": 75,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientSubcoreRipscanner"
 	},
 	{
 		"abr": "ancientvitalsmonitor",
-		"price": 15,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientVitalsMonitor"
 	},
 	{
 		"abr": "ancientwastepackatomizer",
-		"price": 75,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_AncientWastepackAtomizer"
 	},
@@ -20414,7 +20408,7 @@
 	},
 	{
 		"abr": "designermate",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "DesignerMatesXH"
 	},
@@ -20522,13 +20516,13 @@
 	},
 	{
 		"abr": "glitterworldhuman",
-		"price": 4167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "GlitterWorlderRace"
 	},
 	{
 		"abr": "gravitydwarf",
-		"price": 3500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "HighGravWorlderRace"
 	},
@@ -20636,7 +20630,7 @@
 	},
 	{
 		"abr": "labdoor",
-		"price": 37,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_LabDoor"
 	},
@@ -20660,7 +20654,7 @@
 	},
 	{
 		"abr": "lo-gravhuman",
-		"price": 3500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "LowGravWorlderRace"
 	},
@@ -20696,7 +20690,7 @@
 	},
 	{
 		"abr": "mixedpack",
-		"price": 167,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_Mixedpack"
 	},
@@ -20816,19 +20810,19 @@
 	},
 	{
 		"abr": "radworldhuman",
-		"price": 2583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "RadWorlderRace"
 	},
 	{
 		"abr": "randomgenetool",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_RandomGeneTool"
 	},
 	{
 		"abr": "randomgenepack",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_RandomGenepack"
 	},
@@ -20846,13 +20840,13 @@
 	},
 	{
 		"abr": "ruinedradiobeacon",
-		"price": 12,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_RaidSpawner"
 	},
 	{
 		"abr": "rustedbiotechlabwall",
-		"price": 4,
+		"price": -10,
 		"category": "Diverses",
 		"defname": "AG_RustedWall"
 	},
@@ -20864,7 +20858,7 @@
 	},
 	{
 		"abr": "scaleman",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ScaleManXH"
 	},
@@ -21806,7 +21800,7 @@
 	},
 	{
 		"abr": "mashedpomana",
-		"price": 0,
+		"price": -10,
 		"category": "Vegetarisch",
 		"defname": "TM_RawPomanaMash"
 	},
@@ -22046,7 +22040,7 @@
 	},
 	{
 		"abr": "soldiermorph",
-		"price": 2917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "SoldiermorphXH"
 	},
@@ -22314,6 +22308,150 @@
 		"category": "Jewelry",
 		"defname": "Jewelry_EltexRing_Silver"
 	},
+	{
+		"abr": "trident",
+		"price": 542,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_trident"
+	},
+	{
+		"abr": "unfinishedarcanebook",
+		"price": 4392,
+		"category": "Skill books",
+		"defname": "UnfinishedAdvArcane"
+	},
+	{
+		"abr": "unfinishedmartialbook",
+		"price": 3425,
+		"category": "Skill books",
+		"defname": "UnfinishedMartial"
+	},
+	{
+		"abr": "unfinishedtornscript",
+		"price": 2333,
+		"category": "Skill books",
+		"defname": "UnfinishedArcane"
+	},
+	{
+		"abr": "unrefinedmagicyte",
+		"price": 8,
+		"category": "Refined magicyte",
+		"defname": "RawMagicyte"
+	},
+	{
+		"abr": "vatdrone",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VatgrownHumanRace"
+	},
+	{
+		"abr": "wandoffire",
+		"price": 800,
+		"category": "Magic foci",
+		"defname": "TM_FireWand"
+	},
+	{
+		"abr": "wandofice",
+		"price": 800,
+		"category": "Magic foci",
+		"defname": "TM_IceWand"
+	},
+	{
+		"abr": "wandoflightning",
+		"price": 800,
+		"category": "Magic foci",
+		"defname": "TM_LightningWand"
+	},
+	{
+		"abr": "wanderer'scloak",
+		"price": 1375,
+		"category": "Magic apparel",
+		"defname": "TM_MaestersCloak"
+	},
+	{
+		"abr": "warscythe",
+		"price": 608,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_warscythe"
+	},
+	{
+		"abr": "warsickle",
+		"price": 1042,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_warsickle"
+	},
+	{
+		"abr": "warspear",
+		"price": 442,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_warspear"
+	},
+	{
+		"abr": "warhammer",
+		"price": 425,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_warhammer"
+	},
+	{
+		"abr": "warlockspell:psychicshock",
+		"price": 3000,
+		"category": "Scrolls",
+		"defname": "SpellOf_PsychicShock"
+	},
+	{
+		"abr": "winter'sreign",
+		"price": 7500,
+		"category": "Magic foci",
+		"defname": "TM_WinterStaff"
+	},
+	{
+		"abr": "wizardhat",
+		"price": 392,
+		"category": "Magic apparel",
+		"defname": "TM_WizardHat"
+	},
+	{
+		"abr": "wolfman",
+		"price": -10,
+		"category": "Animal",
+		"defname": "WolfManXH"
+	},
+	{
+		"abr": "woodcutter'saxe",
+		"price": 145,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_Woodcutteraxe"
+	},
+	{
+		"abr": "woodenmallet",
+		"price": 162,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_mallet"
+	},
+	{
+		"abr": "xenogenefier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_Xenogenefier"
+	},
+	{
+		"abr": "xenotypeinjector",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_XenotypeInjector"
+	},
+	{
+		"abr": "xenotypenullifier",
+		"price": 167,
+		"category": "Gene tools",
+		"defname": "AG_XenotypeNullifier"
+	},
+	{
+		"abr": "zweihander",
+		"price": 717,
+		"category": "Nahkampfwaffen",
+		"defname": "MM_zweihander"
+	},
 	],
-	"total": 3743
+	"total": 3754
 }

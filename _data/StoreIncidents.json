@@ -248,7 +248,7 @@
 	{
 		"abr": "manhunterpack",
 		"price": 2000,
-		"karmatype": "Bad"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "predators",
@@ -297,7 +297,7 @@
 	},
 	{
 		"abr": "item",
-		"price": 50,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
