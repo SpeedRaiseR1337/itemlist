@@ -1356,6 +1356,12 @@
     "version": "1.4"
   },
   {
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.10"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -1770,6 +1776,12 @@
     "version": "1.1.8343.18669"
   },
   {
+    "author": "MarvinKosh",
+    "name": "Ugh You Got Me",
+    "steamId": "1542424705",
+    "version": "1.0.8325.19264"
+  },
+  {
     "author": "Oskar Potocki, Kikohi und Sarg Bjornson",
     "name": "Vanilla Factions Expanded - Insectoids",
     "steamId": "2149755445",
@@ -1938,6 +1950,12 @@
     "version": null
   },
   {
+    "author": "Crustypeanut",
+    "name": "War Crimes Expanded 2 Core",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Epicguru (James B)",
     "name": "What's That Mod",
     "steamId": "2258431182",
@@ -1966,6 +1984,12 @@
     "name": "While You're Up / PUAH+",
     "steamId": "2034960453",
     "version": "3.2.2.1065"
+  },
+  {
+    "author": "Owlchemist und jptrrs",
+    "name": "Windows",
+    "steamId": "2571189146",
+    "version": "1.4"
   },
   {
     "author": "Zylle",
@@ -2140,11 +2164,5 @@
     "name": "[sd] Bridges (Continued)",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Major Hoff",
-    "name": "RimThreaded",
-    "steamId": "2222907981",
-    "version": "2.7.3"
   }
 ]
