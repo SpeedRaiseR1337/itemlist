@@ -816,7 +816,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a fantastic memory for detail. er will learn new skills slightly faster than other people.",
+      "description": "Timmy hat einen fantastisches Gedächtnis. er lernt neue Fähigkeiten etwas schneller als andere Leute.",
       "stats": [
         "+25% Global-Lernrate-Faktor"
       ],
@@ -1932,8 +1932,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
-      "stats": [],
+      "description": "Timmy neigt dazu, gelegentlich in Gedanken zu versinken und somit die Arbeit schleifen zu lassen.",
+      "stats": [
+        "x50% Global-Glaubensverlust-Faktor"
+      ],
       "conflicts": [
         "workaholic",
         "industrious",
@@ -1950,7 +1952,9 @@
           "lazy",
           "slothful"
         ],
-        "stats": [],
+        "stats": [
+          "x50% Global-Glaubensverlust-Faktor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1966,7 +1970,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
+      "description": "Timmy hat ein oder zwei lose Schrauben im Kopf, ein kleiner Kompromiss für die natürliche wissenschaftliche Neigung.",
       "stats": [
         "x115% Forschungsgeschwindigkeit"
       ],
@@ -1996,7 +2000,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy strives for perfection in sein work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
+      "description": "Timmy strebt nach Perfektion in der Arbeit von sein. Perfektionisten werden natürlich auf Kosten der Zeit qualitativ bessere Produkte produzieren. Die Herstellung eines Produkts von geringer Qualität wird sie jedoch verärgern. Außerdem können sie ein Projekt während des Versuchs sehr selten beenden, wenn ihnen die Richtung, in die es geht, nicht gefällt.",
       "stats": [
         "x65% Geschwindigkeit alle Arbeiten"
       ],
@@ -2022,7 +2026,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and er will try to hide or run as a first priority.",
+      "description": "Obwohl Timmy theoretisch voll kriegsfähig ist, neigen seine Kampf-oder Fluchtinstinkte stark zum wegrennen, und er wird versuchen, sich zu verstecken oder zu rennen.",
       "stats": [],
       "conflicts": [
         "brawler",
@@ -2052,7 +2056,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
+      "description": "Timmy hat eine höhere geistige und körperliche Stärke als die meisten anderen und kann sich leichter an raue Umgebungen in den Randwelten anpassen.",
       "stats": [
         "-20% Nervenbelastungsgrenze",
         "+20% Schmerzschockschwelle"
@@ -2086,7 +2090,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
+      "description": "Kleinere blaue Flecken und Kratzer plagen Timmy oft, hauptsächlich aufgrund unkoordinierter Unfälle oder Stürze.",
       "stats": [],
       "conflicts": [
         "nimble"
@@ -2112,7 +2116,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
+      "description": "Timmy liebt die Helligkeit und Hitze eines trockenen Sommertages. Hitzeliebhaber macht es auch nichts aus, ins Schwitzen zu kommen oder in der Wärme zu schlafen.",
       "stats": [
         "+10.0C Maximale Wohlfühltemperatur"
       ],
@@ -2142,7 +2146,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
+      "description": "Timmy liebt die Bedeckung und Kälte einer lebhaften Winternacht. Kälteliebhabern macht es auch nichts aus, zu frieren oder in der Kälte zu schlafen.",
       "stats": [
         "-10.0C Minimale Wohlfühltemperatur"
       ],
@@ -2172,7 +2176,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
+      "description": "Eine Bombe könnte neben Timmy hochgehen, während des Schlafens ohne eine Auswirkung. Tiefschläfer machen sich auch nicht die Mühe, die Kolonie während des Nickerchens zu verteidigen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2194,7 +2198,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
+      "description": "Timmy ist von Natur aus hygienisch und organisiert. Ordentliche Kolonisten verursachen weniger Dreck und ihnen macht das Reinigen Spaß.",
       "stats": [],
       "conflicts": [
         "slob"
@@ -2220,7 +2224,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
+      "description": "Timmy ist von Natur aus schlampig und hinterlässt überall Müll und Schmutz. Zumindest stören sich unordentliche Kolonisten nicht sehr an Unordnung.",
       "stats": [],
       "conflicts": [
         "neat"
@@ -2246,7 +2250,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has problems taking breaks or resting mid job. er will continue to work even sacrificing their health or sleep.",
+      "description": "Timmy hat Probleme, Pausen einzulegen oder sich während des Arbeitens auszuruhen. er wird weiterhin arbeiten und sogar die Gesundheit oder den Schlaf opfern.",
       "stats": [],
       "conflicts": [
         "absent-minded",
@@ -2280,7 +2284,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has never felt nausea in sein life. Throwing up or food poisoning is foreign to ihn.",
+      "description": "Timmy hat im Leben von sein noch nie Übelkeit verspürt. Erbrechen oder Lebensmittelvergiftung sind sein fremd.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -2306,7 +2310,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy can't stand mistreatment of animals. er will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
+      "description": "Timmy kann Misshandlungen von Tieren nicht ertragen. er wird sich glücklicher fühlen, wenn man sich an ein Tier kuschelt oder ein Halter ist, wird aber tief niedergeschlagen, wenn man nicht ein Tier beherrscht oder eins sterben sieht. Tierliebhaber weigern sich auch zu schlachten.",
       "stats": [],
       "conflicts": [
         "animalhater"
@@ -2332,7 +2336,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
+      "description": "Timmy glaubt fest an die menschliche Überlegenheit. Das Töten von Tieren wird Tierhassern gefallen und wenn die Kolonie ein Tier verliert springen sie vor Freude in die Luft.",
       "stats": [],
       "conflicts": [
         "animallover",
@@ -2360,7 +2364,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
+      "description": "Kolonisten mit schweren Knochen neigen dazu Gegenstände zu zerbrechen. Timmy hat in der Zeit einige Stühle zerbrochen und wird wahrscheinlich noch weitere zerbrechen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2382,8 +2386,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
-      "stats": [],
+      "description": "Timmy spielt nur nach den eigenen Regeln und rollt mit den Augen und macht es sich bei jeder Aufgabe, zu der man gezwungen wird leicht.",
+      "stats": [
+        "x25% Global-Glaubensverlust-Faktor"
+      ],
       "conflicts": [
         "submissive"
       ],
@@ -2392,7 +2398,9 @@
         "conflicts": [
           "submissive"
         ],
-        "stats": [],
+        "stats": [
+          "x25% Global-Glaubensverlust-Faktor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2408,8 +2416,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
-      "stats": [],
+      "description": "Timmy benötigt klare Anweisungen, wie und wann bestimmte Dinge zu tun sind, und funktioniert nur dann mit normaler Geschwindigkeit, wenn man gezwungen wird, etwas zu tun.",
+      "stats": [
+        "x200% Global-Glaubensverlust-Faktor"
+      ],
       "conflicts": [
         "rebel"
       ],
@@ -2418,7 +2428,9 @@
         "conflicts": [
           "rebel"
         ],
-        "stats": [],
+        "stats": [
+          "x200% Global-Glaubensverlust-Faktor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2434,8 +2446,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
-      "stats": [],
+      "description": "Timmy wird sehr schnell angeheizt. Rachsüchtige Kolonisten können es nicht ertragen, auf dem gleichen Boden wie ihre Rivalen zu laufen, und werden von der Nachricht ihres Lebensendes begeistert sein.",
+      "stats": [
+        "x25% Global-Glaubensverlust-Faktor"
+      ],
       "conflicts": [
         "kind"
       ],
@@ -2444,7 +2458,9 @@
         "conflicts": [
           "kind"
         ],
-        "stats": [],
+        "stats": [
+          "x25% Global-Glaubensverlust-Faktor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2460,7 +2476,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
+      "description": "Ob durch vergangene Traumata oder Angst vor Veränderungen, Timmy lehnt das Moderne ab. Technophobe Kompromiss können zufällig mechanische Geräte schlagen oder angreifen und sich weigern, etwas über sie zu lernen oder zu erforschen. Sie lieben es auch, Mechanoide zu töten.",
       "stats": [
         "Only mental break \"VTE_TechnophobeTantrum\" allowed."
       ],
@@ -2490,7 +2506,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
+      "description": "Timmy erinnert sich immer an die guten Zeiten und das Leben zum Feiern. Jede Party, an der teilgenommen wird, wird um ein Vielfaches länger in Erinnerung bleiben als die meisten anderen.",
       "stats": [],
       "conflicts": [
         "anxious"
@@ -2516,7 +2532,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
+      "description": "Timmy hat eingeschränkte geistigen Fähigkeiten. Dumme Kolonisten lernen zwar langsamer und ihnen fällt es schwer zu sprechen, sind aber von Natur aus viel glücklicher.",
       "stats": [
         "-50% Global-Lernrate-Faktor",
         "-50.00% Sozialer Eindruck"
@@ -2554,7 +2570,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
+      "description": "Timmy hat einen bestimmten Angriff im Nahkampf gelernt, der es ermöglicht, Gegner zu entwaffnen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2576,7 +2592,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
+      "description": "Timmy glaubt, dass man zur High Society gehört, und liebt nichts weiter als Kunst zu kritisieren.",
       "stats": [],
       "conflicts": [
         "ascetic"
@@ -2602,7 +2618,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for ihn.",
+      "description": "Magenbeschweden plagen Timmy immer dann, wenn man zu viel Blut oder verrottende Leichen im Vordergrund standen. Erbrechen ist für sein nur ein Teil des Lebens.",
       "stats": [],
       "conflicts": [
         "ironstomach",
@@ -2630,7 +2646,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
+      "description": "Timmy ist von Natur aus ängstlich, vor allem aber in sozialen Situationen. Ängstliche Kolonisten nehmen an keinen Versammlungen teil und benötigen gelegentlich Zeit in ihrem Zimmer, um durchzuatmen.",
       "stats": [
         "Only mental break \"VTE_PanicFreezing\" allowed."
       ],
@@ -2660,8 +2676,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "No amount of lovin' is enough lovin' for Timmy. er will tend to jump from partner to partner and tumble between the sheets with them frequently.",
-      "stats": [],
+      "description": "Egal wie stak die Liebe ist, sie wird nie genug für Timmy sein. er neigt dazu, von Partner zu Partner zu springen und häufig mit ihnen zwischen den Stühlen zu taumeln.",
+      "stats": [
+        "x200% Global-Glaubensverlust-Faktor"
+      ],
       "conflicts": [
         "prude",
         "asexual",
@@ -2674,7 +2692,9 @@
           "asexual",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x200% Global-Glaubensverlust-Faktor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2690,8 +2710,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
-      "stats": [],
+      "description": "Timmy weigert sich, den Körper jemand anderem als Ehepartner zu geben und würde es niemals ergründen, eine Scheidung einzuleiten. Prüde Kolonisten hassen es auch viel mehr, nackt zu sein als anderen.",
+      "stats": [
+        "x50% Global-Glaubensverlust-Faktor"
+      ],
       "conflicts": [
         "insatiable",
         "nudist"
@@ -2702,7 +2724,9 @@
           "insatiable",
           "nudist"
         ],
-        "stats": [],
+        "stats": [
+          "x50% Global-Glaubensverlust-Faktor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -2718,7 +2742,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
+      "description": "Ein Sessel und ein Flachbildschirm sind alles was Timmy braucht, um glücklich zu sein. Sogar Wiederholungen oder alte Werbespots sind unterhaltsam.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2740,7 +2764,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
+      "description": "Timmy ist verrückt nach Katzen. Katzenliebhaber neigen natürlich dazu, sich mit Katzen zu verbinden, sind jedoch kein Fan von Hunden.",
       "stats": [],
       "conflicts": [
         "dogperson"
@@ -2766,7 +2790,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
+      "description": "Timmy ist verrückt nach Hunden. Hundeliebhaber neigen natürlich dazu, sich mit Hunden zu verbinden, sind jedoch kein Fan von Katzen.",
       "stats": [],
       "conflicts": [
         "catperson"
@@ -2792,7 +2816,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
+      "description": "Timmy ist ein Naturwissenschaftler. Forschungssüchtige Kolonisten recherchieren viel schneller und erinnern sich besser an Dinge. Sie werden jedoch ohne ein Labor, das sich ihrer Arbeit widmet, verärgert sein und dazu neigen, häufiger Stress zu verursachen.",
       "stats": [
         "+20% Nervenbelastungsgrenze",
         "x130% Forschungsgeschwindigkeit"
@@ -2824,7 +2848,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
+      "description": "Timmy glaubt, dass Tiere ein wesentlicher Bestandteil der Funktionsweise von Gesellschaft und Leben sind, von pelzigen Freunden bis hin zu Nahrungsquellen. Menageristen lieben es, so viele Tiere wie möglich zu haben und sind besonders gut darin, sie zu zähmen und zu trainieren.",
       "stats": [
         "x120% Tierzähmungschance",
         "x120% Tiertrainingschance"
@@ -2856,7 +2880,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "The sea calls to Timmy. er feels happier just being near the ocean or a deep river.",
+      "description": "Das Meer ruft Timmy. er fühlt sich alleine dadurch glücklicher, nur in der Nähe von Wasser oder eines tiefen Flusses zu sein.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2878,7 +2902,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "The mountains call to Timmy. er feels happier just being near a large mountain.",
+      "description": "Die Berge rufen Timmy. er fühlt sich alleine dadurch glücklicher, nur in der Nähe eines großen Berges zu sein.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -2900,7 +2924,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has a twisted secret. er treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
+      "description": "Timmy hat ein verdrehtes Geheimnis. er behandelt den Organraub wie ein krankes Experiment und blinzelt nicht einmal bei der Idee.",
       "stats": [
         "+20% Operationserfolgschance-Faktor"
       ],
@@ -2926,7 +2950,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
+      "description": "Timmy ist angeblich ein Nahkampfspezialist, aber nur, wenn man betrunken ist. Trinkende Kämpfer behaupten, talentierter zu werden, je betrunkener sie sind.",
       "stats": [
         "+4 Nahkampf"
       ],
@@ -2952,7 +2976,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is compulsed to steal and take things that don't belong to them, even if it means angering the other party.",
+      "description": "Timmy ist gezwungen, Dinge zu stehlen auch wenn dies bedeutet, andere Parteien zu verärgern.",
       "stats": [
         "Only mental break \"VTE_Kleptomaniac\" allowed."
       ],
@@ -2978,7 +3002,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Smokeleaf culture is just part of life for Timmy. er absolutely adores smokeleaf and would rather die before giving it up.",
+      "description": "Die Rauchblattkultur ist für Timmy ein Teil des Lebens. er liebt das Rauchblatt und würde lieber sterben, anstatt den Konsum von Rauchblatt aufzugeben.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3010,7 +3034,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Alcohol culture is just part of life for Timmy. er absolutely adores booze and would rather die before giving it up.",
+      "description": "Die Alkoholkultur ist für Timmy ein Teil des Lebens. er liebt Alkohol und würde lieber sterben, anstatt den Konsum von Alkohol aufzugeben.",
       "stats": [],
       "conflicts": [
         "chemicalfascination",
@@ -3042,14 +3066,18 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
+      "description": "Timmy liebt es zu reisen und tut dies schnell, kann sich aber aufregen, wenn man eine Weile nicht verreist ist.",
       "stats": [
         "+0.2 Nahrungssuchmenge"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "undergrounder"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "undergrounder"
+        ],
         "stats": [
           "+0.2 Nahrungssuchmenge"
         ],
@@ -3068,7 +3096,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is never really asleep or awake. er is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
+      "description": "Timmy schläft oder wacht nie wirklich auf. er ist fast wie ein Zombie, torkelt und arbeitet sehr langsam und schläft nur etwa alle drei Tage.",
       "stats": [
         "x50% Geschwindigkeit alle Arbeiten",
         "x70% Laufgeschwindigkeit"
@@ -3100,7 +3128,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. sein bleak personality is a big downer and therefore it is very hard to become friends with them.",
+      "description": "Timmy hat die Welt satt und muss ständig abgelenkt werden, um dunkle Gedanken zu stoppen. Die düstere Persönlichkeit ist ein großer Wermutstropfen und daher ist es sehr schwer Freundschaften zu schließen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -3122,8 +3150,10 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
-      "stats": [],
+      "description": " Timmy ist desensibilisiert, was nur als altes emotionales Trauma angesehen werden kann. Desensibilisierte Kolonisten fühlen absolut nichts bei dem Verlust von Tieren, Kolonisten, Familienangehörigen, Gefangenen oder Leichen.",
+      "stats": [
+        "x50% Global-Glaubensverlust-Faktor"
+      ],
       "conflicts": [
         "squeamish"
       ],
@@ -3132,7 +3162,9 @@
         "conflicts": [
           "squeamish"
         ],
-        "stats": [],
+        "stats": [
+          "x50% Global-Glaubensverlust-Faktor"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -3148,7 +3180,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
+      "description": "Nur die besten kulinarischen Kreationen dürfen die Lippen von Timmy schmücken. Gourmet´s fühlen sich neutral gegenüber weltlichen Mahlzeiten, loben und genießen jedoch verschwenderische Mahlzeiten bis zum letzten Bissen.",
       "stats": [
         "x70% Essgeschwindigkeit"
       ],
@@ -3178,16 +3210,20 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
+      "description": "Ob durch das Studium alter Manuskripte oder durch jahrelanges schulisches Streben Timmy ist überraschend gut in einer Vielzahl von Themen, jedoch insbesondere in Forschung und Medizin.",
       "stats": [
         "+4 Intellekt",
         "+4 Medizin",
         "+20% Behandlungsqualität"
       ],
-      "conflicts": [],
+      "conflicts": [
+        "slowlearner"
+      ],
       "bypassLimit": false,
       "data": {
-        "conflicts": [],
+        "conflicts": [
+          "slowlearner"
+        ],
         "stats": [
           "+4 Intellekt",
           "+4 Medizin",
@@ -3208,7 +3244,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
+      "description": "Timmy ist fest davon überzeugt, dass die Infrastruktur alles regiert, und ist ein geborener Steinmetz.",
       "stats": [
         "+4 Bergbau",
         "+4 Konstruktion",
@@ -3240,7 +3276,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
+      "description": "In den Augen von Timmy ist Essen Kunst, kulinarischen Kreationen sind unglaublich schön. Gastronomem stellen fast immer Essen her, welches allen schmeckt.",
       "stats": [
         "+4 Kochen",
         "+4 Kunst",
@@ -3270,7 +3306,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
+      "description": "Flora und Fauna sind extrem wichtig für Timmy. Ökologen nutzen alle Teile von Pflanzen und Tieren. Sie schätzen den Segen von Mutter Natur sehr.",
       "stats": [
         "+4 Tiere",
         "+4 Pflanzen",
@@ -3302,7 +3338,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and er will likely convince you if given the chance.",
+      "description": "Timmy hat ein Auge für Silber. Tycoone glauben, dass ihre Produkte die besten Produkte sind und er wird versuchen jeden davon zu überzeugen, wenn Sie die Chance dazu bekommen.",
       "stats": [
         "+4 Sozial",
         "+4 Handwerk",
@@ -3332,7 +3368,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
+      "description": "Timmy ist seltsamerweise hyperkoagulierend und blutet viel langsamer als die meisten anderen.",
       "stats": [],
       "conflicts": [
         "thinskinned"
@@ -3358,7 +3394,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
+      "description": "Timmy ist seltsamerweise hämophil und neigt dazu, viel stärker zu bluten als andere.",
       "stats": [],
       "conflicts": [
         "thickskinned"
@@ -3384,7 +3420,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
+      "description": "Timmy hat Probleme, sich auszudrücken bis es zu spät ist. Danach kommt es zu einem völligen Zusammenbruch.",
       "stats": [],
       "conflicts": [
         "iron-willed",
@@ -3416,7 +3452,7 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. er will prefer fishing above other activities.",
+      "description": "Timmy genießt die Einsamkeit und Ruhe, die langen Angelstunden bieten. er wird das Angeln vor anderen Aktivitäten bevorzugen.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false,
@@ -5735,6 +5771,132 @@
       },
       "defName": "VRE_Distressed",
       "name": "distressed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Ein strenges Prinzip der Gewaltlosigkeit, das für alle Lebewesen gilt.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Memes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AM_Ahimsa",
+      "name": "gelübdedergewaltlosigkeit"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1,
+      "description": "Timmy hasst und misstraut Xenos. er sieht in ihnen kaum mehr als Tiere.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1,
+      "description": "Timmy denkt, dass Außerirdische exotisch und interessant sind. er würde sie gern näher kennen lernen und hätte nichts dagegen Beziehungen mit ihnen aufzubauen.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Xenophobia",
+      "name": "xenophil"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a passion for gardening and smokeleaf. er gets a mood bonus for every plant er sows.",
+      "stats": [
+        "+5 Pflanzen",
+        "+15% Geschwindigkeit alle Arbeiten"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+5 Pflanzen",
+          "+15% Geschwindigkeit alle Arbeiten"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Smokeleaf Industry Reborn",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SmokeleafFarmer",
+      "name": "smokeleaffarmer"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a high tolerance for smokeleaf. er rarely suffers any withdrawal effects.",
+      "stats": [
+        "Drogenexzess mental state disabled.",
+        "Drogenexzess mental state disabled.",
+        "Fressattacke mental state disabled.",
+        "-10% Nervenbelastungsgrenze"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Drogenexzess mental state disabled.",
+          "Drogenexzess mental state disabled.",
+          "Fressattacke mental state disabled.",
+          "-10% Nervenbelastungsgrenze"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Smokeleaf Industry Reborn",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Stoner",
+      "name": "stoner"
     }
   ],
   "races": [
@@ -5759,33 +5921,6 @@
       "enabled": true,
       "name": "Mensch",
       "price": 1000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+70.00 Gewicht",
-          "+100% Entflammbarkeit",
-          "-60.0C Niedrigste Wohlfühltemperatur",
-          "+200.0C Höchste Wohlfühltemperatur",
-          "+0% Mentale Sensibilität",
-          "+0% Giftresistenz",
-          "+0 Fleischmenge",
-          "+0 Ledermenge",
-          "+0 Tragekapazität",
-          "+0.00% Sozialer Eindruck",
-          "+0.0% Rüstung - Wucht",
-          "+0.0% Rüstung - Schnitt",
-          "+0.0% Rüstung - Hitze"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Ein Zombie",
-      "defName": "Zombie",
-      "enabled": false,
-      "name": "Zombie",
-      "price": 1
     }
   ]
 }

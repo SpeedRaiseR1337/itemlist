@@ -12,6 +12,54 @@
     "version": "10.0.1"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1242.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell und contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M1",
+    "steamId": "2527258500",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "1-2-3 Personalities M1 - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M2",
+    "steamId": "2781023972",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "1-2-3 Personalities M2 - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "spoonshortage",
     "name": "A Dog Said... Animal Prosthetics",
     "steamId": null,
@@ -33,7 +81,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.7.3.0"
+    "version": "3.8.2.0"
   },
   {
     "author": "Hey my team rules!",
@@ -60,6 +108,54 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki und Taranchuk",
+    "name": "Vanilla Books Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Smash Phil",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.8315.17730"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson und Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Helixien, Cassie, Luizi und Allie",
+    "name": "Alpha Memes",
+    "steamId": "2661356814",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Alpha Memes - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Animal Tab",
     "steamId": "712141500",
@@ -68,6 +164,18 @@
   {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Autocleaner",
+    "steamId": "2051042827",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Autocleaner - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -114,18 +222,6 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki und Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.4.8315.17730"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson und Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van und Reann Shepard",
     "name": "Vanilla Psycasts Expanded",
     "steamId": "2842502659",
@@ -154,6 +250,18 @@
     "name": "BetterInfoCard",
     "steamId": "2890920739",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.5.0"
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Aleyck",
@@ -186,6 +294,12 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Brighter Blood (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Uuugggg",
     "name": "Build From Inventory",
     "steamId": "1691419062",
@@ -194,6 +308,12 @@
   {
     "author": "sisco",
     "name": "Buildable Terrain v1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Katinka1988",
+    "name": "Buildable Terrain v1 - DE",
     "steamId": null,
     "version": null
   },
@@ -228,6 +348,24 @@
     "version": "2.1.3.0"
   },
   {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Cannibal Meals (VGP required)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "iforgotmysocks",
     "name": "Caravan Adventures",
     "steamId": "2558957509",
@@ -236,6 +374,18 @@
   {
     "author": "JovianPug",
     "name": "Caravan Lag Eliminator",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Cash Register - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -274,6 +424,60 @@
     "name": "Conduit Deconstruct",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Gastronomy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.4.4"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius und Hazzer",
+    "name": "Locks",
+    "steamId": "1157085076",
+    "version": "2.8.2"
+  },
+  {
+    "author": "Avius und Hazzer",
+    "name": "Prison Labor",
+    "steamId": "1899474310",
+    "version": "1.4.0"
   },
   {
     "author": "Mlie",
@@ -336,6 +540,12 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Death Rattle [1.4] - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Coalcat und sumghai",
     "name": "Defensive Machine Gun Turret Pack",
     "steamId": null,
@@ -346,18 +556,6 @@
     "name": "Desire Paths",
     "steamId": "2072410063",
     "version": "0.8.102"
-  },
-  {
-    "author": "Mehni",
-    "name": "More Faction Interaction (Continued)",
-    "steamId": "2379076640",
-    "version": "1.4.4"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Vectorial1024",
@@ -480,6 +678,36 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Katinka1988",
+    "name": "Dubs Skylights - DE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NanoCE",
+    "name": "Glass+Lights",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BJR1984",
+    "name": "Dubs Skylights Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Katinka1988",
+    "name": "Dubs Skylights Addon - DE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChMMoU",
+    "name": "EdB Prepare Carefully [German Translation]",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": null,
@@ -546,10 +774,16 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki und Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
+    "author": "telardo",
+    "name": "Fireworks",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Fireworks - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Hazzer",
@@ -606,14 +840,8 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy",
+    "author": "Erdnussbrot",
+    "name": "Gastronomy - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -636,12 +864,6 @@
     "version": null
   },
   {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.5.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Toggleable Overlays",
     "steamId": "2608654598",
@@ -654,10 +876,22 @@
     "version": "1.4"
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Glass+Lights - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Albion",
     "name": "Go Explore!",
     "steamId": "1814100216",
     "version": "1.1.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Go Explore! - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Khorbos",
@@ -697,9 +931,57 @@
   },
   {
     "author": "Adamas",
+    "name": "Hospital",
+    "steamId": "2992224079",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "OskarPotocki, Atlas und Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Casino",
+    "steamId": "2939292644",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Hospitality Casino - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
     "name": "Hospitality: Spa",
     "steamId": "",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Storefront",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Hospitality: Storefront - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Vending machines",
+    "steamId": "3014885065",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ElfeCenwen91",
+    "name": "Humanoid Alien Races Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "aRandomKiwi",
@@ -756,6 +1038,18 @@
     "version": "1.1.2.0"
   },
   {
+    "author": "Kikohi",
+    "name": "Jewelry",
+    "steamId": "2020964421",
+    "version": "1.4.3.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Jewelry - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Just Ignore Me Passing",
     "steamId": null,
@@ -786,6 +1080,18 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha, legodude17 und ISOREX",
+    "name": "Vanilla Furniture Expanded - Architect",
+    "steamId": "2608762624",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Keshash",
+    "name": "Layered Wall Destruction",
+    "steamId": "3024527775",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "krafs",
     "name": "Level Up!",
     "steamId": "1701592470",
@@ -804,34 +1110,16 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Live With The Pain",
+    "steamId": "2659985388",
+    "version": "1.4.2"
+  },
+  {
     "author": "Smash Phil",
     "name": "Loading In Progress",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell und contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Avius und Hazzer",
-    "name": "Locks",
-    "steamId": "1157085076",
-    "version": "2.8.2"
   },
   {
     "author": "Lanilor und Pustalorc",
@@ -843,7 +1131,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.13.0.0"
+    "version": "1.14.3.0"
   },
   {
     "author": "legodude17 und Oskar Potocki",
@@ -856,6 +1144,42 @@
     "name": "Mad Skills",
     "steamId": "731111514",
     "version": "2.6.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Mad Skills - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "plaxen",
+    "name": "Malang Face ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "plaxen",
+    "name": "Malang Face add-on: Biotech Gene expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "plaxen",
+    "name": "Malang More Faces: Another",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "BaliStar",
+    "name": "Malang More Faces: Trait",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Map Preview",
+    "steamId": "2800857642",
+    "version": "1.12.6.0"
   },
   {
     "author": "NoImageAvailable",
@@ -894,16 +1218,22 @@
     "version": null
   },
   {
-    "author": "Vectorial1024",
-    "name": "Elite Bionics Framework",
-    "steamId": "1665403571",
-    "version": "2.0.0.0"
-  },
-  {
     "author": "Kikohi und Trunken",
     "name": "Cybernetic Organism and Neural Network",
     "steamId": "2045064990",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Victorique, Aurani und Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "JonM0",
@@ -939,7 +1269,7 @@
     "author": "Oskar Potocki, Taranchuk und Chowder",
     "name": "Vanilla Traits Expanded",
     "steamId": "2296404655",
-    "version": "1.0.0.1"
+    "version": "1.4.1.0"
   },
   {
     "author": "Rainbeau Flambe (original), Kiame Vivacity und Taranchuk",
@@ -954,10 +1284,28 @@
     "version": null
   },
   {
+    "author": "Papito",
+    "name": "Medicines+ 1.4",
+    "steamId": "2878860499",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Medicines+ 1.4 - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "NotFood",
     "name": "MendAndRecycle",
     "steamId": "735241897",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "MendAndRecycle - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "erdelf",
@@ -968,6 +1316,12 @@
   {
     "author": "Haplo",
     "name": "Misc. MapGen FactionBase",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Cannibal and Insect Meals",
     "steamId": null,
     "version": null
   },
@@ -1066,24 +1420,6 @@
     "name": "More Harvest Designators!",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki und Taranchuk",
-    "name": "Vanilla Books Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
-    "name": "Vanilla Ideology Expanded - Memes and Structures",
-    "steamId": "2636329500",
-    "version": "1.0.0.0"
   },
   {
     "author": "purpleyam",
@@ -1278,20 +1614,14 @@
     "version": null
   },
   {
-    "author": "busted_bunny",
-    "name": "Prisoners Are Not Swines",
+    "author": "Erdnussbrot",
+    "name": "Prison Labor - Deutsch",
     "steamId": null,
     "version": null
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.4.1242.0"
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
+    "author": "busted_bunny",
+    "name": "Prisoners Are Not Swines",
     "steamId": null,
     "version": null
   },
@@ -1306,6 +1636,30 @@
     "name": "Psychology (unofficial) v1.1-1.4",
     "steamId": "2016263135",
     "version": "1.0.7"
+  },
+  {
+    "author": "kyeugh (urhähnchen)",
+    "name": "Q's Biotech Patches",
+    "steamId": "2881755109",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Q's Biotech Patches - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "KongMD",
+    "name": "Questionable Ethics Enhanced (Continued)",
+    "steamId": "2850854272",
+    "version": "1.4.3"
+  },
+  {
+    "author": "jeonggihun",
+    "name": "QEE retexture",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "legodude17",
@@ -1336,12 +1690,6 @@
     "name": "QualitySurgeon",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "KongMD",
-    "name": "Questionable Ethics Enhanced (Continued)",
-    "steamId": "2850854272",
-    "version": "1.4.2"
   },
   {
     "author": "Sandy",
@@ -1410,20 +1758,8 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "Oskar Potocki, xrushha, legodude17 und ISOREX",
-    "name": "Vanilla Furniture Expanded - Architect",
-    "steamId": "2608762624",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Owlchemist",
     "name": "Simple Utilities: Wall",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "OskarPotocki, Atlas und Kikohi",
-    "name": "Vanilla Furniture Expanded",
     "steamId": null,
     "version": null
   },
@@ -1458,6 +1794,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "VinaLx und Owlchemist",
+    "name": "ResearchPowl",
+    "steamId": "2877856030",
+    "version": "1.4"
+  },
+  {
     "author": "Mlie",
     "name": "Resource Generator",
     "steamId": "2747511650",
@@ -1473,6 +1815,30 @@
     "author": "Cabbage",
     "name": "RimCities",
     "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "RimHUD - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "yrtwof",
+    "name": "Rimpedia",
+    "steamId": "2145524536",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "Universum",
+    "steamId": "2920558019",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "RimNauts 2",
+    "steamId": "2880599514",
     "version": "1.0.0.0"
   },
   {
@@ -1500,10 +1866,16 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Rimpedia - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Loconeko",
     "name": "Roads of the Rim (Continued)",
     "steamId": "2280318231",
-    "version": "1.4.4"
+    "version": "1.4.5"
   },
   {
     "author": "Dubwise",
@@ -1532,6 +1904,24 @@
   {
     "author": "Jacob und Taranchuk",
     "name": "Save Maps (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
+    "name": "Vanilla Brewing Expanded",
+    "steamId": "2186560858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson, Chowder und Trahspanda",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas",
     "steamId": null,
     "version": null
   },
@@ -1608,6 +1998,12 @@
     "version": "1.4"
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Simple Utilities: Ceiling - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
@@ -1650,10 +2046,40 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Mlie",
+    "name": "Smarter Visitors",
+    "steamId": "3012491521",
+    "version": "1.4.3"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Smokeleaf Industry Reborn",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Weilbyte",
     "name": "Snap Out!",
     "steamId": "1319782555",
     "version": "0.8.1"
+  },
+  {
+    "author": "Nandonalt und Tejko",
+    "name": "Snowy Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Spidercamp",
+    "name": "Spidercamp's Dog Pack (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tausret",
+    "name": "Spidercamp's Dog Pack (Continued) Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Linkolas",
@@ -1674,10 +2100,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Subsurface Conduit - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "ChJees",
     "name": "Supreme Melee (Continued)",
     "steamId": "2311299987",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "author": "Uuugggg",
@@ -1746,22 +2178,16 @@
     "version": null
   },
   {
+    "author": "Tausret",
+    "name": "Tilled Soil Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Owlchemist",
     "name": "Toggleable Readouts",
     "steamId": "2661792499",
     "version": "1.4"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "nry",
@@ -1774,6 +2200,24 @@
     "name": "Twitch Toolkit",
     "steamId": "3013874066",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.4.1"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitPolls",
+    "steamId": "2435838514",
+    "version": "1.1.1.7"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.5.0"
   },
   {
     "author": "SirRandoo",
@@ -1792,6 +2236,12 @@
     "name": "TradeHelper",
     "steamId": "2113372560",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Trader Ships - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "José Ángel Soler Ortiz",
@@ -1818,16 +2268,16 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes (Unofficial)",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "MarvinKosh",
     "name": "Ugh You Got Me",
     "steamId": "1542424705",
     "version": "1.0.8325.19264"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.0"
   },
   {
     "author": "Grimm",
@@ -1836,14 +2286,8 @@
     "version": null
   },
   {
-    "author": "dismarzero",
-    "name": "VGP Vegetable Garden",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dismarzero",
-    "name": "VGP Garden Gourmet",
+    "author": "Erdnussbrot",
+    "name": "Universum - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -1860,14 +2304,26 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, xrushha und SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Apparel Expanded - Accessories - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Trunken",
     "name": "Vanilla Apparel Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, xrushha und SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
+    "author": "Erdnussbrot",
+    "name": "Vanilla Apparel Expanded - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -1878,8 +2334,56 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki und Legodude17",
+    "name": "Vanilla Backstories Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Backstories Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Kikohi und Oskar Potocki",
     "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "triestar1",
+    "name": "Vanilla Books Expanded Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Brewing Expanded - Coffees and Teas Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Cooking Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Brewing Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Chemfuel Expanded - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -1890,10 +2394,28 @@
     "version": null
   },
   {
+    "author": "Sarg Bjornson und Oskar Potocki",
+    "name": "Vanilla Cooking Expanded - Sushi",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Cooking Expanded - Sushi Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Kikohi und Helixien",
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Events Expanded - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, AveryTheKitty und Taranchuk",
@@ -1944,8 +2466,26 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Expanded Framework - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Fishing Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Sarg Bjornson",
     "name": "Vanilla Fishing Expanded - Fishing Treasures AddOn",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Architect - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -1956,8 +2496,50 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Art Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, dninemfive und Kikohi",
+    "name": "Vanilla Furniture Expanded - Farming",
+    "steamId": "1957158779",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Farming Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki, Atlas und Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Medical Module Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Power Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Production Deutsch",
     "steamId": null,
     "version": null
   },
@@ -1968,8 +2550,44 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Security Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "OskarPotocki, Atlas und Kikohi",
     "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Furniture Expanded - Spacer Module Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg, erdelf, Oskar Potocki, Luizi und Reann Shepard",
+    "name": "Vanilla Genetics Expanded",
+    "steamId": "2801160906",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Genetics Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Vanilla Genetics Expanded - More Lab Stuff",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Genetics Expanded- More Lab Stuff - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -1978,6 +2596,24 @@
     "name": "Vanilla Hair Expanded",
     "steamId": "1888705256",
     "version": "1.0.3"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Helixien Gas Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und xrushha",
+    "name": "Vanilla Ideology Expanded - Hats and Rags",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha und b0tch",
+    "name": "Vanilla Ideology Expanded - Hats and Rags - Deutsche Übersetzung",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki und Sarg Bjornson",
@@ -1998,10 +2634,34 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Sarg Bjornson, legodude17 und b0tch",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts - Deutsche Übersetzung",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Taranchuk",
     "name": "Vanilla Ideology Expanded - Splits and Schisms",
     "steamId": "2573138902",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Ideology Expanded - Splits and Schisms - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Nutrient Paste Expanded - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Kiame Vivacity",
@@ -2016,8 +2676,44 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Outposts Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Plants Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson und Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Plants Expanded - More Plants - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Alestria",
     "name": "Vanilla Plants Expanded - Succulents",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Plants Expanded - Succulents Deutsch",
     "steamId": null,
     "version": null
   },
@@ -2034,6 +2730,12 @@
     "version": "1.1.0.0"
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Android - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Sarg Bjornson",
     "name": "Vanilla Races Expanded - Custom Icons",
     "steamId": null,
@@ -2044,6 +2746,12 @@
     "name": "Vanilla Races Expanded - Genie",
     "steamId": "2901424072",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Genie - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Taranchuk und Sarg Bjornson",
@@ -2058,10 +2766,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Hussar - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van und Reann Shepard",
     "name": "Vanilla Races Expanded - Phytokin",
     "steamId": "2927323805",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Phytokin - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson und Erin",
@@ -2070,10 +2790,22 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Sanguophage - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Neronix17",
     "name": "Vanilla Races Expanded - Saurid",
     "steamId": "2880990495",
     "version": "1.0.8553.21418"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Saurid - Deutsch",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki und Sarg Bjornson",
@@ -2082,10 +2814,28 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Skills Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und Taranchuk",
     "name": "Vanilla Social Interactions Expanded",
     "steamId": "2439736083",
     "version": "1.0.0.1"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Social Interactions Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Legondas",
+    "name": "Vanilla Storytellers Expanded Deutsche Übersetzung",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "bradson und harkon",
@@ -2106,12 +2856,6 @@
     "version": null
   },
   {
-    "author": "Nals",
-    "name": "[NL] Facial Animation - WIP",
-    "steamId": "1635901197",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oracle of Thessia",
     "name": "Vanilla Textures Expanded - [NL] Facial Animation",
     "steamId": null,
@@ -2130,14 +2874,38 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Traits Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Smash Phil",
     "name": "Vehicle Framework",
     "steamId": "3014915404",
-    "version": "1.5.1356"
+    "version": "1.5.1368"
   },
   {
     "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk und Reann Shepard",
     "name": "Vanilla Vehicles Expanded",
+    "steamId": "3014906877",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Vehicles Expanded - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Coilguns Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -2148,14 +2916,50 @@
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Grenades Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17",
     "name": "Vanilla Weapons Expanded - Heavy - Reloading Patch",
     "steamId": null,
     "version": null
   },
   {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Heavy Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Laser Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki und SmashPhil",
     "name": "Vanilla Weapons Expanded - Makeshift",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Makeshift Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Weapons Expanded - Quickdraw Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vehicle Framework - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -2172,6 +2976,12 @@
     "version": null
   },
   {
+    "author": "qhil",
+    "name": "Wall Light - Deutsche Übersetzung",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "zzz",
     "name": "Wall Vitals Monitor",
     "steamId": null,
@@ -2182,6 +2992,18 @@
     "name": "War Crimes Expanded 2 Core",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Crustypeanut und Mersid",
+    "name": "War Crimes Expanded 2 Core (Updated)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sl4vP0weR",
+    "name": "We Are United",
+    "steamId": "3030804445",
+    "version": "1.0.0+8ffbc2c2cc8950f3a7d4ccc37b1c47da38715848"
   },
   {
     "author": "Uuugggg",
@@ -2232,12 +3054,6 @@
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Zombieland",
-    "steamId": "928376710",
-    "version": "4.2.5.0"
-  },
-  {
     "author": "CopperMonster",
     "name": "[CM] Biotech DLC Texture Upscale",
     "steamId": null,
@@ -2262,22 +3078,10 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Indoor Tree Farms",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Oskar Potocki, dninemfive und Kikohi",
-    "name": "Vanilla Furniture Expanded - Farming",
-    "steamId": "1957158779",
-    "version": "1.0.1.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -2328,12 +3132,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg, erdelf, Oskar Potocki, Luizi und Reann Shepard",
-    "name": "Vanilla Genetics Expanded",
-    "steamId": "2801160906",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Complex Jobs",
     "steamId": null,
@@ -2346,6 +3144,24 @@
     "version": null
   },
   {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tausret",
+    "name": "[WD] Expanded Floors Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "XeoNovaDan",
+    "name": "[XND] Visible Pants",
+    "steamId": "2264108215",
+    "version": "2.4"
+  },
+  {
     "author": "Mlie",
     "name": "[sd] Bridges (Continued)",
     "steamId": null,
@@ -2356,23 +3172,5 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2421"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes (Unofficial)",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.4.1"
-  },
-  {
-    "author": "VinaLx und Owlchemist",
-    "name": "ResearchPowl",
-    "steamId": "2877856030",
-    "version": "1.4"
   }
 ]
