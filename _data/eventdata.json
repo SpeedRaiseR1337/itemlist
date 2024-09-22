@@ -329,9 +329,9 @@
   },
   "alphabeavers": {
     "EventType": "Default",
-    "HasGlobalCooldown": false,
+    "HasGlobalCooldown": true,
     "HasLocalCooldown": false,
-    "GlobalCooldown": 0,
+    "GlobalCooldown": 500,
     "LocalCooldown": 0,
     "Mod": "Twitch Toolkit"
   },
@@ -362,9 +362,9 @@
   "raid": {
     "EventType": "Default",
     "HasGlobalCooldown": true,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 240,
-    "LocalCooldown": 0,
+    "LocalCooldown": 240,
     "Mod": "Twitch Toolkit"
   },
   "dropraid": {
