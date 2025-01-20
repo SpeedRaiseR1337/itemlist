@@ -18,6 +18,30 @@
     "version": "2.7.4"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.5.8928.40486"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -28,6 +52,18 @@
     "name": "All Memories Fade",
     "steamId": "2800155563",
     "version": "1.5.1"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids for RW 1.5",
+    "steamId": "2889326293",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Peptide",
+    "name": "Androids Expanded for RW 1.5",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ekksu / Xen / Cucumpear / Thirite / Whizzard / Lindseyrie / Walking Problem",
@@ -84,6 +120,18 @@
     "version": "3.14.109"
   },
   {
+    "author": "Fuu Chan",
+    "name": "Auto Strip on Haul",
+    "steamId": "2560725133",
+    "version": "2.0.0.0"
+  },
+  {
+    "author": "Ornament",
+    "name": "AutoDye",
+    "steamId": "2563707717",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Autocleaner",
     "steamId": "2051042827",
@@ -98,6 +146,12 @@
   {
     "author": "Neceros",
     "name": "Bad Can Be Good (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
     "steamId": null,
     "version": null
   },
@@ -126,28 +180,10 @@
     "version": null
   },
   {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Creeper",
     "name": "BetterInfoCard",
     "steamId": "2890920739",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.7.0+a8dff1767e55559fe64dec1b3aca5c261ee366c9"
-  },
-  {
-    "author": "m00nl1ght-dev",
-    "name": "Biome Transitions",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -162,6 +198,12 @@
     "version": null
   },
   {
+    "author": "Fluffy",
+    "name": "Blueprints",
+    "steamId": "708455313",
+    "version": "2.17.133"
+  },
+  {
     "author": "Uuugggg",
     "name": "Build From Inventory",
     "steamId": "1691419062",
@@ -170,6 +212,12 @@
   {
     "author": "sisco",
     "name": "Buildable Terrain v1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Devdisigdu",
+    "name": "Bulk Components",
     "steamId": null,
     "version": null
   },
@@ -192,6 +240,24 @@
     "version": "3.2.0.0"
   },
   {
+    "author": "dismarzero",
+    "name": "VGP Vegetable Garden",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Gourmet",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Cannibal Meals (VGP required)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "Chill the F*** Out",
     "steamId": "2880668727",
@@ -204,20 +270,8 @@
     "version": "1.5"
   },
   {
-    "author": "KapTaiN_KaVerN",
-    "name": "Colorblind Friendly Charts",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "tiagocc0",
     "name": "Colorblind Minerals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Naka",
-    "name": "Colorblind Mod for Joh",
     "steamId": null,
     "version": null
   },
@@ -228,10 +282,40 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Cash Register",
-    "steamId": "2506046833",
-    "version": "1.5.0.3"
+    "author": "Canon",
+    "name": "Crowns and Regalia",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Custom Prisoner Interactions",
+    "steamId": "2841231775",
+    "version": "1.5.8"
+  },
+  {
+    "author": "民火",
+    "name": "Cut plants before building (Continued)",
+    "steamId": "3286376165",
+    "version": "1.5.2"
+  },
+  {
+    "author": "Georodin",
+    "name": "DDI - Deep Drill Indicator",
+    "steamId": "2566736688",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": "2896207870",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Desire Paths (Continued)",
+    "steamId": "3263698071",
+    "version": "1.0.0.0"
   },
   {
     "author": "Mehni",
@@ -244,30 +328,6 @@
     "name": "Hospitality",
     "steamId": "753498552",
     "version": "1.5.0.8"
-  },
-  {
-    "author": "Avius und Hazzer",
-    "name": "Prison Labor",
-    "steamId": "1899474310",
-    "version": "1.4.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Custom Prisoner Interactions",
-    "steamId": "2841231775",
-    "version": "1.5.5"
-  },
-  {
-    "author": "Georodin",
-    "name": "DDI - Deep Drill Indicator",
-    "steamId": "2566736688",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Desire Paths (Continued)",
-    "steamId": "3263698071",
-    "version": "1.0.0.0"
   },
   {
     "author": "Vectorial1024",
@@ -294,6 +354,18 @@
     "version": null
   },
   {
+    "author": "pelador",
+    "name": "Drug Policy Fix (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Drugs+ (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
@@ -303,7 +375,7 @@
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
-    "version": "1.0.8911.30668"
+    "version": "1.0.9113.26296"
   },
   {
     "author": "Dubwise",
@@ -366,6 +438,30 @@
     "version": null
   },
   {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TDS Bug Fixes",
+    "steamId": "2895035527",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "TD Find Lib",
+    "steamId": "2895299310",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Everybody Gets One",
+    "steamId": "1687566130",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Eagle0600",
     "name": "Expandable Plants (Continued)",
     "steamId": null,
@@ -396,6 +492,12 @@
     "version": null
   },
   {
+    "author": "Xavior",
+    "name": "Glitter Tech",
+    "steamId": "2558099206",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "AUTOMATIC",
     "name": "Gunplay",
     "steamId": "2034896549",
@@ -406,6 +508,12 @@
     "name": "Heat Map (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Pravus",
+    "name": "High Tech Laboratory Facilities (Continued)",
+    "steamId": "1542048177",
+    "version": "1.5.0"
   },
   {
     "author": "Adamas",
@@ -433,6 +541,18 @@
   },
   {
     "author": "Adamas",
+    "name": "Hospitality: Spa",
+    "steamId": "2971831654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Cash Register",
+    "steamId": "2506046833",
+    "version": "1.5.0.3"
+  },
+  {
+    "author": "Adamas",
     "name": "Hospitality: Storefront",
     "steamId": "",
     "version": "1.0.0+71bad510a0b3856a501c4e38738bc65cb90b14df"
@@ -448,6 +568,12 @@
     "name": "Hospitality: Vending machines",
     "steamId": "3014885065",
     "version": "1.0.0+854d56e65455bfc88da303f09b722cde2d8bf1dd"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Hunt for Me",
+    "steamId": "1593245720",
+    "version": "3.5.6.0"
   },
   {
     "author": "Vambypants",
@@ -510,6 +636,24 @@
     "version": null
   },
   {
+    "author": "Mlie",
+    "name": "Live With The Pain",
+    "steamId": "2659985388",
+    "version": "1.5.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius und Hazzer",
+    "name": "Locks",
+    "steamId": "1157085076",
+    "version": "2.9.1"
+  },
+  {
     "author": "wazz/carp",
     "name": "MAZ Mass Assign Zone",
     "steamId": null,
@@ -546,6 +690,18 @@
     "version": "1.0.0+c9e8b0a81c7dae5a717c227ec63c3c3a5fd01e23"
   },
   {
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.8838.32721"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. MapGen FactionBase",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
@@ -570,16 +726,16 @@
     "version": null
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Sixdd",
     "name": "Misc. Robots - Haul Urgently Patch",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "EgotisticalElf",
+    "name": "MiscRobots WorkTab support",
+    "steamId": "2271338001",
+    "version": "2.1.22"
   },
   {
     "author": "Krypt",
@@ -588,10 +744,28 @@
     "version": "1.0.0"
   },
   {
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "4loris4",
+    "name": "More Linkables",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kenx00x",
+    "name": "More Max Memes",
+    "steamId": "2552870228",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Zaljerem",
     "name": "Music Manager (Continued)",
     "steamId": "3220120457",
-    "version": "2.4.231"
+    "version": "1.0.3.0"
   },
   {
     "author": "Elv原则",
@@ -600,10 +774,28 @@
     "version": null
   },
   {
+    "author": "Unon",
+    "name": "No Burn Metal",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cucumpear",
+    "name": "No Death Cooties On Armour",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Captain Muscles (Nathan Harbour)",
     "name": "No One Left Behind",
     "steamId": "2879457494",
     "version": "1.1.3"
+  },
+  {
+    "author": "Dave-EEs",
+    "name": "No Random Relations",
+    "steamId": "2583377522",
+    "version": "1.0.0.0"
   },
   {
     "author": "Vesper",
@@ -624,10 +816,28 @@
     "version": null
   },
   {
-    "author": "Erdnussbrot",
-    "name": "Prison Labor - Deutsch",
+    "author": "komunre",
+    "name": "Passive Research",
+    "steamId": "2843607858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Pawn Name Variety",
+    "steamId": "2159633754",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "LingLuo;Alexia",
+    "name": "Plant Human",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "m00nl1ght",
+    "name": "Prepare Landing for 1.5",
+    "steamId": "3221125358",
+    "version": "1.5.0"
   },
   {
     "author": "oBerry",
@@ -639,7 +849,7 @@
     "author": "Neptimus7",
     "name": "Progress Renderer",
     "steamId": "2010777010",
-    "version": "1.5.0"
+    "version": "1.5.2"
   },
   {
     "author": "void",
@@ -654,10 +864,16 @@
     "version": "1.0.7"
   },
   {
-    "author": "legodude17",
-    "name": "Quality Colors",
-    "steamId": "2420141361",
+    "author": "sdknm2",
+    "name": "Quality Of Building",
+    "steamId": "2101676323",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.18"
   },
   {
     "author": "HellRevenger",
@@ -670,6 +886,18 @@
     "name": "RPG Style Inventory Revamped",
     "steamId": "2478833213",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "3.0.0.0"
   },
   {
     "author": "1trickPwnyta",
@@ -696,10 +924,16 @@
     "version": "1.5.0"
   },
   {
+    "author": "Riketta",
+    "name": "Reequip Weapon Upon Recovery",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.5.3"
+    "version": "1.5.5"
   },
   {
     "author": "Uuugggg",
@@ -724,6 +958,12 @@
     "name": "ResearchPowl",
     "steamId": "3236264529",
     "version": "1.5"
+  },
+  {
+    "author": "NIKIDIGI",
+    "name": "Resurrect Enemy Mechanoids",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Cabbage",
@@ -768,6 +1008,18 @@
     "version": "1.5.1"
   },
   {
+    "author": "Roolo und Updated by Ogliss",
+    "name": "RunAndGun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil und Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "2878587061",
+    "version": "1.4.7"
+  },
+  {
     "author": "Neronix17",
     "name": "Seamless Embrasures",
     "steamId": "2290689449",
@@ -782,6 +1034,42 @@
   {
     "author": "Mlie",
     "name": "Silent Doors (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AUTOMATIC",
+    "name": "Trader ships",
+    "steamId": "2046222331",
+    "version": "1.0.350.0854"
+  },
+  {
+    "author": "Oskar Potocki, Smash Phil und Sarg Bjornson",
+    "name": "Vanilla Achievements Expanded",
+    "steamId": "2288125657",
+    "version": "1.4.9133.21782"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken und Sarg",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist und Mlie",
+    "name": "Simple FX: Smoke",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MysticFelines",
+    "name": "Simple FX: Smoke Patches",
     "steamId": null,
     "version": null
   },
@@ -825,13 +1113,19 @@
     "author": "legodude17",
     "name": "Smarter Deconstruction and Mining (Continued)",
     "steamId": "3261302741",
-    "version": "1.5.4"
+    "version": "1.5.5"
   },
   {
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
     "version": "1.5.5"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Smokeleaf Industry Reborn",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Spidercamp",
@@ -846,6 +1140,12 @@
     "version": null
   },
   {
+    "author": "balistafreak",
+    "name": "Stop, Drop, And Roll! [BAL]",
+    "steamId": "2362707956",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Karvinen",
     "name": "Tables+",
     "steamId": null,
@@ -854,6 +1154,12 @@
   {
     "author": "Divinorium",
     "name": "Tainted Renaming",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Qux",
+    "name": "Tattoos Expanded",
     "steamId": null,
     "version": null
   },
@@ -918,16 +1224,16 @@
     "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
   },
   {
+    "author": "Smash Phil",
+    "name": "Trade Ships Drop Spot",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "TimmyLiang",
     "name": "TradeHelper",
     "steamId": "2113372560",
     "version": "0.0.0.0"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Trader ships",
-    "steamId": "2046222331",
-    "version": "1.0.350.0854"
   },
   {
     "author": "Erdnussbrot",
@@ -985,7 +1291,7 @@
   },
   {
     "author": "dismarzero",
-    "name": "VGP Vegetable Garden",
+    "name": "VGP Garden Medicine",
     "steamId": null,
     "version": null
   },
@@ -996,8 +1302,26 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson und Chowder",
-    "name": "Vanilla Cooking Expanded",
+    "author": "Oskar Potocki, xrushha, SmashPhil und legodude17",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Apparel Expanded - Accessories - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Trunken und Sarg",
+    "name": "Vanilla Apparel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Apparel Expanded - Deutsch",
     "steamId": null,
     "version": null
   },
@@ -1086,20 +1410,8 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki und Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Erdnussbrot",
     "name": "Vanilla Furniture Expanded - Power Deutsch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Trunken und Sarg",
-    "name": "Vanilla Furniture Expanded - Production",
     "steamId": null,
     "version": null
   },
@@ -1170,6 +1482,78 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki, Taranchuk, ISOREX und Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Android",
+    "steamId": "2975771801",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Android - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Custom Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Genie",
+    "steamId": "2901424072",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Genie - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk und Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Highmate",
+    "steamId": "2995385834",
+    "version": "1.0.1.0"
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Taranchuk und Sarg",
+    "name": "Vanilla Races Expanded - Hussar",
+    "steamId": "2893586390",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Hussar - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson und Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Sanguophage - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki und Neronix17",
+    "name": "Vanilla Races Expanded - Saurid",
+    "steamId": "2880990495",
+    "version": "1.0.9134.15252"
+  },
+  {
+    "author": "Erdnussbrot",
+    "name": "Vanilla Races Expanded - Saurid - Deutsch",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17 und Oskar Potocki",
     "name": "Vanilla Skills Expanded",
     "steamId": null,
@@ -1196,6 +1580,12 @@
   {
     "author": "Sarg Bjornson",
     "name": "Vanilla Textures Expanded - Variations",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oracle of Thessia",
+    "name": "Vanilla Textures Expanded - [NL] Facial Animation",
     "steamId": null,
     "version": null
   },
@@ -1302,12 +1692,6 @@
     "version": "4.0.6.5399+940962909e038e7f989abb2a2e979e6b0a3338bf"
   },
   {
-    "author": "Odeum",
-    "name": "World Map Beautification Project",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "tk421storm",
     "name": "Zone Message Control",
     "steamId": null,
@@ -1378,6 +1762,12 @@
     "name": "[KV] ReColor Stockpile & Growing Zones",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "KittahKhan",
+    "name": "[Kit] Graze up",
+    "steamId": "2302739121",
+    "version": "1.0.0.0"
   },
   {
     "author": "XeoNovaDan",
