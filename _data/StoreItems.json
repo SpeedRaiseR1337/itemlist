@@ -33,7 +33,7 @@
 	{
 		"abr": "agavenfrüchte",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawAgave"
 	},
 	{
@@ -87,7 +87,7 @@
 	{
 		"abr": "beeren",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Fruits",
 		"defname": "RawBerries"
 	},
 	{
@@ -645,7 +645,7 @@
 	{
 		"abr": "heu",
 		"price": -10,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Hay"
 	},
 	{
@@ -1095,7 +1095,7 @@
 	{
 		"abr": "milch",
 		"price": 3,
-		"category": "Animal products",
+		"category": "Ingredients",
 		"defname": "Milk"
 	},
 	{
@@ -1545,7 +1545,7 @@
 	{
 		"abr": "schokolade",
 		"price": 5,
-		"category": "Foods",
+		"category": "Sweets",
 		"defname": "Chocolate"
 	},
 	{
@@ -1809,7 +1809,7 @@
 	{
 		"abr": "trockenfutter",
 		"price": 2,
-		"category": "Foods",
+		"category": "Animal Feed",
 		"defname": "Kibble"
 	},
 	{
@@ -6103,5 +6103,5 @@
 		"defname": "AIRobot_RechargeStation_MedBot"
 	},
 	],
-	"total": 1950
+	"total": 1881
 }
