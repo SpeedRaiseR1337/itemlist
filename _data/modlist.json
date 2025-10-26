@@ -12,12 +12,6 @@
     "version": "12.0.0"
   },
   {
-    "author": "VouLT",
-    "name": "Better Pawn Control",
-    "steamId": "1541460369",
-    "version": "2.8.0+bf1809ad476a6c900d1097cd6dc00ecea37d8f48"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
@@ -52,6 +46,12 @@
     "name": "Architect Icons",
     "steamId": "1195427067",
     "version": "1.2.0.0"
+  },
+  {
+    "author": "Fuu Chan",
+    "name": "Auto Strip on Haul",
+    "steamId": "2560725133",
+    "version": "2.0.0.0"
   },
   {
     "author": "Ornament",
@@ -180,6 +180,12 @@
     "version": "1.0.23"
   },
   {
+    "author": "We're in Heaven",
+    "name": "Colony Manager Fork",
+    "steamId": "3262932412",
+    "version": "1.6"
+  },
+  {
     "author": "tiagocc0",
     "name": "Colorblind Minerals",
     "steamId": null,
@@ -198,6 +204,18 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Vectorial1024",
+    "name": "Elite Bionics Framework",
+    "steamId": "1665403571",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Victorique, Aurani and Tarojun",
+    "name": "Expanded Prosthetics and Organ Engineering - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "cat2002 - Troopersmith1 - Linq- deathrat",
     "name": "Death Rattle Continued [1.2+]",
     "steamId": "2896207870",
@@ -208,6 +226,12 @@
     "name": "Do Your F****** Research",
     "steamId": "3523205869",
     "version": "1.0.4"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Down For Me",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -264,6 +288,12 @@
     "version": null
   },
   {
+    "author": "Cocaine™",
+    "name": "Electric Stonecutting Table",
+    "steamId": "1649368867",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
@@ -286,6 +316,18 @@
     "name": "Everybody Gets One - Continued",
     "steamId": "",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Wemd",
+    "name": "Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "gilie90",
+    "name": "Female Apparel for Beautiful Bodies",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "telardo",
@@ -322,6 +364,24 @@
     "name": "Gradient Hair",
     "steamId": "1687053679",
     "version": "1.0.350.0854"
+  },
+  {
+    "author": "Falconne / Syrus",
+    "name": "Heat Map (Continued)",
+    "steamId": "2552838384",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospital",
+    "steamId": "2992224079",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.6.4"
   },
   {
     "author": "Orion",
@@ -372,6 +432,12 @@
     "version": null
   },
   {
+    "author": "Jaxe",
+    "name": "Interaction Bubbles",
+    "steamId": "1516158345",
+    "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
+  },
+  {
     "author": "SirKota",
     "name": "InventoryTab",
     "steamId": null,
@@ -380,6 +446,12 @@
   {
     "author": "Mlie",
     "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "vin",
+    "name": "LWM's Adaptive Deep Storage",
     "steamId": null,
     "version": null
   },
@@ -394,6 +466,18 @@
     "name": "LightsOut",
     "steamId": "2584269293",
     "version": "2025.8.10.12"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Avius and Hazzer",
+    "name": "Locks",
+    "steamId": "1157085076",
+    "version": "3.1.2"
   },
   {
     "author": "plaxen",
@@ -444,10 +528,10 @@
     "version": "1.0.0+10343039c8c21606dcf295211da952c4a8de11b1"
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots",
-    "steamId": null,
-    "version": null
+    "author": "erdelf",
+    "name": "MinifyEverything",
+    "steamId": "872762753",
+    "version": "1.0.9359.26061"
   },
   {
     "author": "EgotisticalElf",
@@ -486,6 +570,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Mlie",
+    "name": "No Version Warning",
+    "steamId": "2599504692",
+    "version": "1.6.69"
+  },
+  {
     "author": "Vesper",
     "name": "Not My Fault",
     "steamId": null,
@@ -498,10 +588,22 @@
     "version": null
   },
   {
+    "author": "komunre",
+    "name": "Passive Research",
+    "steamId": "2843607858",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "m00nl1ght",
     "name": "Prepare Landing (Continued)",
     "steamId": "3221125358",
     "version": "1.6.1"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.6.3.3"
   },
   {
     "author": "EdB",
@@ -570,6 +672,18 @@
     "version": "1.6.1"
   },
   {
+    "author": "Uuugggg",
+    "name": "Replace Stuff - Continued",
+    "steamId": "3526354009",
+    "version": "1.0.0+b7d2521092d994bbeec5dd65fa444937a0a77fc2"
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "2.0.3"
+  },
+  {
     "author": "avilmask",
     "name": "Research Whatever",
     "steamId": "2552092060",
@@ -580,6 +694,12 @@
     "name": "ResearchPowl",
     "steamId": "3236264529",
     "version": "1.5+dd83c8cf32440663e15b544c76641d64d829c03c"
+  },
+  {
+    "author": "NIKIDIGI",
+    "name": "Resurrect Enemy Mechanoids",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Jaxe",
@@ -600,6 +720,18 @@
     "version": null
   },
   {
+    "author": "Loconeko",
+    "name": "Roads of the Rim (Continued)",
+    "steamId": "2280318231",
+    "version": "1.6.1"
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "RunAndGun - Continued",
+    "steamId": "",
+    "version": "1.0.0+86ac04642296ca5ffb564b382e0c0ed86c9a15ab"
+  },
+  {
     "author": "Neronix17",
     "name": "Seamless Embrasures",
     "steamId": "2290689449",
@@ -616,6 +748,12 @@
     "name": "Sensible Bed Ownership",
     "steamId": "3328702448",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "BustedPretex",
+    "name": "Show Buildable Material Count",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "AUTOMATIC",
@@ -660,6 +798,12 @@
     "version": "1.6.6.0"
   },
   {
+    "author": "Proxyer",
+    "name": "Small Shelf",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "denev",
     "name": "Smart Turret Covering",
     "steamId": "2636621800",
@@ -688,6 +832,12 @@
     "name": "Sometimes Raids Go Wrong",
     "steamId": "1551336515",
     "version": "1.0.9367.38441"
+  },
+  {
+    "author": "Defi",
+    "name": "Stabilize Bleeding",
+    "steamId": "3521178066",
+    "version": "1.17.0.0"
   },
   {
     "author": "Karvinen",
@@ -912,6 +1062,12 @@
     "version": "1.0.0+b3c7741bad50cdec5bc0316b790daedf753d6ae7"
   },
   {
+    "author": "Orion",
+    "name": "[CAT] Show Hair With Hats or Hide All Hats",
+    "steamId": "2879080074",
+    "version": "0.0.0.0"
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Advanced Bionics Expansion",
     "steamId": null,
@@ -936,16 +1092,22 @@
     "version": "1.1.7359"
   },
   {
+    "author": "TheEyeOfBrows",
+    "name": "Fluffy Breakdowns (1.6 Update)",
+    "steamId": "2584064444",
+    "version": "1.1.6"
+  },
+  {
     "author": "leion247",
     "name": "Misc. Craftable Robots",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Teemo",
-    "name": "Pick Up And Haul 1.6 Forked",
-    "steamId": "3513718710",
-    "version": "1.0.0+10017b3e458f8b0de8b322af6efe8bfcbcfac39a"
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
   },
   {
     "author": "Weilbyte",
@@ -1010,6 +1172,12 @@
   {
     "author": "seobongzu",
     "name": "[sbz] QualityBuilder retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Workbench Shelf",
     "steamId": null,
     "version": null
   }
