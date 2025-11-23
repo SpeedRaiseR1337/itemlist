@@ -5597,6 +5597,72 @@
       },
       "defName": "VME_Elder",
       "name": "elder"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with low-tech equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_LowTechProficiency",
+      "name": "low-techproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with firearm equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_FirearmProficiency",
+      "name": "firearmproficient"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This person is proficient with high-tech equipment.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Progression: Education",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PE_HighTechProficiency",
+      "name": "high-techproficient"
     }
   ],
   "races": [
