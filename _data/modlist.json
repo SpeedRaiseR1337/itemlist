@@ -32,7 +32,7 @@
   {
     "author": "Fluffy",
     "name": "Animal Tab (Continued 1.6)",
-    "steamId": "",
+    "steamId": "3575480305",
     "version": "1.0.0+ae984dfc6e36bd504ce07cb5350c458ed12fb5c4"
   },
   {
@@ -231,7 +231,7 @@
     "author": "Mlie",
     "name": "Smarter Visitors",
     "steamId": "3012491521",
-    "version": "1.6.1"
+    "version": "1.6.2"
   },
   {
     "author": "Karvinen",
@@ -438,12 +438,6 @@
     "version": "1.4.0.0"
   },
   {
-    "author": "Captain Muscles (Original), Khobs, Maxhd4321 and Mr. Wolf (摄魂狼) (Chinese)",
-    "name": "Chill the Fork Out",
-    "steamId": "3523235444",
-    "version": "1.0.23"
-  },
-  {
     "author": "We're in Heaven",
     "name": "Colony Manager Fork",
     "steamId": "3262932412",
@@ -614,7 +608,7 @@
   {
     "author": "Adamas",
     "name": "Hospitality: Storefront",
-    "steamId": "",
+    "steamId": "2952321484",
     "version": "1.0.0+8623404d2dc20701a19f759011c53fdbc50da4bc"
   },
   {
@@ -789,7 +783,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.79"
+    "version": "1.6.92"
   },
   {
     "author": "Vesper",
@@ -807,6 +801,12 @@
     "author": "komunre",
     "name": "Passive Research",
     "steamId": "2843607858",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Taranchuk",
+    "name": "Performance Optimizer",
+    "steamId": "2664723367",
     "version": "1.0.0.0"
   },
   {
@@ -849,7 +849,7 @@
     "author": "esvn",
     "name": "RPG Dialog",
     "steamId": "3547971440",
-    "version": "1.0.0"
+    "version": "1.0.0+843ba23a84cd4914d34a16d52f37fd6cbc55045d"
   },
   {
     "author": "Sandy",
@@ -891,13 +891,13 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.6.3"
+    "version": "1.6.4"
   },
   {
     "author": "Uuugggg",
     "name": "Replace Stuff - Continued",
     "steamId": "3526354009",
-    "version": "1.0.0+5206d2db4c70a1bd02d89e09a28997dd492d736f"
+    "version": "1.0.0+fbb1a8c619cf9209e60dbaf3c61d4fda7e0a717b"
   },
   {
     "author": "Garethp",
@@ -921,7 +921,7 @@
     "author": "Fluffy",
     "name": "Research Tree (Continued)",
     "steamId": "3030499331",
-    "version": "1.6.1"
+    "version": "1.6.5"
   },
   {
     "author": "NIKIDIGI",
@@ -962,8 +962,8 @@
   {
     "author": "MemeGoddess",
     "name": "RunAndGun - Continued",
-    "steamId": "",
-    "version": "1.0.0+f393e96d18206ec36063a8e122aa0d513295ee44"
+    "steamId": "3562365100",
+    "version": "1.0.0+c36e0193afc726f25199a51eb83c611f66e42b71"
   },
   {
     "author": "Neronix17",
@@ -1065,7 +1065,7 @@
     "author": "Uuugggg",
     "name": "TD Enhancement Pack - Continued",
     "steamId": "3525414162",
-    "version": "1.0.0+3dcf7a1d6943d0f1224c831fb673595ab9280fae"
+    "version": "1.0.0+5e5ea73e4106b3e6e4e931b4d91d3744304b8f5c"
   },
   {
     "author": "Qux",

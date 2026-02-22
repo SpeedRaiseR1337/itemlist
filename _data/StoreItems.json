@@ -12501,7 +12501,7 @@
 	{
 		"abr": "suppressionmodule",
 		"price": 417,
-		"category": "Bionic",
+		"category": "Prosthetic",
 		"defname": "FSFImplantBrainSuppression"
 	},
 	{
@@ -14369,7 +14369,31 @@
 		"price": 139,
 		"category": "Furniture",
 		"defname": "Erin_Zaisu"
+	},
+	{
+		"abr": "darklightcampfire",
+		"price": 38,
+		"category": "Temperature",
+		"defname": "VG_DLCampfire"
+	},
+	{
+		"abr": "packagedcarnivoresurvivalmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "MealSurvivalPackMeat"
+	},
+	{
+		"abr": "packagedvegetariansurvivalmeal",
+		"price": 40,
+		"category": "Meals",
+		"defname": "MealSurvivalPackVeg"
+	},
+	{
+		"abr": "over-wallvent(wide)",
+		"price": 97,
+		"category": "Misc",
+		"defname": "Vent_Over2W"
 	}
 	],
-	"total": 2395
+	"total": 2399
 }
